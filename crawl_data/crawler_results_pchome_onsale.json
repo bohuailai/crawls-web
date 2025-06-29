@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-06-28T18:16:47.903452",
+  "timestamp": "2025-06-29T01:11:51.314338",
   "platform": "pchome_onsale",
   "keyword": "pchome_onsale",
   "total_products": 84,
@@ -54,17 +54,17 @@
       "platform": "pchome_onsale"
     },
     {
+      "title": "樂高10323 PAC-MAN 機台",
+      "price": "$6,599",
+      "image_url": "https://img.pchome.com.tw/cs/items/DEDJ11A900GZS2B/000007_1702975011.jpg?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DEDJ11-A900GZS2B",
+      "platform": "pchome_onsale"
+    },
+    {
       "title": "okamoto岡本002水感勁薄保險套(6入裝)x2盒",
       "price": "$568",
       "image_url": "https://img.pchome.com.tw/cs/items/DXAV0G19009JQCV/000007_1737708197.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DXAV0G-19009JQCV",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "1:16 AJ18麥克納姆輪酷炫特技遙控車",
-      "price": "$1,223",
-      "image_url": "https://img.pchome.com.tw/cs/items/DEASMYA900BLVXL/000007_1627374822.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DEASMY-A900BLVXL",
       "platform": "pchome_onsale"
     },
     {
@@ -593,5 +593,5 @@
       "platform": "pchome_onsale"
     }
   ],
-  "crawl_time": "2025-06-28 18:16:47"
+  "crawl_time": "2025-06-29 01:11:51"
 }
