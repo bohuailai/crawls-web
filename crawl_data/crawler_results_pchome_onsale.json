@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-07-30T18:21:28.433429",
+  "timestamp": "2025-07-31T01:09:41.229855",
   "platform": "pchome_onsale",
   "keyword": "pchome_onsale",
   "total_products": 72,
@@ -68,6 +68,13 @@
       "platform": "pchome_onsale"
     },
     {
+      "title": "LEGO 樂高超級瑪利歐系列 71426 吞食花",
+      "price": "$1,572",
+      "image_url": "https://img.pchome.com.tw/cs/items/DEDJ0PA900GQ446/000007_1697014112.jpg?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DEDJ0P-A900GQ446",
+      "platform": "pchome_onsale"
+    },
+    {
       "title": "OPPO Reno 14 Pro 6.83吋 12+512GB",
       "price": "$19,990",
       "image_url": "https://img.pchome.com.tw/cs/items/DYAV4SA900IZMIA/000007_1751291930.jpg?width=480",
@@ -107,13 +114,6 @@
       "price": "$3,800",
       "image_url": "https://img.pchome.com.tw/cs/items/DIBMU1A900HKZ8Y/000007_1750046753.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DIBMU1-A900HKZ8Y",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "LEGO 樂高 76429 分類帽",
-      "price": "$2,299",
-      "image_url": "https://img.pchome.com.tw/cs/items/DEDJ0RA900H4Q62/000007_1708057195.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DEDJ0R-A900H4Q62",
       "platform": "pchome_onsale"
     },
     {
@@ -509,5 +509,5 @@
       "platform": "pchome_onsale"
     }
   ],
-  "crawl_time": "2025-07-30 18:21:28"
+  "crawl_time": "2025-07-31 01:09:41"
 }
