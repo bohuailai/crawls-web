@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-07-31T18:20:46.604250",
+  "timestamp": "2025-08-01T01:16:06.658555",
   "platform": "pchome_onsale",
   "keyword": "pchome_onsale",
   "total_products": 78,
@@ -44,6 +44,13 @@
       "price": "$5,866",
       "image_url": "https://img.pchome.com.tw/cs/items/DMBQ01A900GSFE3/000007_1701310527.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DMBQ01-A900GSFE3",
+      "platform": "pchome_onsale"
+    },
+    {
+      "title": "180x76折疊式戶外露營餐桌",
+      "price": "$1,199",
+      "image_url": "https://img.pchome.com.tw/cs/items/DQCBG1A900GJDXA/000007_1690775584.jpg?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DQCBG1-A900GJDXA",
       "platform": "pchome_onsale"
     },
     {
@@ -107,13 +114,6 @@
       "price": "$418",
       "image_url": "https://img.pchome.com.tw/cs/items/DSAO2O1900J0MUW/000007_1753412924.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DSAO2O-1900J0MUW",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "可全平躺多檔調節透氣休閒折疊躺椅",
-      "price": "$799",
-      "image_url": "https://img.pchome.com.tw/cs/items/DQBU6WA900ITSV1/000007_1748491006.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DQBU6W-A900ITSV1",
       "platform": "pchome_onsale"
     },
     {
@@ -551,5 +551,5 @@
       "platform": "pchome_onsale"
     }
   ],
-  "crawl_time": "2025-07-31 18:20:46"
+  "crawl_time": "2025-08-01 01:16:06"
 }
