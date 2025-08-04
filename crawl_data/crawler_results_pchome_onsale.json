@@ -1,8 +1,8 @@
 {
-  "timestamp": "2025-08-03T18:19:52.243122",
+  "timestamp": "2025-08-04T01:14:15.922716",
   "platform": "pchome_onsale",
   "keyword": "pchome_onsale",
-  "total_products": 83,
+  "total_products": 84,
   "products": [
     {
       "title": "妙管家濃縮洗衣精 (抗菌) 4000g (4入/箱)",
@@ -306,6 +306,13 @@
       "platform": "pchome_onsale"
     },
     {
+      "title": "LG 小銀河雷射4K微型投影機",
+      "price": "$29,900",
+      "image_url": "https://img.pchome.com.tw/cs/items/DPAE8CA900I3I63/000007_1732241102.jpg?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DPAE8C-A900I3I63",
+      "platform": "pchome_onsale"
+    },
+    {
       "title": "OPPO A5 Pro 5G (6GB+128GB)",
       "price": "$4,490",
       "image_url": "https://img.pchome.com.tw/cs/cms/creatives/onsale/ba32d863-fc78-42af-9c66-dd72dafe7de0.jpeg?width=480",
@@ -377,7 +384,7 @@
     },
     {
       "title": "MONTBLANC 萬寶龍經典暢銷皮件 - 任選",
-      "price": "$7,988",
+      "price": "$8,188",
       "image_url": "https://img.pchome.com.tw/cs/items/DICKCKA900HP6B6/000007_1753777372.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DICKCK-A900HP6B6",
       "platform": "pchome_onsale"
@@ -586,5 +593,5 @@
       "platform": "pchome_onsale"
     }
   ],
-  "crawl_time": "2025-08-03 18:19:52"
+  "crawl_time": "2025-08-04 01:14:15"
 }
