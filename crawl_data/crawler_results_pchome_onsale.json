@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-08-15T18:19:15.924525",
+  "timestamp": "2025-08-16T01:02:38.185130",
   "platform": "pchome_onsale",
   "keyword": "pchome_onsale",
   "total_products": 72,
@@ -223,7 +223,7 @@
     },
     {
       "title": "SONY BRAVIA 2II 65吋顯示器",
-      "price": "$29,999",
+      "price": "$29,900",
       "image_url": "https://img.pchome.com.tw/cs/items/DPAD061900J46F1/000007_1754751659.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DPAD06-1900J46F1",
       "platform": "pchome_onsale"
@@ -509,5 +509,5 @@
       "platform": "pchome_onsale"
     }
   ],
-  "crawl_time": "2025-08-15 18:19:15"
+  "crawl_time": "2025-08-16 01:02:38"
 }
