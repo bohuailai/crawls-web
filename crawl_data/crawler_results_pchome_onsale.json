@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-08-24T18:17:56.511147",
+  "timestamp": "2025-08-25T01:05:15.513765",
   "platform": "pchome_onsale",
   "keyword": "pchome_onsale",
   "total_products": 78,
@@ -47,13 +47,6 @@
       "platform": "pchome_onsale"
     },
     {
-      "title": "LE CREUSET 媽咪鍋22cm",
-      "price": "$5,999",
-      "image_url": "https://img.pchome.com.tw/cs/cms/creatives/onsale/79ce22b1-a274-4b77-a073-4e10f8686488.jpeg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DEER0O-A900J1J7K",
-      "platform": "pchome_onsale"
-    },
-    {
       "title": "來復易 防漏安心復健褲 2箱",
       "price": "$2,302",
       "image_url": "https://img.pchome.com.tw/cs/items/DAAU4Y1900IK6EH/000007_1744707098.jpg?width=480",
@@ -79,6 +72,13 @@
       "price": "$10,900",
       "image_url": "https://img.pchome.com.tw/cs/items/DYAJN31900IY3Y8/000007_1754376451.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DYAJN3-1900IY3Y8",
+      "platform": "pchome_onsale"
+    },
+    {
+      "title": "TiANN 鈦安專利萬用鈦砧板(大砧板+中砧板)",
+      "price": "$2,380",
+      "image_url": "https://img.pchome.com.tw/cs/items/DEAGT1A900HXD4Y/000007_1728294230.jpg?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DEAGT1-A900HXD4Y",
       "platform": "pchome_onsale"
     },
     {
@@ -551,5 +551,5 @@
       "platform": "pchome_onsale"
     }
   ],
-  "crawl_time": "2025-08-24 18:17:56"
+  "crawl_time": "2025-08-25 01:05:15"
 }
