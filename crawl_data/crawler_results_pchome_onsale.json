@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-08-27T18:20:00.764414",
+  "timestamp": "2025-08-28T00:59:28.738327",
   "platform": "pchome_onsale",
   "keyword": "pchome_onsale",
   "total_products": 72,
@@ -397,17 +397,24 @@
       "platform": "pchome_onsale"
     },
     {
-      "title": "J-bedtime 舒眠涼爽透氣抗菌乳膠枕頭",
-      "price": "$799",
-      "image_url": "https://img.pchome.com.tw/cs/items/DEEN0D1900IOWLE/000007_1745906104.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DEEN0D-1900IOWLE",
-      "platform": "pchome_onsale"
-    },
-    {
       "title": "PP石墨烯塑崩打卡褲2件",
       "price": "$4,482",
       "image_url": "https://img.pchome.com.tw/cs/cms/creatives/onsale/e891c25e-cf49-49e5-a311-946b10544f15.jpeg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DICI87-A900IT9WQ",
+      "platform": "pchome_onsale"
+    },
+    {
+      "title": "ALLEZ奧莉薇閣 29吋可擴充前開箱",
+      "price": "$3,999",
+      "image_url": "https://img.pchome.com.tw/cs/cms/creatives/onsale/593170f2-32c7-4829-87eb-f74f24a485a8.jpeg?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DIBKCX-A900HJPXS",
+      "platform": "pchome_onsale"
+    },
+    {
+      "title": "J-bedtime 舒眠涼爽透氣抗菌乳膠枕頭",
+      "price": "$799",
+      "image_url": "https://img.pchome.com.tw/cs/items/DEEN0D1900IOWLE/000007_1745906104.jpg?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DEEN0D-1900IOWLE",
       "platform": "pchome_onsale"
     },
     {
@@ -481,13 +488,6 @@
       "platform": "pchome_onsale"
     },
     {
-      "title": "ALLEZ奧莉薇閣 29吋可擴充前開箱",
-      "price": "$3,999",
-      "image_url": "https://img.pchome.com.tw/cs/cms/creatives/onsale/593170f2-32c7-4829-87eb-f74f24a485a8.jpeg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DIBKCX-A900HJPXS",
-      "platform": "pchome_onsale"
-    },
-    {
       "title": "SONY ICD-UX570F 高感度快速充電錄音筆",
       "price": "$3,680",
       "image_url": "https://img.pchome.com.tw/cs/items/DGAF8WA900AE0VV/000007_1612420913.jpg?width=480",
@@ -509,5 +509,5 @@
       "platform": "pchome_onsale"
     }
   ],
-  "crawl_time": "2025-08-27 18:20:00"
+  "crawl_time": "2025-08-28 00:59:28"
 }
