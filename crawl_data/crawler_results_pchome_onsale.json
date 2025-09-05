@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-09-04T18:17:54.372577",
+  "timestamp": "2025-09-05T00:57:57.891526",
   "platform": "pchome_onsale",
   "keyword": "pchome_onsale",
   "total_products": 88,
@@ -41,9 +41,9 @@
     },
     {
       "title": "技嘉16吋i7-RTX5060電競 抽任天堂Switch2",
-      "price": "$34,999",
+      "price": "$35,999",
       "image_url": "https://img.pchome.com.tw/cs/items/DHAVB91900J5P6R/000007_1756892706.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DHAVB9-1900J5P6R",
+      "url": "https://24h.pchome.com.tw/prod/DHAVB9-1900J5LJE",
       "platform": "pchome_onsale"
     },
     {
@@ -621,5 +621,5 @@
       "platform": "pchome_onsale"
     }
   ],
-  "crawl_time": "2025-09-04 18:17:54"
+  "crawl_time": "2025-09-05 00:57:57"
 }
