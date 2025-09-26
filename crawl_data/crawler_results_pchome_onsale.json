@@ -1,8 +1,8 @@
 {
-  "timestamp": "2025-09-25T18:20:10.341827",
+  "timestamp": "2025-09-26T00:58:53.941506",
   "platform": "pchome_onsale",
   "keyword": "pchome_onsale",
-  "total_products": 69,
+  "total_products": 72,
   "products": [
     {
       "title": "倍潔雅 純萃柔感衛生紙(150抽x60包)",
@@ -222,6 +222,13 @@
       "platform": "pchome_onsale"
     },
     {
+      "title": "ROG Xbox Ally X AI電競掌機",
+      "price": "$27,999",
+      "image_url": "https://img.pchome.com.tw/cs/cms/creatives/onsale/3988acc1-eb6f-4e80-a790-45526e4c20d6.jpeg?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DHAS7Y-A900J3BZK",
+      "platform": "pchome_onsale"
+    },
+    {
       "title": "SONY ICD-UX570F 高感度快速充電錄音筆",
       "price": "$3,680",
       "image_url": "https://img.pchome.com.tw/cs/items/DGAF8WA900AE0VV/000007_1612420913.jpg?width=480",
@@ -261,6 +268,13 @@
       "price": "$439",
       "image_url": "https://img.pchome.com.tw/cs/items/DCAP00A9005JX5I/000007_1695443107.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DCAP00-A9005JX5I",
+      "platform": "pchome_onsale"
+    },
+    {
+      "title": "ROG Xbox Ally X AI電競掌機",
+      "price": "$27,999",
+      "image_url": "https://img.pchome.com.tw/cs/cms/creatives/onsale/8bd88303-68a0-4863-999a-a8260dda25aa.jpeg?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DHAS7Y-A900J3BZK",
       "platform": "pchome_onsale"
     },
     {
@@ -390,6 +404,13 @@
       "platform": "pchome_onsale"
     },
     {
+      "title": "ROG Xbox Ally X AI電競掌機",
+      "price": "$27,999",
+      "image_url": "https://img.pchome.com.tw/cs/cms/creatives/onsale/4e514147-65ee-4f47-8984-e356979b00df.jpeg?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DHAS7Y-A900J3BZK",
+      "platform": "pchome_onsale"
+    },
+    {
       "title": "DHC 維他命C+B2(30日份/60粒)(九入組)",
       "price": "$911",
       "image_url": "https://img.pchome.com.tw/cs/items/DDBT7B1900HK4ED/000007_1718177922.jpg?width=480",
@@ -488,5 +509,5 @@
       "platform": "pchome_onsale"
     }
   ],
-  "crawl_time": "2025-09-25 18:20:10"
+  "crawl_time": "2025-09-26 00:58:53"
 }
