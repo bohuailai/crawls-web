@@ -1,12 +1,12 @@
 {
   "platform": "yahoo_rushbuy",
   "keyword": "yahoo_rushbuy",
-  "total_products": 26,
+  "total_products": 27,
   "products": [
     {
       "title": "任天堂Switch2 瑪利歐賽車 主機組合+Switch熱銷遊戲片任選",
       "price": 15980,
-      "image_url": "https://img.yec.tw/zp/MipImages/938D24574F-MIP-695842.jpeg",
+      "image_url": "https://img.yec.tw/zp/MipImages/EE8A2DC77E-MIP-695842.jpeg",
       "url": "https://tw.buy.yahoo.com/activity/onsale/combo?actid=695842",
       "platform": "yahoo_rushbuy"
     },
@@ -116,6 +116,13 @@
       "platform": "yahoo_rushbuy"
     },
     {
+      "title": "(時時樂)Apple AirTag MX532FE/A (一入組)",
+      "price": 788,
+      "image_url": "https://img.yec.tw/zp/MerchandiseImages/4BDFE0DE1A-SP-10302228.jpg",
+      "url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=11089736",
+      "platform": "yahoo_rushbuy"
+    },
+    {
       "title": "【時時樂】(100入) ANDYMAY2 ABS無痕防滑衣架/加厚加粗 OH-T107【曬衣架 衣架 衣櫃架 吊衣架 掛衣架 內衣架】",
       "price": 479,
       "image_url": "https://img.yec.tw/zp/MerchandiseImages/B62BDCDD9B-SP-18709039.jpg",
@@ -186,5 +193,5 @@
       "platform": "yahoo_rushbuy"
     }
   ],
-  "crawl_time": "2025-10-03 00:57:27"
+  "crawl_time": "2025-10-03 06:18:54"
 }
