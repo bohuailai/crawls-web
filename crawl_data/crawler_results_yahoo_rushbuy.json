@@ -53,17 +53,17 @@
       "platform": "yahoo_rushbuy"
     },
     {
-      "title": "MYVEGA麥雪爾 MA優雅氣質真兩件彈性洋裝-共三款",
-      "price": 1177,
-      "image_url": "https://img.yec.tw/zp/MerchandiseImages/f3f5980686-Gd-11756154.jpg",
-      "url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=11756154",
-      "platform": "yahoo_rushbuy"
-    },
-    {
       "title": "MYVEGA麥雪爾 MA時尚百搭造型上衣-共五款任選",
       "price": 950,
       "image_url": "https://img.yec.tw/zp/MerchandiseImages/b1f9af96b1-Gd-11805555.jpg",
       "url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=11805555",
+      "platform": "yahoo_rushbuy"
+    },
+    {
+      "title": "DR.WU超A醇煥顏緊緻精華1.5% 30mL",
+      "price": 999,
+      "image_url": "https://img.yec.tw/zp/MerchandiseImages/8ce4acfaee-Gd-10329361.jpg",
+      "url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=10329361",
       "platform": "yahoo_rushbuy"
     },
     {
@@ -193,5 +193,5 @@
       "platform": "yahoo_rushbuy"
     }
   ],
-  "crawl_time": "2025-10-04 00:54:38"
+  "crawl_time": "2025-10-04 06:21:38"
 }
