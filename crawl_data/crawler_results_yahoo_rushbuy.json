@@ -1,7 +1,7 @@
 {
   "platform": "yahoo_rushbuy",
   "keyword": "yahoo_rushbuy",
-  "total_products": 26,
+  "total_products": 27,
   "products": [
     {
       "title": "Samsung Galaxy Z Fold7 5G 8吋 摺疊手機 (12G/512G)",
@@ -39,10 +39,10 @@
       "platform": "yahoo_rushbuy"
     },
     {
-      "title": "NIKE AIR FORCE 1 07 男運動休閒鞋-白-CW2288111",
-      "price": 2199,
-      "image_url": "https://img.yec.tw/zp/MerchandiseImages/DF2AFD22A8-SP-12978843.jpg",
-      "url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=10390817",
+      "title": "折後$888)MARITHÉ FRANÇOIS GIRBAUD MFG 中性T恤 短袖上衣 短T 多色任選",
+      "price": 888,
+      "image_url": "https://img.yec.tw/zp/MerchandiseImages/1c236747ac-Gd-11792572.jpg",
+      "url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=11792572",
       "platform": "yahoo_rushbuy"
     },
     {
@@ -95,10 +95,10 @@
       "platform": "yahoo_rushbuy"
     },
     {
-      "title": "COACH 經典LOGO斜背帶/斜揹帶(多色供選)",
-      "price": 1799,
-      "image_url": "https://img.yec.tw/zp/MerchandiseImages/bfa03f9a5e-Gd-11679688.jpg",
-      "url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=11679688",
+      "title": "COACH 雙層/大單層卡夾零錢包手拿包(多款均價)",
+      "price": 1785,
+      "image_url": "https://img.yec.tw/zp/MerchandiseImages/7771A44F66-Gd-9268067.jpg",
+      "url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=9268067",
       "platform": "yahoo_rushbuy"
     },
     {
@@ -137,10 +137,17 @@
       "platform": "yahoo_rushbuy"
     },
     {
-      "title": "好傘王 電光黑膠降溫反向自動傘(反向傘/抗UV/防曬/遮陽傘/自動雨傘/摺疊傘降溫)(買1送1)",
+      "title": "(買1送1) 好傘王 電光黑膠降溫反向自動傘(反向傘/抗UV/防曬/遮陽傘/自動雨傘/摺疊傘降溫)",
       "price": 670,
       "image_url": "https://img.yec.tw/zp/MerchandiseImages/EDD83F6706-SP-13614654.jpg",
       "url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=10519695",
+      "platform": "yahoo_rushbuy"
+    },
+    {
+      "title": "輝葉 WULA超有力小沙發 按摩椅 HY-3068A",
+      "price": 19999,
+      "image_url": "https://img.yec.tw/zp/MerchandiseImages/bfc4147f89-Gd-9589352.jpg",
+      "url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=9589352",
       "platform": "yahoo_rushbuy"
     },
     {
@@ -151,7 +158,7 @@
       "platform": "yahoo_rushbuy"
     },
     {
-      "title": "BELLE VIE 純棉紗布日式小毯 / 薄被 (100x150cm) 多功能毯 隨意毯 冷氣毯 居家裝飾",
+      "title": "BELLE VIE 純棉紗布日式小毯 / 薄被 (100x150cm) 專區 多款任選 / 多功能毯 隨意毯 冷氣毯 居家裝飾",
       "price": 599,
       "image_url": "https://img.yec.tw/cl/api/res/1.2/16RSliO030bh4rIdLRITUg--/YXBwaWQ9eXR3bWFsbDtoPTYwMDtxPTEwMDt3PTYwMA--/https://img.yec.tw/fy/f4f0/item/p0923265040730-item-bf8bxf4x1000x1000-m.jpg",
       "url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=p0923265040730",
@@ -186,5 +193,5 @@
       "platform": "yahoo_rushbuy"
     }
   ],
-  "crawl_time": "2025-10-08 00:59:26"
+  "crawl_time": "2025-10-08 06:21:01"
 }
