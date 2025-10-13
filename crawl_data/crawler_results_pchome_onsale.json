@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-12T18:17:38.161190",
+  "timestamp": "2025-10-13T01:04:07.054531",
   "platform": "pchome_onsale",
   "keyword": "pchome_onsale",
   "total_products": 75,
@@ -44,13 +44,6 @@
       "price": "$1,999",
       "image_url": "https://img.pchome.com.tw/cs/items/DXAX69A900IYCA8/000007_1750664985.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DXAX69-A900IYCA8",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "BRITA 愛奴娜濾水壺7芯優惠組",
-      "price": "$2,188",
-      "image_url": "https://img.pchome.com.tw/cs/items/DEAY1T1900J5HV3/000007_1758337695.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DEAY1T-1900J5HV3",
       "platform": "pchome_onsale"
     },
     {
@@ -121,6 +114,13 @@
       "price": "$5,025",
       "image_url": "https://img.pchome.com.tw/cs/items/DEDJ0VA900H4Q9Q/000007_1708054598.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DEDJ0V-A900H4Q9Q",
+      "platform": "pchome_onsale"
+    },
+    {
+      "title": "BRITA 去水垢濾芯9入",
+      "price": "$2,039",
+      "image_url": "https://img.pchome.com.tw/cs/items/DEAY3YA900IZ20A/000007_1750835592.jpg?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DEAY3Y-A900IZ20A",
       "platform": "pchome_onsale"
     },
     {
@@ -530,5 +530,5 @@
       "platform": "pchome_onsale"
     }
   ],
-  "crawl_time": "2025-10-12 18:17:38"
+  "crawl_time": "2025-10-13 01:04:07"
 }
