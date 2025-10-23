@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-22T18:21:36.455554",
+  "timestamp": "2025-10-23T01:01:27.602641",
   "platform": "pchome_onsale",
   "keyword": "pchome_onsale",
   "total_products": 79,
@@ -89,13 +89,6 @@
       "platform": "pchome_onsale"
     },
     {
-      "title": "OKAMURA Sylphy 人體工學椅(日本原裝進口)",
-      "price": "$23,111",
-      "image_url": "https://img.pchome.com.tw/cs/cms/creatives/onsale/1e59381c-5ec3-4b29-b118-ca139883717c.jpeg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DQBJ3C-A900JB3V7",
-      "platform": "pchome_onsale"
-    },
-    {
       "title": "歐萊德 全系列洗髮精1000ml(多款任選)",
       "price": "$1,099",
       "image_url": "https://img.pchome.com.tw/cs/items/DDDS01A900GNS6G/000007_1699345354.jpg?width=480",
@@ -114,6 +107,13 @@
       "price": "$10,900",
       "image_url": "https://img.pchome.com.tw/cs/items/DYAJN31900IL4DR/000007_1749095069.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DYAJN3-1900IL4DR",
+      "platform": "pchome_onsale"
+    },
+    {
+      "title": "OKAMURA Sylphy 人體工學概念椅(白框)",
+      "price": "$23,111",
+      "image_url": "https://img.pchome.com.tw/cs/cms/creatives/onsale/dced74ba-883b-422f-ab1c-2ef6dd291119.jpeg?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DQBJ3C-A900JB16C",
       "platform": "pchome_onsale"
     },
     {
@@ -558,5 +558,5 @@
       "platform": "pchome_onsale"
     }
   ],
-  "crawl_time": "2025-10-22 18:21:36"
+  "crawl_time": "2025-10-23 01:01:27"
 }
