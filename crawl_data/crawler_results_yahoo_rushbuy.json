@@ -1,13 +1,20 @@
 {
   "platform": "yahoo_rushbuy",
   "keyword": "yahoo_rushbuy",
-  "total_products": 26,
+  "total_products": 27,
   "products": [
     {
       "title": "【New Balance】327/500/550/574復古鞋_多款任選(U327CJ/MG/CH/WS327GC/GW500UFW/BB550VTG/WL574FJ2)",
       "price": 1111,
       "image_url": "https://img.yec.tw/zp/MerchandiseImages/87a6a49220-Gd-11829329.jpg",
       "url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=11829329",
+      "platform": "yahoo_rushbuy"
+    },
+    {
+      "title": "【日濢Tsuie】加強版鹿茸黑瑪卡鋅硒 (90顆/包) (黑馬卡 鋅酵母 L-精胺酸幫助提振精神 滋補強身 男女適用)",
+      "price": 588,
+      "image_url": "https://img.yec.tw/zp/MerchandiseImages/30199B4FF1-SP-17604698.jpg",
+      "url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=11189205",
       "platform": "yahoo_rushbuy"
     },
     {
@@ -20,7 +27,7 @@
     {
       "title": "CITIZEN 星辰 wicca 台灣限定 酒桶形吊墜 太陽能女錶 (KP2-566-11R)",
       "price": 3180,
-      "image_url": "https://img.yec.tw/zp/MerchandiseImages/0D4DEB73D8-SP-21225764.jpg",
+      "image_url": "https://img.yec.tw/zp/MerchandiseImages/58B7901ACC-Gd-11830621.jpg",
       "url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=11830621",
       "platform": "yahoo_rushbuy"
     },
@@ -32,9 +39,9 @@
       "platform": "yahoo_rushbuy"
     },
     {
-      "title": "[爆品必搶3件1111]24HRS 網路超人氣無鋼圈內衣 多款任選",
+      "title": "[必搶3件1111]24HRS 網路超人氣無鋼圈內衣 多款任選",
       "price": 520,
-      "image_url": "https://img.yec.tw/zp/MerchandiseImages/B74019BB47-Gd-11654780.jpg",
+      "image_url": "https://img.yec.tw/zp/MerchandiseImages/B938D2C66C-Gd-11654780.jpg",
       "url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=11654780",
       "platform": "yahoo_rushbuy"
     },
@@ -172,19 +179,19 @@
       "platform": "yahoo_rushbuy"
     },
     {
-      "title": "【威瑪舒培】(買1送1) 舒利視金盞花葉黃素膠囊（60顆/盒)",
-      "price": 588,
-      "image_url": "https://img.yec.tw/zp/MerchandiseImages/7E95C5DB61-Gd-11462079.jpg",
-      "url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=11462079",
+      "title": "【葡萄王】認證靈芝60粒x3瓶 (國家認證 有效調節免疫 )",
+      "price": 999,
+      "image_url": "https://img.yec.tw/zp/MerchandiseImages/459c8fd81d-Gd-8835245.jpg",
+      "url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=8835245",
       "platform": "yahoo_rushbuy"
     },
     {
-      "title": "【WEDAR薇達】 金盞花葉黃素x6盒 (網路限定版) 效期 2027/08/20",
+      "title": "【威瑪舒培】(買1送1) 舒利視金盞花葉黃素膠囊（60顆/盒)",
       "price": 869,
-      "image_url": "https://img.yec.tw/zp/MerchandiseImages/4021804a5d-Gd-10270368.jpg",
-      "url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=10270368",
+      "image_url": "https://img.yec.tw/zp/MerchandiseImages/7E95C5DB61-Gd-11462079.jpg",
+      "url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=11462079",
       "platform": "yahoo_rushbuy"
     }
   ],
-  "crawl_time": "2025-10-23 01:01:27"
+  "crawl_time": "2025-10-23 06:21:23"
 }
