@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-08T18:17:12.796761",
+  "timestamp": "2025-11-09T01:04:49.867403",
   "platform": "pchome_onsale",
   "keyword": "pchome_onsale",
   "total_products": 97,
@@ -173,13 +173,6 @@
       "platform": "pchome_onsale"
     },
     {
-      "title": "Stanley 吸管隨手杯2.0",
-      "price": "$1,380",
-      "image_url": "https://img.pchome.com.tw/cs/items/DEBWE9A900H3PUO/000007_1760414571.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DEBWE9-A900H3PUO",
-      "platform": "pchome_onsale"
-    },
-    {
       "title": "羅技G923 模擬賽車方向盤",
       "price": "$8,791",
       "image_url": "https://img.pchome.com.tw/cs/items/DSAR2TA900FB1SN/000007_1690904778.jpg?width=480",
@@ -268,6 +261,13 @@
       "price": "$44,900",
       "image_url": "https://img.pchome.com.tw/cs/items/DYAJJV1900J9BJV/000007_1761642519.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DYAJJV-1900J9BJV",
+      "platform": "pchome_onsale"
+    },
+    {
+      "title": "BRITA 愛奴娜濾水壺+去水垢濾芯13入",
+      "price": "$2,611",
+      "image_url": "https://img.pchome.com.tw/cs/items/DEAY3PA900HNAH0/000007_1720523160.jpg?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DEAY3P-A900HNAH0",
       "platform": "pchome_onsale"
     },
     {
@@ -630,7 +630,7 @@
     {
       "title": "創見 Type-C 512GB 雙頭高速隨身碟",
       "price": "$1,111",
-      "image_url": "https://img.pchome.com.tw/cs/items/DGBN6PA900GAXAT/000007_1683524503.jpg?width=480",
+      "image_url": "https://img.pchome.com.tw/cs/cms/creatives/onsale/305e0cb8-5938-4e4a-921e-86f276d42d7b.png?width=480",
       "url": "https://24h.pchome.com.tw/prod/DGBN6P-A900GAXAT",
       "platform": "pchome_onsale"
     },
@@ -684,5 +684,5 @@
       "platform": "pchome_onsale"
     }
   ],
-  "crawl_time": "2025-11-08 18:17:12"
+  "crawl_time": "2025-11-09 01:04:49"
 }
