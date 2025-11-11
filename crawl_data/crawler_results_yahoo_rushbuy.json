@@ -1,7 +1,7 @@
 {
   "platform": "yahoo_rushbuy",
   "keyword": "yahoo_rushbuy",
-  "total_products": 26,
+  "total_products": 27,
   "products": [
     {
       "title": "(領券再折）【NIKE】 NIKE P-6000 GS 休閒鞋 運動鞋 女/大童 - HV5064101",
@@ -48,7 +48,7 @@
     {
       "title": "【adidas 愛迪達】 STAN SMITH 男/女鞋 (多款任選)",
       "price": 911,
-      "image_url": "https://img.yec.tw/zp/MerchandiseImages/bec48ffe4c-Gd-11827330.jpg",
+      "image_url": "https://img.yec.tw/zp/MerchandiseImages/e8ad8a3041-Gd-11827330.jpg",
       "url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=11827330",
       "platform": "yahoo_rushbuy"
     },
@@ -81,17 +81,24 @@
       "platform": "yahoo_rushbuy"
     },
     {
-      "title": "Zyxel合勤 GS-108B V5 交換器 8埠 Giga 桌上型 乙太網路交換器 鐵殼 Switch",
-      "price": 799,
-      "image_url": "https://img.yec.tw/zp/MerchandiseImages/2f25e45d5a-Gd-11398652.jpg",
-      "url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=11398652",
+      "title": "Zyxel合勤 GS-105B V5 交換器 5埠 Giga 桌上型 乙太網路交換器 鐵殼 Switch",
+      "price": 548,
+      "image_url": "https://img.yec.tw/zp/MerchandiseImages/d5de8cf886-Gd-11398651.jpg",
+      "url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=11398651",
       "platform": "yahoo_rushbuy"
     },
     {
-      "title": "[結帳再享89折]PORTER INTERNATIONAL - 精選手提包/斜背包 均一價 - 原價$3250",
-      "price": 2092,
-      "image_url": "https://img.yec.tw/zp/MerchandiseImages/BBCCD65869-SP-21191666.jpg",
-      "url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=11857721",
+      "title": "SONY索尼 BRAVIA 3 55吋 X1 4K HDR Google TV 顯示器 Y-55S30",
+      "price": 22111,
+      "image_url": "https://img.yec.tw/zp/MerchandiseImages/ABC8533451-SP-18686030.jpg",
+      "url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=11855878",
+      "platform": "yahoo_rushbuy"
+    },
+    {
+      "title": "[今日結帳再享89折]PORTER INTERNATIONAL - 精選斜背包/托特包/手提包 均一價 (多款任選) - 原價$3250",
+      "price": 1958,
+      "image_url": "https://img.yec.tw/zp/MerchandiseImages/839a88d4ec-Gd-11819294.jpg",
+      "url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=11819294",
       "platform": "yahoo_rushbuy"
     },
     {
@@ -137,10 +144,10 @@
       "platform": "yahoo_rushbuy"
     },
     {
-      "title": "MEDIMIX 印度皇室藥草浴美肌皂125g(任選40入)★加碼贈蒂沐蝶洗髮精補充包",
-      "price": 999,
-      "image_url": "https://img.yec.tw/zp/MerchandiseImages/d8950cd615-Gd-11842122.jpg",
-      "url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=11842122",
+      "title": "送100超贈點★3M 新一代單線細滑牙線棒散裝箱購1500支入",
+      "price": 899,
+      "image_url": "https://img.yec.tw/zp/MerchandiseImages/b512c55a2b-Gd-8771253.jpg",
+      "url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=8771253",
       "platform": "yahoo_rushbuy"
     },
     {
@@ -186,5 +193,5 @@
       "platform": "yahoo_rushbuy"
     }
   ],
-  "crawl_time": "2025-11-11 01:02:30"
+  "crawl_time": "2025-11-11 06:20:52"
 }
