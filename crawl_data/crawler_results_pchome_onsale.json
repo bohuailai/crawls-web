@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-11-26T18:17:34.519579",
+  "timestamp": "2025-11-27T01:01:07.047103",
   "platform": "pchome_onsale",
   "keyword": "pchome_onsale",
   "total_products": 80,
   "products": [
     {
       "title": "羅技G Pro X SUPERLIGHT 2 輕量化滑鼠",
-      "price": "$2,725",
+      "price": "$2,825",
       "image_url": "https://img.pchome.com.tw/cs/items/DSAR4SA900IRTPH/000007_1764159286.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DSAR4S-A900IRTPH",
       "platform": "pchome_onsale"
@@ -565,5 +565,5 @@
       "platform": "pchome_onsale"
     }
   ],
-  "crawl_time": "2025-11-26 18:17:34"
+  "crawl_time": "2025-11-27 01:01:07"
 }
