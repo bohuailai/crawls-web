@@ -1,12 +1,12 @@
 {
   "platform": "yahoo_rushbuy",
   "keyword": "yahoo_rushbuy",
-  "total_products": 26,
+  "total_products": 27,
   "products": [
     {
-      "title": "日本LEGEND WALKER 5525-69-29吋 明星商品藍鯨箱(二代)",
+      "title": "日本LEGEND WALKER 5525-69-29吋 明星商品藍鯨箱/前開行李箱(二代)",
       "price": 3911,
-      "image_url": "https://img.yec.tw/zp/MerchandiseImages/4F0E8C0340-Gd-11261426.jpg",
+      "image_url": "https://img.yec.tw/zp/MerchandiseImages/438F2B1F5E-Gd-11261426.jpg",
       "url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=11261426",
       "platform": "yahoo_rushbuy"
     },
@@ -48,8 +48,15 @@
     {
       "title": "MASERATI 瑪莎拉蒂 - 時時樂多品任選",
       "price": 6600,
-      "image_url": "https://img.yec.tw/zp/MerchandiseImages/A715B92FC3-Gd-11219152.jpg",
+      "image_url": "https://img.yec.tw/zp/MerchandiseImages/AEDF37EB5F-Gd-11219152.jpg",
       "url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=11219152",
+      "platform": "yahoo_rushbuy"
+    },
+    {
+      "title": "曼黛瑪璉&瑪登瑪朵 熱銷經典限時開搶 4件1612",
+      "price": 1680,
+      "image_url": "https://img.yec.tw/zp/MerchandiseImages/9557196440-Gd-11874047.jpg",
+      "url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=11874047",
       "platform": "yahoo_rushbuy"
     },
     {
@@ -60,23 +67,23 @@
       "platform": "yahoo_rushbuy"
     },
     {
-      "title": "WMF Belmonte 高身湯鍋 24cm 5.7L",
-      "price": 1212,
-      "image_url": "https://img.yec.tw/zp/MerchandiseImages/b72147a3c2-Gd-11603581.jpg",
-      "url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=11603581",
+      "title": "TIGER虎牌 (買1送1) 超輕量手提隨行旋蓋不鏽鋼保溫杯480ml(MEA-B048+MEA-A048)",
+      "price": 799,
+      "image_url": "https://img.yec.tw/zp/MerchandiseImages/BF31827ED2-Product-33444037.jpg",
+      "url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=10792154",
       "platform": "yahoo_rushbuy"
     },
     {
-      "title": "【New Balance】373系列復古鞋_女性_5款任選(WL373SH2/QB2/QC2/TM2/GW500RTG)(Y購/網路獨家)",
+      "title": "【New Balance】373系列復古鞋_女性_多款任選(WL373SH2/QB2/QC2/TM2/GW500RTG/)(Y購/網路獨家)",
       "price": 1212,
-      "image_url": "https://img.yec.tw/zp/MerchandiseImages/9439d94e4c-Gd-11395892.jpg",
+      "image_url": "https://img.yec.tw/zp/MerchandiseImages/4E1A0CEBCA-Gd-11395892.jpg",
       "url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=11395892",
       "platform": "yahoo_rushbuy"
     },
     {
       "title": "Max Mara-Studio CLES 羊絨毛絲線長袍式綁帶大衣 外套-多色可選",
       "price": 26222,
-      "image_url": "https://img.yec.tw/zp/MerchandiseImages/ec41e15eed-Product-38941683.jpg",
+      "image_url": "https://img.yec.tw/zp/MerchandiseImages/5ea5f957b0-Gd-11882061.jpg",
       "url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=11882061",
       "platform": "yahoo_rushbuy"
     },
@@ -116,8 +123,8 @@
       "platform": "yahoo_rushbuy"
     },
     {
-      "title": "【ACE】2025聖誕月曆禮盒(皇家舞會)_藍爵王子/夢幻公主 任選",
-      "price": 699,
+      "title": "ACE 2025聖誕月曆禮盒(皇家舞會)_藍爵王子/夢幻公主 任選1盒",
+      "price": 675,
       "image_url": "https://img.yec.tw/zp/MerchandiseImages/4C488B0269-SP-21400660.jpg",
       "url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=11874647&sw=31c598b230d603c3",
       "platform": "yahoo_rushbuy"
@@ -186,5 +193,5 @@
       "platform": "yahoo_rushbuy"
     }
   ],
-  "crawl_time": "2025-12-01 01:14:42"
+  "crawl_time": "2025-12-01 06:23:02"
 }
