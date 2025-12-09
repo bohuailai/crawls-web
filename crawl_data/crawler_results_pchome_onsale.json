@@ -1,8 +1,8 @@
 {
-  "timestamp": "2025-12-08T18:21:22.416997",
+  "timestamp": "2025-12-09T01:03:36.662669",
   "platform": "pchome_onsale",
   "keyword": "pchome_onsale",
-  "total_products": 105,
+  "total_products": 104,
   "products": [
     {
       "title": "羅技MX Master 4 無線滑鼠",
@@ -303,13 +303,6 @@
       "price": "$1,199",
       "image_url": "https://img.pchome.com.tw/cs/items/DEAKNVA900FS63K/000007_1755076271.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DEAKNV-A900FS63K",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "TCL 50吋 T6C QLED顯示器",
-      "price": "$9,922",
-      "image_url": "https://img.pchome.com.tw/cs/items/DPADT3A900J2KMA/000007_1761761303.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DPADT3-A900J2KMA",
       "platform": "pchome_onsale"
     },
     {
@@ -740,5 +733,5 @@
       "platform": "pchome_onsale"
     }
   ],
-  "crawl_time": "2025-12-08 18:21:22"
+  "crawl_time": "2025-12-09 01:03:36"
 }
