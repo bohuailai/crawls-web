@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-18T18:21:16.641527",
+  "timestamp": "2025-12-19T01:05:48.541785",
   "platform": "pchome_onsale",
   "keyword": "pchome_onsale",
   "total_products": 72,
@@ -82,6 +82,13 @@
       "platform": "pchome_onsale"
     },
     {
+      "title": "LE CREUSET 萬用窈窕鑄鐵鍋 20cm",
+      "price": "$5,199",
+      "image_url": "https://img.pchome.com.tw/cs/items/DEAWMQA900JJ097/000007_1765184860.jpg?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DEAWMQ-A900JJ097",
+      "platform": "pchome_onsale"
+    },
+    {
       "title": "ACER Swift 14吋32G記憶體AI筆電",
       "price": "$28,812",
       "image_url": "https://img.pchome.com.tw/cs/items/DHAEJ0A900JB6DV/000007_1765937203.jpg?width=480",
@@ -107,13 +114,6 @@
       "price": "$899",
       "image_url": "https://img.pchome.com.tw/cs/items/DBAB7K1900GSII9/000007_1760942394.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DBAB7K-1900GSII9",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "特福 巴洛克系列不沾鍋三件組",
-      "price": "$1,280",
-      "image_url": "https://img.pchome.com.tw/cs/items/DEAWNDA900AXPKX/000007_1699846361.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DEAWND-A900AXPKX",
       "platform": "pchome_onsale"
     },
     {
@@ -509,5 +509,5 @@
       "platform": "pchome_onsale"
     }
   ],
-  "crawl_time": "2025-12-18 18:21:16"
+  "crawl_time": "2025-12-19 01:05:48"
 }
