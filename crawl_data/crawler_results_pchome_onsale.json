@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-01-11T18:20:03.272573",
+  "timestamp": "2026-01-12T01:10:56.561538",
   "platform": "pchome_onsale",
   "keyword": "pchome_onsale",
-  "total_products": 86,
+  "total_products": 85,
   "products": [
     {
       "title": "築地一番鮮 鮑魚珠貝佛跳牆共2入",
@@ -135,13 +135,6 @@
       "price": "$53,999",
       "image_url": "https://img.pchome.com.tw/cs/items/DHAS93A900J06UM/000007_1751555461.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DHAS93-A900J06UM",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "BenQ 75吋 MiniLED 144hz遊戲顯示器",
-      "price": "$44,900",
-      "image_url": "https://img.pchome.com.tw/cs/items/DPAD0OA900I53GN/000007_1764348573.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DPAD0O-A900I53GN",
       "platform": "pchome_onsale"
     },
     {
@@ -607,5 +600,5 @@
       "platform": "pchome_onsale"
     }
   ],
-  "crawl_time": "2026-01-11 18:20:03"
+  "crawl_time": "2026-01-12 01:10:56"
 }
