@@ -1,177 +1,9 @@
 {
-  "timestamp": "2026-02-03T12:40:31.982771",
+  "timestamp": "2026-02-03T18:44:52.964578",
   "platform": "pchome_onsale",
   "keyword": "pchome_onsale",
   "total_products": 96,
   "products": [
-    {
-      "title": "輝葉 震關健 2入組",
-      "price": "$2,811",
-      "image_url": "https://img.pchome.com.tw/cs/items/DMADFEA900HLJTD/000007_1744630052.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DMADFE-A900HLJTD",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "Kobo Libra Colour 7吋彩色閱讀器",
-      "price": "$6,899",
-      "image_url": "https://img.pchome.com.tw/cs/items/DCBR0FA900HCLLE/000007_1761799478.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DCBR0F-A900HCLLE",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "輝葉 超有力小沙發",
-      "price": "$19,999",
-      "image_url": "https://img.pchome.com.tw/cs/items/DMADFEA900FOT85/000007_1670924882.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DMADFE-A900FOT85",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "BH Any Go輕步緩坡機",
-      "price": "$9,999",
-      "image_url": "https://img.pchome.com.tw/cs/items/DEBYDBA900HLJPH/000007_1758266453.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DEBYDB-A900HLJPH",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "康寧淨漾耐熱雙層把手玻璃杯",
-      "price": "$590",
-      "image_url": "https://img.pchome.com.tw/cs/items/DEBW16A900HZ6Y5/000007_1729066318.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DEBW16-A900HZ6Y5",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "MiLi MiTag 物品防丟器 (蘋果/安卓系統)",
-      "price": "$349",
-      "image_url": "https://img.pchome.com.tw/cs/items/DYAFDHA900IS210/000007_1762768040.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DYAFDH-A900IS210",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "喜年來原味蛋捲1440g x1盒",
-      "price": "$429",
-      "image_url": "https://img.pchome.com.tw/cs/items/DBAE4JA900HL4EI/000007_1718785956.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DBAE4J-A900HL4EI",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "蘭蔻 超極限肌因賦活露 100ml",
-      "price": "$2,580",
-      "image_url": "https://img.pchome.com.tw/cs/items/DDADP5A900I2KT9/000007_1749690215.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DDADP5-A900I2KT9",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "原萃寶特瓶580ml (24入X2箱)(口味任選)",
-      "price": "$750",
-      "image_url": "https://img.pchome.com.tw/cs/items/DBAB7I1900HG4V9/000007_1752141612.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DBAB7I-1900HG4V9",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "新台幣2000元1:1黃金鈔票",
-      "price": "$1,780",
-      "image_url": "https://img.pchome.com.tw/cs/items/QDAH1PA9009NQ11/000007_1711356577.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/QDAH1P-A9009NQ11",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "SONY LinkBuds Clip 耳夾式真無線耳機",
-      "price": "$5,690",
-      "image_url": "https://img.pchome.com.tw/cs/items/DYAQFNA900JOPTK/000007_1769655480.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DYAQFN-A900JOPTK",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "TP-Link 6合1 PD100W快充 Type-C Hub",
-      "price": "$699",
-      "image_url": "https://img.pchome.com.tw/cs/items/DRAN2TA900HVBMD/000007_1728491072.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DRAN2T-A900HVBMD",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "ROG Falchion Ace 75 HE 磁軸電競鍵盤",
-      "price": "$6,990",
-      "image_url": "https://img.pchome.com.tw/cs/items/DCAHH2A900JMGJR/000007_1767845218.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DCAHH2-A900JMGJR",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "SABA 觸控式智慧變頻IH電磁爐",
-      "price": "$899",
-      "image_url": "https://img.pchome.com.tw/cs/items/DMAG051900I565M/000007_1769740359.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DMAG05-1900I565M",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "義美生醫頂級S益生菌(4g*30包x3盒)",
-      "price": "$2,011",
-      "image_url": "https://img.pchome.com.tw/cs/items/DBBB5X1900G9FYR/000007_1711961678.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DBBB5X-1900G9FYR",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "倍潔雅 好韌真三層抽取式衛生紙72包/箱",
-      "price": "$809",
-      "image_url": "https://img.pchome.com.tw/cs/items/DAAG5LA900BG6GD/000007_1750057806.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DAAG5L-A900BG6GD",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "樂高 42206 甲骨文紅牛 RB20 F1 Car",
-      "price": "$5,599",
-      "image_url": "https://img.pchome.com.tw/cs/items/DEDJ0VA900IJW44/000007_1761893746.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DEDJ0V-A900IJW44",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "鐵鎚牌【2盒】雙效加強除臭貓砂40LB",
-      "price": "$1,199",
-      "image_url": "https://img.pchome.com.tw/cs/items/DEAKO11900EXACH/000007_1762144109.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DEAKO1-1900EXACH",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "ecostore環保洗碗粉2kg",
-      "price": "$619",
-      "image_url": "https://img.pchome.com.tw/cs/items/DAAK6YA9007CROP/000007_1722495350.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DAAK6Y-A9007CROP",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "Hikers 65吋QLED量子點智能聯網顯示器",
-      "price": "$11,111",
-      "image_url": "https://img.pchome.com.tw/cs/items/DPADC8A900HN44W/000007_1761312388.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DPADC8-A900HN44W",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "石頭科技Qrevo Curv 2 Flow掃拖機器人",
-      "price": "$19,999",
-      "image_url": "https://img.pchome.com.tw/cs/items/DMBL1CA900JA04J/000007_1761554919.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DMBL1C-A900JA04J",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "馬牌MaxContact 7_225/40/18吋送安裝",
-      "price": "$16,013",
-      "image_url": "https://img.pchome.com.tw/cs/items/DXBQ02A900IVQ4A/000007_1748844220.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DXBQ02-A900IVQ4A",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "伊萊克斯 26L極適家居除濕機-流光白",
-      "price": "$8,488",
-      "image_url": "https://img.pchome.com.tw/cs/items/DMBH1IA900HQX24/000007_1763534867.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DMBH1I-A900HQX24",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "ASUS ZenWiFi BT10 WiFi 7 Mesh(2入)",
-      "price": "$18,888",
-      "image_url": "https://img.pchome.com.tw/cs/items/DRAF01A900HQK96/000007_1724895020.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DRAF01-A900HQK96",
-      "platform": "pchome_onsale"
-    },
     {
       "title": "輝葉 震關健 2入組",
       "price": "$2,811",
@@ -609,7 +441,7 @@
     {
       "title": "POLYWELL 100W Type-C傳輸充電線(彎頭款)",
       "price": "$499",
-      "image_url": "https://img.pchome.com.tw/cs/items/DCACPR1900JODNT/000007_1770024579.jpg?width=480",
+      "image_url": "https://img.pchome.com.tw/cs/items/DCACPR1900JODNT/000007_1770130172.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DCACPR-1900JODNT",
       "platform": "pchome_onsale"
     },
@@ -675,7 +507,175 @@
       "image_url": "https://img.pchome.com.tw/cs/items/DMAH75A900I16UD/000007_1730273714.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DMAH75-A900I16UD",
       "platform": "pchome_onsale"
+    },
+    {
+      "title": "ASUS 14吋i5效能筆電",
+      "price": "$17,111",
+      "image_url": "https://img.pchome.com.tw/cs/items/DHAFPP1900IUZTN/000007_1770115694.jpg?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DHAFPP-1900IUZTN",
+      "platform": "pchome_onsale"
+    },
+    {
+      "title": "好自在 液體衛生棉118片",
+      "price": "$899",
+      "image_url": "https://img.pchome.com.tw/cs/items/DAAB8PA900I04XX/000007_1749724418.jpg?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DAAB8P-A900I04XX",
+      "platform": "pchome_onsale"
+    },
+    {
+      "title": "康寧 30cm炒鍋超值組",
+      "price": "$1,688",
+      "image_url": "https://img.pchome.com.tw/cs/items/DEAWN3A900JNR4C/000007_1770024498.jpg?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DEAWN3-A900JNR4C",
+      "platform": "pchome_onsale"
+    },
+    {
+      "title": "PaperOne 多功能影印紙A4 70G (5包/箱)",
+      "price": "$490",
+      "image_url": "https://img.pchome.com.tw/cs/items/DCAP02A9005ER3T/000007_1764915354.jpg?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DCAP02-A9005ER3T",
+      "platform": "pchome_onsale"
+    },
+    {
+      "title": "THRUSTMASTER T598直驅方向盤組(PS4/5+PC)",
+      "price": "$17,980",
+      "image_url": "https://img.pchome.com.tw/cs/items/DGBJNSA900IPBE1/000007_1749432381.jpg?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DGBJNS-A900IPBE1",
+      "platform": "pchome_onsale"
+    },
+    {
+      "title": "妙管家 超強漂白水4入",
+      "price": "$599",
+      "image_url": "https://img.pchome.com.tw/cs/items/DAAK1ZA900FLDM4/000007_1735466059.jpg?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DAAK1Z-A900FLDM4",
+      "platform": "pchome_onsale"
+    },
+    {
+      "title": "HTC U24 Pro (12G/512G)",
+      "price": "$13,499",
+      "image_url": "https://img.pchome.com.tw/cs/items/DYAWBMA900HN43Z/000007_1720410422.jpg?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DYAWBM-A900HN43Z",
+      "platform": "pchome_onsale"
+    },
+    {
+      "title": "國際牌25L微電腦微波爐 NN-ST34NB",
+      "price": "$3,088",
+      "image_url": "https://img.pchome.com.tw/cs/items/DMBJ7P1900HCIJT/000007_1749457311.jpg?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DMBJ7P-1900HCIJT",
+      "platform": "pchome_onsale"
+    },
+    {
+      "title": "ASTONE RT1000系列 可掀式安全帽內藏墨鏡",
+      "price": "$1,911",
+      "image_url": "https://img.pchome.com.tw/cs/items/DEAV9BA900BTOQJ/000007_1767342367.jpg?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DEAV9B-A900BTOQJ",
+      "platform": "pchome_onsale"
+    },
+    {
+      "title": "Alpecin 咖啡因洗髮露 250ml 6入組",
+      "price": "$1,212",
+      "image_url": "https://img.pchome.com.tw/cs/items/DAAA091900JIKF1/000007_1765177130.jpg?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DAAA09-1900JIKF1",
+      "platform": "pchome_onsale"
+    },
+    {
+      "title": "AirTag 4 PACK",
+      "price": "$2,599",
+      "image_url": "https://img.pchome.com.tw/cs/items/DYAJCR1900BQZLS/000007_1745484206.jpg?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DYAJCR-1900BQZLS",
+      "platform": "pchome_onsale"
+    },
+    {
+      "title": "EVERLIGHT億光 50W LED遙控吸頂燈",
+      "price": "$1,079",
+      "image_url": "https://img.pchome.com.tw/cs/items/DEAX4MA900EZLMB/000007_1669958268.jpg?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DEAX4M-A900EZLMB",
+      "platform": "pchome_onsale"
+    },
+    {
+      "title": "車輪牌墨西哥頂級鮑魚罐頭(2粒裝/罐x3罐)",
+      "price": "$12,888",
+      "image_url": "https://img.pchome.com.tw/cs/items/DBAIFWA900JLZMO/000007_1768460461.jpg?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DBAIFW-A900JLZMO",
+      "platform": "pchome_onsale"
+    },
+    {
+      "title": "VIOMI 雲米5L互聯網免安裝洗碗機",
+      "price": "$5,499",
+      "image_url": "https://img.pchome.com.tw/cs/items/DMBR1YA900JGY0K/000007_1763624779.jpg?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DMBR1Y-A900JGY0K",
+      "platform": "pchome_onsale"
+    },
+    {
+      "title": "ASUS Dual RX 9060 XT 16GB GDDR6 顯示卡",
+      "price": "$13,990",
+      "image_url": "https://img.pchome.com.tw/cs/items/DRADKY1900J72M3/000007_1759996538.jpg?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DRADKY-1900J72M3",
+      "platform": "pchome_onsale"
+    },
+    {
+      "title": "HyRead 7.8吋閱讀器套組",
+      "price": "$10,688",
+      "image_url": "https://img.pchome.com.tw/cs/items/DCBR0NA900JA49B/000007_1767149498.jpg?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DCBR0N-A900JA49B",
+      "platform": "pchome_onsale"
+    },
+    {
+      "title": "HP 14吋 翻轉觸控筆電(16GB+512GB)",
+      "price": "$25,999",
+      "image_url": "https://img.pchome.com.tw/cs/items/DHAG4T1900JI1HD/000007_1768545176.jpg?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DHAG4T-1900JI1HD",
+      "platform": "pchome_onsale"
+    },
+    {
+      "title": "美國探險家20/25/29吋飛機輪大容量行李箱",
+      "price": "$990",
+      "image_url": "https://img.pchome.com.tw/cs/items/DIBKTXA900HPOSP/000007_1770114672.jpg?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DIBKTX-A900HPOSP",
+      "platform": "pchome_onsale"
+    },
+    {
+      "title": "杏輝醫藥蓉憶記健字號膠囊(30粒x3盒)",
+      "price": "$5,980",
+      "image_url": "https://img.pchome.com.tw/cs/items/DBBC8J1900GG67T/000007_1744683530.jpg?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DBBC8J-1900GG67T",
+      "platform": "pchome_onsale"
+    },
+    {
+      "title": "來復易 防漏安心復健褲 2箱",
+      "price": "$2,302",
+      "image_url": "https://img.pchome.com.tw/cs/items/DAAU4Y1900IK6EH/000007_1744707098.jpg?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DAAU4Y-1900IK6EH",
+      "platform": "pchome_onsale"
+    },
+    {
+      "title": "台灣三洋15KG直立式洗衣機",
+      "price": "$14,900",
+      "image_url": "https://img.pchome.com.tw/cs/items/DPAI1JA900H26GS/000007_1704267799.jpg?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DPAI1J-A900H26GS",
+      "platform": "pchome_onsale"
+    },
+    {
+      "title": "禾聯瞬熱式 抗菌馬桶座 HTS-12TJ010(S)",
+      "price": "$6,750",
+      "image_url": "https://img.pchome.com.tw/cs/items/DMALEXA900B7DSM/000007_1760430395.jpg?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DMALEX-A900B7DSM",
+      "platform": "pchome_onsale"
+    },
+    {
+      "title": "羅技MX Master 3S 無線滑鼠",
+      "price": "$2,840",
+      "image_url": "https://img.pchome.com.tw/cs/items/DSAR3GA900G57XL/000007_1762700186.jpg?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DSAR3G-A900G57XL",
+      "platform": "pchome_onsale"
+    },
+    {
+      "title": "大研 德國頂級魚油-Omega-3 84%(60粒x5盒)",
+      "price": "$4,099",
+      "image_url": "https://img.pchome.com.tw/cs/items/DBBBAM1900B2QBX/000007_1762002739.jpg?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DBBBAM-1900B2QBX",
+      "platform": "pchome_onsale"
     }
   ],
-  "crawl_time": "2026-02-03 12:40:31"
+  "crawl_time": "2026-02-03 18:44:52"
 }
