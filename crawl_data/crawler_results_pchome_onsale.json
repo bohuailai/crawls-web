@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-03T18:44:52.964578",
+  "timestamp": "2026-02-04T01:18:29.982012",
   "platform": "pchome_onsale",
   "keyword": "pchome_onsale",
   "total_products": 96,
@@ -145,13 +145,6 @@
       "platform": "pchome_onsale"
     },
     {
-      "title": "AMT 經典平底深炒鍋 28cm",
-      "price": "$3,480",
-      "image_url": "https://img.pchome.com.tw/cs/items/DEAWMWA900J5MXV/000007_1756189423.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DEAWMW-A900J5MXV",
-      "platform": "pchome_onsale"
-    },
-    {
       "title": "義美生醫頂級S益生菌(4g*30包x3盒)",
       "price": "$2,011",
       "image_url": "https://img.pchome.com.tw/cs/items/DBBB5X1900G9FYR/000007_1711961678.jpg?width=480",
@@ -163,6 +156,13 @@
       "price": "$4,959",
       "image_url": "https://img.pchome.com.tw/cs/items/DEDJ0VA900HNU7P/000007_1761894024.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DEDJ0V-A900HNU7P",
+      "platform": "pchome_onsale"
+    },
+    {
+      "title": "CRISTEL 三層不鏽鋼淺鍋 28公分",
+      "price": "$8,190",
+      "image_url": "https://img.pchome.com.tw/cs/items/DEAWIRA900GLNF2/000007_1692760439.jpg?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DEAWIR-A900GLNF2",
       "platform": "pchome_onsale"
     },
     {
@@ -677,5 +677,5 @@
       "platform": "pchome_onsale"
     }
   ],
-  "crawl_time": "2026-02-03 18:44:52"
+  "crawl_time": "2026-02-04 01:18:29"
 }
