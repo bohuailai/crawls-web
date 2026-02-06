@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-05T18:39:00.401952",
+  "timestamp": "2026-02-06T01:18:49.744765",
   "platform": "pchome_onsale",
   "keyword": "pchome_onsale",
   "total_products": 90,
@@ -154,7 +154,7 @@
     {
       "title": "LENOVO 15.6吋i5-RTX4050電競筆電",
       "price": "$24,990",
-      "image_url": "https://img.pchome.com.tw/cs/items/DHBF7Y1900JGGX9/000007_1770197620.jpg?width=480",
+      "image_url": "https://img.pchome.com.tw/cs/items/DHBF7Y1900JGGX9/000007_1770337610.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DHBF7Y-1900JGGX9",
       "platform": "pchome_onsale"
     },
@@ -635,5 +635,5 @@
       "platform": "pchome_onsale"
     }
   ],
-  "crawl_time": "2026-02-05 18:39:00"
+  "crawl_time": "2026-02-06 01:18:49"
 }
