@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-09T18:47:20.388462",
+  "timestamp": "2026-02-10T01:47:37.158735",
   "platform": "pchome_onsale",
   "keyword": "pchome_onsale",
   "total_products": 91,
@@ -215,6 +215,13 @@
       "platform": "pchome_onsale"
     },
     {
+      "title": "Xiaomi 小米手錶 Watch 2 銀色",
+      "price": "$1,999",
+      "image_url": "https://img.pchome.com.tw/cs/items/DYANBVA900HAAQU/000007_1709704986.jpg?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DYANBV-A900HAAQU",
+      "platform": "pchome_onsale"
+    },
+    {
       "title": "BEST 梵格絨 素色毯",
       "price": "$799",
       "image_url": "https://img.pchome.com.tw/cs/items/DEBCLS1900JDG45/000007_1763455995.jpg?width=480",
@@ -226,13 +233,6 @@
       "price": "$799",
       "image_url": "https://img.pchome.com.tw/cs/items/DMAZ10A900JCAST/000007_1763609906.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DMAZ10-A900JCAST",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "Xiaomi Watch 2 黑色",
-      "price": "$1,999",
-      "image_url": "https://img.pchome.com.tw/cs/items/DYANBVA900HAAM4/000007_1709704392.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DYANBV-A900HAAM4",
       "platform": "pchome_onsale"
     },
     {
@@ -642,5 +642,5 @@
       "platform": "pchome_onsale"
     }
   ],
-  "crawl_time": "2026-02-09 18:47:20"
+  "crawl_time": "2026-02-10 01:47:37"
 }
