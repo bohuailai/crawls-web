@@ -1,7 +1,7 @@
 {
   "platform": "yahoo_rushbuy",
   "keyword": "yahoo_rushbuy",
-  "total_products": 27,
+  "total_products": 24,
   "products": [
     {
       "title": "[爆品 任3件下殺]24HRS 超人氣無鋼圈失憶內衣",
@@ -102,20 +102,6 @@
       "platform": "yahoo_rushbuy"
     },
     {
-      "title": "LE LABO 沐浴膠 237ml 多款任選",
-      "price": 1199,
-      "image_url": "https://img.yec.tw/zp/MerchandiseImages/EA0A2660C7-SP-20482751.jpg",
-      "url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=11682308",
-      "platform": "yahoo_rushbuy"
-    },
-    {
-      "title": "mod’s hair 迷你輕巧陶瓷直髮夾 MHS-2034-K-TW mods hair",
-      "price": 941,
-      "image_url": "https://img.yec.tw/zp/MerchandiseImages/D840B6BED3-SP-11496704.jpg",
-      "url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=10053981",
-      "platform": "yahoo_rushbuy"
-    },
-    {
       "title": "(下單再折)【ADATA 威剛】SD810 1000GB 外接式固態硬碟 (兩色可選)",
       "price": 4880,
       "image_url": "https://img.yec.tw/zp/MerchandiseImages/852A51980E-SP-21028094.jpg",
@@ -134,13 +120,6 @@
       "price": 1925,
       "image_url": "https://img.yec.tw/zp/MerchandiseImages/8ea37607b5-Gd-9945229.jpg",
       "url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=9945229",
-      "platform": "yahoo_rushbuy"
-    },
-    {
-      "title": "agnes b 暢銷衛衣/洋裝/上衣 多款均一價",
-      "price": 1999,
-      "image_url": "https://img.yec.tw/zp/MerchandiseImages/40A51B61FF-Gd-10051292.jpg",
-      "url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=10051292",
       "platform": "yahoo_rushbuy"
     },
     {
@@ -193,5 +172,5 @@
       "platform": "yahoo_rushbuy"
     }
   ],
-  "crawl_time": "2026-02-17 01:22:16"
+  "crawl_time": "2026-02-17 06:49:30"
 }
