@@ -1,7 +1,7 @@
 {
   "platform": "yahoo_rushbuy",
   "keyword": "yahoo_rushbuy",
-  "total_products": 27,
+  "total_products": 26,
   "products": [
     {
       "title": "[爆品 任3件下殺]24HRS 超人氣無鋼圈失憶內衣",
@@ -43,13 +43,6 @@
       "price": 159,
       "image_url": "https://img.yec.tw/zp/MerchandiseImages/855AD15769-SP-22006954.jpg",
       "url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=11973282",
-      "platform": "yahoo_rushbuy"
-    },
-    {
-      "title": "東海大學全脂牛乳(200mlx24入)x1箱",
-      "price": 699,
-      "image_url": "https://img.yec.tw/zp/MerchandiseImages/8AC4D0E782-SP-21025624.jpg",
-      "url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=11782733",
       "platform": "yahoo_rushbuy"
     },
     {
@@ -111,7 +104,7 @@
     {
       "title": "賠售出清★Glolux LED 13W 高亮度 E27 全電壓黃光10入組",
       "price": 499,
-      "image_url": "https://img.yec.tw/zp/MerchandiseImages/8A0709F5B8-SP-12177972.jpg",
+      "image_url": "https://img.yec.tw/zp/MerchandiseImages/EA35FB0D51-Gd-11979240.jpg",
       "url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=11979240",
       "platform": "yahoo_rushbuy"
     },
@@ -193,5 +186,5 @@
       "platform": "yahoo_rushbuy"
     }
   ],
-  "crawl_time": "2026-02-18 01:24:55"
+  "crawl_time": "2026-02-18 06:53:12"
 }
