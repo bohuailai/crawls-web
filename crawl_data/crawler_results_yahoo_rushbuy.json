@@ -1,7 +1,7 @@
 {
   "platform": "yahoo_rushbuy",
   "keyword": "yahoo_rushbuy",
-  "total_products": 27,
+  "total_products": 24,
   "products": [
     {
       "title": "娘家 大紅麴 30粒",
@@ -11,10 +11,10 @@
       "platform": "yahoo_rushbuy"
     },
     {
-      "title": "Readmoo 讀墨 mooInk Nana BW 7吋 黑白電子書閱讀器-迷月白",
-      "price": 7488,
-      "image_url": "https://img.yec.tw/zp/MerchandiseImages/892EAE42A3-Gd-11842342.jpg",
-      "url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=11842342",
+      "title": "Readmoo 讀墨 mooInk Nana BW 7吋 黑白電子書閱讀器-暗夜黑",
+      "price": 7388,
+      "image_url": "https://img.yec.tw/zp/MerchandiseImages/AAEFF3596F-Gd-11808187.jpg",
+      "url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=11808187",
       "platform": "yahoo_rushbuy"
     },
     {
@@ -74,17 +74,10 @@
       "platform": "yahoo_rushbuy"
     },
     {
-      "title": "PHILIPS 飛利浦22.5W AC自帶Type-C線行動電源_具Wh標示 DLP5201C",
+      "title": "(買2送一 請下單3件)PHILIPS 飛利浦22.5W AC自帶Type-C線行動電源_具Wh標示 DLP5201C",
       "price": 890,
       "image_url": "https://img.yec.tw/zp/MerchandiseImages/3A8D3C9094-SP-18660043.jpg",
       "url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=11425796",
-      "platform": "yahoo_rushbuy"
-    },
-    {
-      "title": "韓國SUNGBOON EDITOR綠番茄緊緻毛孔安瓶30ml買2送1再送babaria美白精華液2mlx6",
-      "price": 1012,
-      "image_url": "https://img.yec.tw/zp/MerchandiseImages/2A91E37244-SP-17163714.jpg",
-      "url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=11126328",
       "platform": "yahoo_rushbuy"
     },
     {
@@ -116,13 +109,6 @@
       "platform": "yahoo_rushbuy"
     },
     {
-      "title": "Beats Studio Pro 無線降噪頭戴式耳機 (原廠先創公司貨)",
-      "price": 10221,
-      "image_url": "https://img.yec.tw/zp/MerchandiseImages/9E755ABDD8-SP-14749662.jpg",
-      "url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=10717461",
-      "platform": "yahoo_rushbuy"
-    },
-    {
       "title": "HUGGIES 好奇 純水嬰兒濕巾 加厚型 80抽x10包/箱",
       "price": 379,
       "image_url": "https://img.yec.tw/zp/MerchandiseImages/32D6038A9F-SP-21408247.jpg",
@@ -148,13 +134,6 @@
       "price": 588,
       "image_url": "https://img.yec.tw/zp/MipImages/CCC6082D30-MIP-741093.jpeg",
       "url": "https://tw.buy.yahoo.com/activity/onsale/combo?actid=741093",
-      "platform": "yahoo_rushbuy"
-    },
-    {
-      "title": "(下單再折) 技嘉GIGABYTE GeForce RTX 3060 WINDFORCE OC 12G 顯示卡 RTX3060",
-      "price": 8590,
-      "image_url": "https://img.yec.tw/zp/MerchandiseImages/A83B57D092-SP-20233005.jpg",
-      "url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=11646989",
       "platform": "yahoo_rushbuy"
     },
     {
@@ -193,5 +172,5 @@
       "platform": "yahoo_rushbuy"
     }
   ],
-  "crawl_time": "2026-02-19 01:23:53"
+  "crawl_time": "2026-02-19 06:51:22"
 }
