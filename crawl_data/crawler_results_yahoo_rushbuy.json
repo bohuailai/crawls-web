@@ -1,7 +1,7 @@
 {
   "platform": "yahoo_rushbuy",
   "keyword": "yahoo_rushbuy",
-  "total_products": 26,
+  "total_products": 27,
   "products": [
     {
       "title": "【ARIEL】抗菌抗臭洗衣精1030g補充包 X8(抗菌去漬/室內晾曬) 兩款任選",
@@ -67,10 +67,10 @@
       "platform": "yahoo_rushbuy"
     },
     {
-      "title": "【美國Life n Soul】耳夾式真無線耳機(EC1)",
-      "price": 990,
-      "image_url": "https://img.yec.tw/zp/MerchandiseImages/0EB195D165-SP-15735472.jpg",
-      "url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=10885365",
+      "title": "【Life n Soul】『解放雙耳，自由無拘！』開放式藍牙耳機-OC1",
+      "price": 1790,
+      "image_url": "https://img.yec.tw/zp/MerchandiseImages/97AD643265-Gd-11458894.jpg",
+      "url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=11458894",
       "platform": "yahoo_rushbuy"
     },
     {
@@ -104,8 +104,15 @@
     {
       "title": "TROMSO厚白棉麻風尚門簾 多款可選",
       "price": 299,
-      "image_url": "https://img.yec.tw/zp/MerchandiseImages/36DCBFDD2E-SP-8680603.jpg",
+      "image_url": "https://img.yec.tw/zp/MerchandiseImages/7463ED703A-Gd-11988089.jpg",
       "url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=11988089",
+      "platform": "yahoo_rushbuy"
+    },
+    {
+      "title": "【SAMPO 聲寶】智能無線絲柔熱敷眼罩/遮光眼罩/蒸氣眼罩(HQ-Z24Y6L)",
+      "price": 799,
+      "image_url": "https://img.yec.tw/zp/MerchandiseImages/B0E5E5F0F0-Gd-11431571.jpg",
+      "url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=11431571",
       "platform": "yahoo_rushbuy"
     },
     {
@@ -117,16 +124,16 @@
     },
     {
       "title": "【AHC】瞬效B5微導玻尿酸保濕精華液30ml_3入(右旋B5/玻尿酸/保濕霸主/高效修護/敏感肌/醫美後適用)",
-      "price": 1419,
+      "price": 1299,
       "image_url": "https://img.yec.tw/zp/MerchandiseImages/931203FBB2-Gd-11610397.jpg",
       "url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=11610397",
       "platform": "yahoo_rushbuy"
     },
     {
-      "title": "米大師 湯泡飯任選12碗-菠菜蛋花/蕃茄羅宋/麻油雞/麻辣牛肉/鮮蝦蒸蛋/肉燥蒸蛋/紅蔥肉燥/赤味噌",
-      "price": 799,
-      "image_url": "https://img.yec.tw/zp/MerchandiseImages/5c7353675e-Gd-11557173.jpg",
-      "url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=11557173",
+      "title": "統一麵 蔥燒牛肉風味碗(90gx3入)_1+1組合(共2組)",
+      "price": 108,
+      "image_url": "https://img.yec.tw/zp/MerchandiseImages/06bc2eff9b-Gd-6424383.jpg",
+      "url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=11812780",
       "platform": "yahoo_rushbuy"
     },
     {
@@ -186,5 +193,5 @@
       "platform": "yahoo_rushbuy"
     }
   ],
-  "crawl_time": "2026-02-23 01:22:43"
+  "crawl_time": "2026-02-23 06:55:46"
 }
