@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-02-24T18:51:38.253567",
+  "timestamp": "2026-02-25T01:25:06.343352",
   "platform": "pchome_onsale",
   "keyword": "pchome_onsale",
-  "total_products": 87,
+  "total_products": 88,
   "products": [
     {
       "title": "iPhone 17 Pro 512G",
@@ -23,13 +23,6 @@
       "price": "$4,090",
       "image_url": "https://img.pchome.com.tw/cs/items/DRAHEYA900JMI5W/000007_1770004586.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DRAHEY-A900JMI5W",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "IRIS 鑽石塗層鍋具5件組",
-      "price": "$1,099",
-      "image_url": "https://img.pchome.com.tw/cs/items/DEAWMWA900JJ8PL/000007_1770702854.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DEAWMW-A900JJ8PL",
       "platform": "pchome_onsale"
     },
     {
@@ -114,6 +107,13 @@
       "price": "$3,021",
       "image_url": "https://img.pchome.com.tw/cs/items/DMBS00A900H5CRM/000007_1762943065.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DMBS00-A900H5CRM",
+      "platform": "pchome_onsale"
+    },
+    {
+      "title": "【南亞牌】304不鏽鋼高速鍋(52人份)",
+      "price": "$8,690",
+      "image_url": "https://img.pchome.com.tw/cs/items/DEAW2CA900BCRXW/000007_1620981654.jpg?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DEAW2C-A900BCRXW",
       "platform": "pchome_onsale"
     },
     {
@@ -454,7 +454,7 @@
     },
     {
       "title": "伊萊克斯Well Q7無線吸塵器",
-      "price": "$4,990",
+      "price": "$5,990",
       "image_url": "https://img.pchome.com.tw/cs/items/DMBH01A900HTAV9/000007_1730089885.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DMBH01-A900HTAV9",
       "platform": "pchome_onsale"
@@ -537,6 +537,13 @@
       "platform": "pchome_onsale"
     },
     {
+      "title": "LG 15公斤變頻洗衣機",
+      "price": "$13,900",
+      "image_url": "https://img.pchome.com.tw/cs/items/DPAI1LA900J8NE7/000007_1764576632.jpg?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DPAI1L-A900J8NE7",
+      "platform": "pchome_onsale"
+    },
+    {
       "title": "SONY DSC-RX100M7 數位相機 (公司貨)",
       "price": "$33,930",
       "image_url": "https://img.pchome.com.tw/cs/items/DGADF3A900A6WD0/000007_1611730076.jpg?width=480",
@@ -614,5 +621,5 @@
       "platform": "pchome_onsale"
     }
   ],
-  "crawl_time": "2026-02-24 18:51:38"
+  "crawl_time": "2026-02-25 01:25:06"
 }
