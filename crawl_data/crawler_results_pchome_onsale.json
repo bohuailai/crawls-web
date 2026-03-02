@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-01T18:22:27.512687",
+  "timestamp": "2026-03-02T01:20:42.178575",
   "platform": "pchome_onsale",
   "keyword": "pchome_onsale",
   "total_products": 90,
@@ -30,13 +30,6 @@
       "price": "$1,599",
       "image_url": "https://img.pchome.com.tw/cs/items/DAAG011900I5T38/000007_1733989875.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DAAG01-1900I5T38",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "LE CREUSET 瓷器韓式飯碗350ml (淡粉紅)",
-      "price": "$1,080",
-      "image_url": "https://img.pchome.com.tw/cs/items/DEER0WA900J5EO1/000007_1755855711.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DEER0W-A900J5EO1",
       "platform": "pchome_onsale"
     },
     {
@@ -142,6 +135,13 @@
       "price": "$63,900",
       "image_url": "https://img.pchome.com.tw/cs/items/DYAJCSA900I1LWM/000007_1730705085.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DYAJCS-A900I1LWM",
+      "platform": "pchome_onsale"
+    },
+    {
+      "title": "極輕量槌目紋鐵炒鍋 30cm",
+      "price": "$777",
+      "image_url": "https://img.pchome.com.tw/cs/items/DEAWMYA900BG173/000007_1694609325.jpg?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DEAWMY-A900BG173",
       "platform": "pchome_onsale"
     },
     {
@@ -635,5 +635,5 @@
       "platform": "pchome_onsale"
     }
   ],
-  "crawl_time": "2026-03-01 18:22:27"
+  "crawl_time": "2026-03-02 01:20:42"
 }
