@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-05T19:10:44.420086",
+  "timestamp": "2026-03-06T01:23:55.783396",
   "platform": "pchome_onsale",
   "keyword": "pchome_onsale",
   "total_products": 82,
@@ -460,6 +460,13 @@
       "platform": "pchome_onsale"
     },
     {
+      "title": "資生堂 百優精純乳霜(75ml)",
+      "price": "$1,199",
+      "image_url": "https://img.pchome.com.tw/cs/items/DDADMPA900GHLK7/000007_1692352014.jpg?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DDADMP-A900GHLK7",
+      "platform": "pchome_onsale"
+    },
+    {
       "title": "vivo V60 5G (12G/512G)",
       "price": "$12,990",
       "image_url": "https://img.pchome.com.tw/cs/items/DYAY1E1900JQAI3/000007_1770785145.jpg?width=480",
@@ -558,13 +565,6 @@
       "platform": "pchome_onsale"
     },
     {
-      "title": "資生堂 百優精純乳霜(75ml)",
-      "price": "$1,199",
-      "image_url": "https://img.pchome.com.tw/cs/items/DDADMPA900GHLK7/000007_1692352014.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DDADMP-A900GHLK7",
-      "platform": "pchome_onsale"
-    },
-    {
       "title": "雷蛇 Leviathan V2 X 電競喇叭",
       "price": "$2,688",
       "image_url": "https://img.pchome.com.tw/cs/items/DCBF3JA900HCD0B/000007_1711532613.jpg?width=480",
@@ -579,5 +579,5 @@
       "platform": "pchome_onsale"
     }
   ],
-  "crawl_time": "2026-03-05 19:10:44"
+  "crawl_time": "2026-03-06 01:23:55"
 }
