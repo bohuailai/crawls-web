@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-15T18:28:49.860637",
+  "timestamp": "2026-03-16T01:45:26.622386",
   "platform": "pchome_onsale",
   "keyword": "pchome_onsale",
   "total_products": 81,
@@ -147,7 +147,7 @@
     {
       "title": "ASUS Dual RTX 5070 12GB OC 顯示卡",
       "price": "$21,590",
-      "image_url": "https://img.pchome.com.tw/cs/items/DRADKY1900JOS1O/000007_1773381585.jpg?width=480",
+      "image_url": "https://img.pchome.com.tw/cs/items/DRADKY1900JOS1O/000007_1773625153.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DRADKY-1900JOS1O",
       "platform": "pchome_onsale"
     },
@@ -572,5 +572,5 @@
       "platform": "pchome_onsale"
     }
   ],
-  "crawl_time": "2026-03-15 18:28:49"
+  "crawl_time": "2026-03-16 01:45:26"
 }
