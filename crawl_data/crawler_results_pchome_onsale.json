@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-23T18:42:28.582146",
+  "timestamp": "2026-03-24T01:19:59.960159",
   "platform": "pchome_onsale",
   "keyword": "pchome_onsale",
   "total_products": 90,
@@ -306,10 +306,10 @@
       "platform": "pchome_onsale"
     },
     {
-      "title": "BenQ 75吋 MiniLED144hz顯示器",
-      "price": "$39,900",
-      "image_url": "https://img.pchome.com.tw/cs/items/DPAD0O1900JCS7U/000007_1764348503.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DPAD0O-1900JCS7U",
+      "title": "Dyson WashG1 雙驅無線洗地機",
+      "price": "$4,999",
+      "image_url": "https://img.pchome.com.tw/cs/items/DMAX00A900HB48H/000007_1768379709.jpg?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DMAX00-A900HB48H",
       "platform": "pchome_onsale"
     },
     {
@@ -580,7 +580,7 @@
     },
     {
       "title": "Dyson WashG1無線洗地機",
-      "price": "$9,999",
+      "price": "$4,999",
       "image_url": "https://img.pchome.com.tw/cs/items/DMAX00A900HB48H/000007_1768379709.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DMAX00-A900HB48H",
       "platform": "pchome_onsale"
@@ -635,5 +635,5 @@
       "platform": "pchome_onsale"
     }
   ],
-  "crawl_time": "2026-03-23 18:42:28"
+  "crawl_time": "2026-03-24 01:19:59"
 }
