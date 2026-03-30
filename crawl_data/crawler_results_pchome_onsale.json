@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-03-30T07:17:38.833224",
+  "timestamp": "2026-03-30T12:59:51.432889",
   "platform": "pchome_onsale",
   "keyword": "pchome_onsale",
-  "total_products": 90,
+  "total_products": 92,
   "products": [
     {
       "title": "Hair Recipe髮的料理 洗髮露/潤髮乳 3入組",
@@ -41,8 +41,8 @@
     },
     {
       "title": "Zmoji 台灣製 五插座桌夾式USB延長線1.8米",
-      "price": "$1,364",
-      "image_url": "https://img.pchome.com.tw/cs/items/DSAOAQA900JMYEC/000007_1768276367.jpg?width=480",
+      "price": "$1,282",
+      "image_url": "https://img.pchome.com.tw/cs/items/DSAOAQA900JMYEC/000007_1774861457.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DSAOAQ-A900JMYEC",
       "platform": "pchome_onsale"
     },
@@ -86,13 +86,6 @@
       "price": "$41,080",
       "image_url": "https://img.pchome.com.tw/cs/items/DEBQRUA900JLF5D/000007_1772435350.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DEBQRU-A900JLF5D",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "汪喵星球犬貓冷凍乾燥原肉零食-家庭號300g",
-      "price": "$939",
-      "image_url": "https://img.pchome.com.tw/cs/items/DXBG7LA900ET3WO/000007_1773214511.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DXBG7L-A900ET3WO",
       "platform": "pchome_onsale"
     },
     {
@@ -156,6 +149,13 @@
       "price": "$3,999",
       "image_url": "https://img.pchome.com.tw/cs/items/DRAHL3A900JMSZF/000007_1768191812.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DRAHL3-A900JMSZF",
+      "platform": "pchome_onsale"
+    },
+    {
+      "title": "Hyperr 超躍貓咪無穀主食罐 90g 24件組",
+      "price": "$1,182",
+      "image_url": "https://img.pchome.com.tw/cs/items/DEBVI3A900HI9J8/000007_1716891331.jpg?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DEBVI3-A900HI9J8",
       "platform": "pchome_onsale"
     },
     {
@@ -273,27 +273,13 @@
     {
       "title": "技嘉 RTX 5060 OC WINDFORCE 8GB 顯卡",
       "price": "$11,990",
-      "image_url": "https://img.pchome.com.tw/cs/items/DRADL21900JSUXM/000007_1774843525.jpg?width=480",
+      "image_url": "https://img.pchome.com.tw/cs/items/DRADL21900JSUXM/000007_1774865340.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DRADL2-1900JSUXM",
       "platform": "pchome_onsale"
     },
     {
-      "title": "羅技G Pro X TKL Rapid 磁軸有線電競鍵盤",
-      "price": "$4,491",
-      "image_url": "https://img.pchome.com.tw/cs/items/DSAR4SA900IK5BF/000007_1768979959.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DSAR4S-A900IK5BF",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "康寧不鏽鋼手提保溫杯800ML",
-      "price": "$899",
-      "image_url": "https://img.pchome.com.tw/cs/items/DEBWHYA900HH6KO/000007_1715739162.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DEBWHY-A900HH6KO",
-      "platform": "pchome_onsale"
-    },
-    {
       "title": "卜蜂富貴紅燒蹄膀 超值2盒組(1000g/盒)",
-      "price": "$968",
+      "price": "$948",
       "image_url": "https://img.pchome.com.tw/cs/items/DBCP36A900C0Z1A/000007_1700463783.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DBCP36-A900C0Z1A",
       "platform": "pchome_onsale"
@@ -313,10 +299,45 @@
       "platform": "pchome_onsale"
     },
     {
+      "title": "THERMOS 膳魔師暖暖好食墊",
+      "price": "$3,440",
+      "image_url": "https://img.pchome.com.tw/cs/items/DEBWMMA900J74G7/000007_1756889709.jpg?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DEBWMM-A900J74G7",
+      "platform": "pchome_onsale"
+    },
+    {
+      "title": "羅技G PRO X SUPERLIGHT 2 SE 無線電競滑鼠",
+      "price": "$2,691",
+      "image_url": "https://img.pchome.com.tw/cs/items/DSAR4SA900J7YD4/000007_1774260234.jpg?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DSAR4S-A900J7YD4",
+      "platform": "pchome_onsale"
+    },
+    {
       "title": "威技 10L WiFi智慧除濕機 WDH-10EN",
       "price": "$4,288",
       "image_url": "https://img.pchome.com.tw/cs/items/DMBQ0OA900JTABO/000007_1773387173.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DMBQ0O-A900JTABO",
+      "platform": "pchome_onsale"
+    },
+    {
+      "title": "十銓T-FORCE 4TB 大容量SSD",
+      "price": "$9,999",
+      "image_url": "https://img.pchome.com.tw/cs/items/DRAH78A900HS6JB/000007_1725438291.jpg?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DRAH78-A900HS6JB",
+      "platform": "pchome_onsale"
+    },
+    {
+      "title": "TOSHIBA N300 22TB 3.5吋 NAS硬碟",
+      "price": "$21,999",
+      "image_url": "https://img.pchome.com.tw/cs/cms/creatives/onsale/8bb54e12-0a93-4015-a760-ba3eb2bf6329.jpeg?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DRAB6A-A900JBWG1",
+      "platform": "pchome_onsale"
+    },
+    {
+      "title": "KIOXIA Exceria G2 2TB 高效能SSD",
+      "price": "$5,900",
+      "image_url": "https://img.pchome.com.tw/cs/cms/creatives/onsale/74467f4f-02ab-4140-bf52-7d35040b8e39.jpeg?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DRAHGT-A900JOQ0O",
       "platform": "pchome_onsale"
     },
     {
@@ -376,17 +397,10 @@
       "platform": "pchome_onsale"
     },
     {
-      "title": "鎧俠EXCERIA PLUS SSD 2TB",
+      "title": "鎧俠 EXCERIA PLUS 2TB 外接SSD",
       "price": "$5,199",
-      "image_url": "https://img.pchome.com.tw/cs/items/DRAA5DA900FE3TS/000007_1740451226.jpg?width=480",
+      "image_url": "https://img.pchome.com.tw/cs/cms/creatives/onsale/9da4e977-1979-46a4-926c-1d1a89f8b89d.jpeg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DRAA5D-A900FE3TS",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "TOSHIBA N300 22TB 3.5吋 NAS硬碟",
-      "price": "$24,999",
-      "image_url": "https://img.pchome.com.tw/cs/items/DRAB6AA900JBWG1/000007_1759999998.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DRAB6A-A900JBWG1",
       "platform": "pchome_onsale"
     },
     {
@@ -432,17 +446,10 @@
       "platform": "pchome_onsale"
     },
     {
-      "title": "KIOXIA鎧俠 Exceria G2 2TB 高效能SSD",
-      "price": "$5,900",
-      "image_url": "https://img.pchome.com.tw/cs/items/DRAHGTA900JOQ0O/000007_1769655347.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DRAHGT-A900JOQ0O",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "十銓T-FORCE Z44A7Q 4TB SSD",
-      "price": "$14,999",
-      "image_url": "https://img.pchome.com.tw/cs/items/DRAH78A900HS6JB/000007_1725438291.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DRAH78-A900HS6JB",
+      "title": "sp 廣穎 A66 4TB 軍規防震行動硬碟",
+      "price": "$3,999",
+      "image_url": "https://img.pchome.com.tw/cs/cms/creatives/onsale/6c405191-198d-4137-ae3f-3ef5fc9f1439.jpeg?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DRAHCM-A900HO4EH",
       "platform": "pchome_onsale"
     },
     {
@@ -454,7 +461,7 @@
     },
     {
       "title": "NIKE AIR FORCE 1 07 男女休閒鞋",
-      "price": "$2,499",
+      "price": "$2,199",
       "image_url": "https://img.pchome.com.tw/cs/items/DXBY2LA900HLS6P/000007_1770788415.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DXBY2L-A900HLS6P",
       "platform": "pchome_onsale"
@@ -481,10 +488,24 @@
       "platform": "pchome_onsale"
     },
     {
-      "title": "美光Crucial X10 Pro 1TB SSD",
+      "title": "十銓 T-FORCE Z44A7Q 4TB 大容量SSD",
+      "price": "$9,999",
+      "image_url": "https://img.pchome.com.tw/cs/items/DRAH78A900HS6JB/000007_1725438291.jpg?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DRAH78-A900HS6JB",
+      "platform": "pchome_onsale"
+    },
+    {
+      "title": "美光 X10 Pro 1TB 外接SSD",
       "price": "$5,499",
-      "image_url": "https://img.pchome.com.tw/cs/items/DRAA5KA900JOK9D/000007_1769528113.jpg?width=480",
+      "image_url": "https://img.pchome.com.tw/cs/cms/creatives/onsale/0c62f2fc-d466-498d-a597-1c2233894cb3.jpeg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DRAA5K-A900JOK9D",
+      "platform": "pchome_onsale"
+    },
+    {
+      "title": "立達512GB 資料救援記憶卡",
+      "price": "$1,899",
+      "image_url": "https://img.pchome.com.tw/cs/cms/creatives/onsale/30bc2179-f2f6-48fe-b3dd-b886a3450863.jpeg?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DGAG52-A900J53MF",
       "platform": "pchome_onsale"
     },
     {
@@ -518,29 +539,15 @@
     {
       "title": "KIOXIA鎧俠 Exceria G2 2TB 高效能SSD",
       "price": "$5,900",
-      "image_url": "https://img.pchome.com.tw/cs/items/DRAHGTA900JOQ0O/000007_1769655347.jpg?width=480",
+      "image_url": "https://img.pchome.com.tw/cs/cms/creatives/onsale/ff6e4f3d-0b01-4483-a61b-a08b2280098e.jpeg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DRAHGT-A900JOQ0O",
       "platform": "pchome_onsale"
     },
     {
-      "title": "立達512GB 資料救援記憶卡",
-      "price": "$1,899",
-      "image_url": "https://img.pchome.com.tw/cs/cms/creatives/onsale/51bd2493-3dad-4b0b-848b-11e5aab3c539.png?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DGAG52-A900J53MF",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "十銓 T-FORCE Z44A7Q 4TB SSD",
-      "price": "$14,999",
-      "image_url": "https://img.pchome.com.tw/cs/items/DRAH78A900HS6JB/000007_1725438291.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DRAH78-A900HS6JB",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "Panasonic 國際牌 日製6L大容量廚餘機",
-      "price": "$29,900",
-      "image_url": "https://img.pchome.com.tw/cs/items/DMAG0KA900JLZ66/000007_1767580964.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DMAG0K-A900JLZ66",
+      "title": "DJI 大疆NEO 2 暢飛套裝",
+      "price": "$8,390",
+      "image_url": "https://img.pchome.com.tw/cs/items/DGCS481900JI7JD/000007_1764558804.jpg?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DGCS48-1900JI7JD",
       "platform": "pchome_onsale"
     },
     {
@@ -548,13 +555,6 @@
       "price": "$2,888",
       "image_url": "https://img.pchome.com.tw/cs/items/DEAY01A900I5JRP/000007_1733857234.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DEAY01-A900I5JRP",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "微軟 Microsoft 365 家用版一年盒裝",
-      "price": "$3,790",
-      "image_url": "https://img.pchome.com.tw/cs/items/DSAE9GA900JD52A/000007_1761028004.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DSAE9G-A900JD52A",
       "platform": "pchome_onsale"
     },
     {
@@ -588,15 +588,8 @@
     {
       "title": "LEGEND WALKER 24吋可擴充前開式行李箱",
       "price": "$2,188",
-      "image_url": "https://img.pchome.com.tw/cs/items/DIBKVLA900JUQBB/000007_1774513690.jpg?width=480",
+      "image_url": "https://img.pchome.com.tw/cs/items/DIBKVLA900JUQBB/000007_1774855247.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DIBKVL-A900JUQBB",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "DJI NEO 2 暢飛套裝",
-      "price": "$8,390",
-      "image_url": "https://img.pchome.com.tw/cs/items/DGCS48A900JG5CA/000007_1763015774.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DGCS48-1900JI7JD",
       "platform": "pchome_onsale"
     },
     {
@@ -633,7 +626,28 @@
       "image_url": "https://img.pchome.com.tw/cs/items/DRAF01A900I3ETA/000007_1732172248.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DRAF01-A900I3ETA",
       "platform": "pchome_onsale"
+    },
+    {
+      "title": "羅技Driving force G29賽車方向盤",
+      "price": "$6,990",
+      "image_url": "https://img.pchome.com.tw/cs/items/DSAR7NA900HHYWJ/000007_1773229385.jpg?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DSAR7N-A900HHYWJ",
+      "platform": "pchome_onsale"
+    },
+    {
+      "title": "KUDI 庫迪DACO廚餘機 PRO 4.5L",
+      "price": "$6,590",
+      "image_url": "https://img.pchome.com.tw/cs/items/DMAG0KA900HRMXL/000007_1724896355.jpg?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DMAG0K-A900HRMXL",
+      "platform": "pchome_onsale"
+    },
+    {
+      "title": "sp 廣穎 A66 4TB 軍規防震行動硬碟",
+      "price": "$3,999",
+      "image_url": "https://img.pchome.com.tw/cs/cms/creatives/onsale/711d3f29-4957-433d-b5ed-14ff110814b5.jpeg?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DRAHCM-A900HO4EH",
+      "platform": "pchome_onsale"
     }
   ],
-  "crawl_time": "2026-03-30 07:17:38"
+  "crawl_time": "2026-03-30 12:59:51"
 }
