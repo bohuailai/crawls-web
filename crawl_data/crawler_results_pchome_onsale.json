@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-01T13:00:22.542980",
+  "timestamp": "2026-04-01T18:50:46.751684",
   "platform": "pchome_onsale",
   "keyword": "pchome_onsale",
   "total_products": 88,
@@ -96,10 +96,10 @@
       "platform": "pchome_onsale"
     },
     {
-      "title": "樂高 11370 怪奇物語 克里爾家",
-      "price": "$8,639",
-      "image_url": "https://img.pchome.com.tw/cs/items/DEDJ11A900JSHF9/000007_1775024094.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DEDJ11-A900JSHF9",
+      "title": "樂高75460 新共和國 X 翼星際戰機",
+      "price": "$2,249",
+      "image_url": "https://img.pchome.com.tw/cs/items/DEDJ0SA900JSHDM/000007_1772777495.jpg?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DEDJ0S-A900JSHDM",
       "platform": "pchome_onsale"
     },
     {
@@ -621,5 +621,5 @@
       "platform": "pchome_onsale"
     }
   ],
-  "crawl_time": "2026-04-01 13:00:22"
+  "crawl_time": "2026-04-01 18:50:46"
 }
