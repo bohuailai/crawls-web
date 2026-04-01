@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-31T18:50:58.304638",
+  "timestamp": "2026-04-01T01:52:20.521853",
   "platform": "pchome_onsale",
   "keyword": "pchome_onsale",
   "total_products": 90,
@@ -180,9 +180,9 @@
       "platform": "pchome_onsale"
     },
     {
-      "title": "小米100吋 QLED 顯示器",
+      "title": "小米100吋QLED 144Hz 電競顯示器",
       "price": "$69,999",
-      "image_url": "https://img.pchome.com.tw/cs/items/DPADBUA900IC1GI/000007_1774890755.jpg?width=480",
+      "image_url": "https://img.pchome.com.tw/cs/items/DPADBUA900IC1GI/000007_1775004871.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DPADBU-A900IC1GI",
       "platform": "pchome_onsale"
     },
@@ -336,7 +336,7 @@
     {
       "title": "小米100吋 QLED顯示器",
       "price": "$69,999",
-      "image_url": "https://img.pchome.com.tw/cs/items/DPADBUA900IC1GI/000007_1774890755.jpg?width=480",
+      "image_url": "https://img.pchome.com.tw/cs/items/DPADBUA900IC1GI/000007_1775004871.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DPADBU-A900IC1GI",
       "platform": "pchome_onsale"
     },
@@ -370,7 +370,7 @@
     },
     {
       "title": "威技 11吋DC直流變頻3D循環扇",
-      "price": "$1,190",
+      "price": "$1,309",
       "image_url": "https://img.pchome.com.tw/cs/items/DMABLYA900INHLM/000007_1746001735.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DMABLY-A900INHLM",
       "platform": "pchome_onsale"
@@ -490,7 +490,7 @@
     {
       "title": "小米100吋 QLED顯示器",
       "price": "$69,999",
-      "image_url": "https://img.pchome.com.tw/cs/items/DPADBUA900IC1GI/000007_1774890755.jpg?width=480",
+      "image_url": "https://img.pchome.com.tw/cs/items/DPADBUA900IC1GI/000007_1775004871.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DPADBU-A900IC1GI",
       "platform": "pchome_onsale"
     },
@@ -635,5 +635,5 @@
       "platform": "pchome_onsale"
     }
   ],
-  "crawl_time": "2026-03-31 18:50:58"
+  "crawl_time": "2026-04-01 01:52:20"
 }
