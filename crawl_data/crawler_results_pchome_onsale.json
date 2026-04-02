@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-04-02T07:02:52.512721",
+  "timestamp": "2026-04-02T12:54:38.953238",
   "platform": "pchome_onsale",
   "keyword": "pchome_onsale",
-  "total_products": 85,
+  "total_products": 84,
   "products": [
     {
       "title": "微軟 13吋2.8K觸控商務筆電(i7/16G/256G)",
@@ -47,20 +47,6 @@
       "platform": "pchome_onsale"
     },
     {
-      "title": "大研 EPA 1200 頂級魚油軟膠囊(90粒x5罐)",
-      "price": "$4,750",
-      "image_url": "https://img.pchome.com.tw/cs/items/DBDF021900HZ71Y/000007_1763634938.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DBDF02-1900HZ71Y",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "EVERLIGHT億光 LED遙控吸頂燈",
-      "price": "$849",
-      "image_url": "https://img.pchome.com.tw/cs/items/DQBP3WA900JUET0/000007_1775102816.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DQBP3W-A900JUET0",
-      "platform": "pchome_onsale"
-    },
-    {
       "title": "GARMIN Drive 53 5吋車用衛星導航",
       "price": "$4,390",
       "image_url": "https://img.pchome.com.tw/cs/items/DXAO2VA900G6DPZ/000007_1679985381.jpg?width=480",
@@ -75,24 +61,10 @@
       "platform": "pchome_onsale"
     },
     {
-      "title": "YAMAHA CYGNUS 155雙碟 競技版 智能鎖",
-      "price": "$118,500",
-      "image_url": "https://img.pchome.com.tw/cs/items/DXBK3TA900JRYJU/000007_1772444089.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DXBK3T-A900JRYJU",
-      "platform": "pchome_onsale"
-    },
-    {
       "title": "統一超商 3000元數位商品禮券(歸戶型)",
       "price": "$2,983",
       "image_url": "https://img.pchome.com.tw/cs/items/DBCRPBA900IUC6B/000007_1758532711.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DBCRPB-A900IUC6B",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "CONVERSE One Star Pro 休閒鞋",
-      "price": "$999",
-      "image_url": "https://img.pchome.com.tw/cs/items/DXBW23A900JOILW/000007_1775028949.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DXBW23-A900JOILW",
       "platform": "pchome_onsale"
     },
     {
@@ -114,13 +86,6 @@
       "price": "$1,299",
       "image_url": "https://img.pchome.com.tw/cs/items/DMBJ00A900J3VBL/000007_1754535459.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DMBJ00-A900J3VBL",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "ANDYMAY2 艾蜜莉折疊收納櫃",
-      "price": "$599",
-      "image_url": "https://img.pchome.com.tw/cs/items/DQAUMBA900HXH3D/000007_1774863579.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DQAUMB-A900HXH3D",
       "platform": "pchome_onsale"
     },
     {
@@ -156,6 +121,41 @@
       "price": "$2,390",
       "image_url": "https://img.pchome.com.tw/cs/items/DSAR4SA900J66RC/000007_1759803166.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DSAR4S-A900J66RC",
+      "platform": "pchome_onsale"
+    },
+    {
+      "title": "New Balance Fresh Foam 680v8 跑步鞋",
+      "price": "$2,353",
+      "image_url": "https://img.pchome.com.tw/cs/items/DXAX7VA900JJ83B/000007_1765338227.jpg?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DXAX7V-A900JJ83B",
+      "platform": "pchome_onsale"
+    },
+    {
+      "title": "MUJI 無印良品高濃度美容液 A醇誘導體/50ml",
+      "price": "$790",
+      "image_url": "https://img.pchome.com.tw/cs/items/DEDK46A900JCOAI/000007_1760596425.jpg?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DEDK46-A900JCOAI",
+      "platform": "pchome_onsale"
+    },
+    {
+      "title": "PROFERTIL富精多 男性配方膠囊(60粒/盒)",
+      "price": "$5,500",
+      "image_url": "https://img.pchome.com.tw/cs/items/DBBBFPA900I1LPN/000007_1753259150.jpg?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DBBBFP-A900I1LPN",
+      "platform": "pchome_onsale"
+    },
+    {
+      "title": "Milwaukee M18 FUEL鋰電無碳刷震動電鑽全配",
+      "price": "$12,350",
+      "image_url": "https://img.pchome.com.tw/cs/items/DQBE4SA900I1859/000007_1768209124.jpg?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DQBE4S-A900I1859",
+      "platform": "pchome_onsale"
+    },
+    {
+      "title": "iFreego F7電動自行車 通勤版",
+      "price": "$13,611",
+      "image_url": "https://img.pchome.com.tw/cs/items/DEAO0SA900J3WIT/000007_1754553229.jpg?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DEAO0S-A900J3WIT",
       "platform": "pchome_onsale"
     },
     {
@@ -229,20 +229,6 @@
       "platform": "pchome_onsale"
     },
     {
-      "title": "EVER CLEAN 藍鑽強效除臭貓砂 8.5kg*2入",
-      "price": "$1,298",
-      "image_url": "https://img.pchome.com.tw/cs/items/DEAKVS1900JN2AS/000007_1768298572.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DEAKVS-1900JN2AS",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "ALC Carplay車用多媒體盒 I8",
-      "price": "$4,792",
-      "image_url": "https://img.pchome.com.tw/cs/items/DXAABIA900I80BV/000007_1735636592.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DXAABI-A900I80BV",
-      "platform": "pchome_onsale"
-    },
-    {
       "title": "ACER Predator X32 V2 OLED 32型4K電競螢幕",
       "price": "$17,900",
       "image_url": "https://img.pchome.com.tw/cs/items/DSABELA900JS63L/000007_1772594051.jpg?width=480",
@@ -306,6 +292,20 @@
       "platform": "pchome_onsale"
     },
     {
+      "title": "UREVO CyberPad for Office智能緩坡機",
+      "price": "$14,800",
+      "image_url": "https://img.pchome.com.tw/cs/items/DEBY2AA900JODR3/000007_1769399979.jpg?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DEBY2A-A900JODR3",
+      "platform": "pchome_onsale"
+    },
+    {
+      "title": "Petkit佩奇 全自動智能貓砂機ULTRA",
+      "price": "$27,888",
+      "image_url": "https://img.pchome.com.tw/cs/items/DEAKXMA900J5KAQ/000007_1756024092.jpg?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DEAKXM-A900J5KAQ",
+      "platform": "pchome_onsale"
+    },
+    {
       "title": "Canon PowerShot G7X Mark III 黑色",
       "price": "$38,590",
       "image_url": "https://img.pchome.com.tw/cs/items/DGADF0A900A6IEN/000007_1775012744.jpg?width=480",
@@ -315,7 +315,7 @@
     {
       "title": "NS2 Pokopia 日版封面(支援中文)",
       "price": "$16,460",
-      "image_url": "https://img.pchome.com.tw/cs/items/DGBJRG1900JT4QV/000007_1773288662.jpg?width=480",
+      "image_url": "https://img.pchome.com.tw/cs/items/DGBJRG1900JT4QV/000007_1775123667.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DGBJRG-1900JT4QV",
       "platform": "pchome_onsale"
     },
@@ -455,7 +455,7 @@
     {
       "title": "NS2 Pokopia 日版封面(支援中文)",
       "price": "$16,460",
-      "image_url": "https://img.pchome.com.tw/cs/items/DGBJRG1900JT4QV/000007_1773288662.jpg?width=480",
+      "image_url": "https://img.pchome.com.tw/cs/items/DGBJRG1900JT4QV/000007_1775123667.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DGBJRG-1900JT4QV",
       "platform": "pchome_onsale"
     },
@@ -530,13 +530,6 @@
       "platform": "pchome_onsale"
     },
     {
-      "title": "SanDisk 1TB 磁吸外接式SSD (演唱會神器)",
-      "price": "$5,499",
-      "image_url": "https://img.pchome.com.tw/cs/items/DRAA02A900J05PA/000007_1751535659.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DRAA02-A900J05PA",
-      "platform": "pchome_onsale"
-    },
-    {
       "title": "UNIQ iPhone 17 系列磁吸雙料相機鈕防摔殼",
       "price": "$801",
       "image_url": "https://img.pchome.com.tw/cs/items/DYARHPA900J5HXF/000007_1755820254.jpg?width=480",
@@ -559,7 +552,7 @@
     },
     {
       "title": "3M L21 移動式過濾飲水機-4.5公升",
-      "price": "$9,999",
+      "price": "$11,111",
       "image_url": "https://img.pchome.com.tw/cs/items/DAAW11A900AA31K/000007_1730699676.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DAAW11-A900AA31K",
       "platform": "pchome_onsale"
@@ -600,5 +593,5 @@
       "platform": "pchome_onsale"
     }
   ],
-  "crawl_time": "2026-04-02 07:02:52"
+  "crawl_time": "2026-04-02 12:54:38"
 }
