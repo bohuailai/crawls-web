@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-04-03T18:36:40.636738",
+  "timestamp": "2026-04-04T01:24:46.786663",
   "platform": "pchome_onsale",
   "keyword": "pchome_onsale",
-  "total_products": 82,
+  "total_products": 80,
   "products": [
     {
       "title": "NS2 Pokopia 日版封面(支援中文)",
@@ -142,20 +142,6 @@
       "price": "$5,499",
       "image_url": "https://img.pchome.com.tw/cs/items/DRAA02A900J05PA/000007_1751535659.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DRAA02-A900J05PA",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "MAJORITY Teton旗艦款 2.1家庭劇院聲霸",
-      "price": "$2,222",
-      "image_url": "https://img.pchome.com.tw/cs/items/DPADT3A900JRVR3/000007_1772879681.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DPADT3-A900JRVR3",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "Hikers 65吋QLED 量子點智能顯示器",
-      "price": "$11,111",
-      "image_url": "https://img.pchome.com.tw/cs/items/DPADC8A900HN44W/000007_1761312388.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DPADC8-A900HN44W",
       "platform": "pchome_onsale"
     },
     {
@@ -579,5 +565,5 @@
       "platform": "pchome_onsale"
     }
   ],
-  "crawl_time": "2026-04-03 18:36:40"
+  "crawl_time": "2026-04-04 01:24:46"
 }
