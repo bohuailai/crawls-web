@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-04-06T07:19:52.102722",
+  "timestamp": "2026-04-06T12:53:21.130062",
   "platform": "pchome_onsale",
   "keyword": "pchome_onsale",
-  "total_products": 95,
+  "total_products": 97,
   "products": [
     {
       "title": "國際牌 超音波水流個人高效型沖牙機EW-DJ67",
@@ -292,6 +292,13 @@
       "platform": "pchome_onsale"
     },
     {
+      "title": "Hikers 65吋4K QLED 量子點智能顯示器",
+      "price": "$11,111",
+      "image_url": "https://img.pchome.com.tw/cs/items/DPADC81900IRSVP/000007_1765562930.jpg?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DPADC8-1900IRSVP",
+      "platform": "pchome_onsale"
+    },
+    {
       "title": "MSI Mini LED 27型 2K電競螢幕",
       "price": "$7,590",
       "image_url": "https://img.pchome.com.tw/cs/items/DSABPEA900JO292/000007_1769077292.jpg?width=480",
@@ -303,6 +310,13 @@
       "price": "$21,990",
       "image_url": "https://img.pchome.com.tw/cs/items/DYAY3E1900JO7WF/000007_1769162131.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DYAY3E-1900JO7WF",
+      "platform": "pchome_onsale"
+    },
+    {
+      "title": "LG 55型 4K 75系列智慧聯網顯示器",
+      "price": "$14,500",
+      "image_url": "https://img.pchome.com.tw/cs/items/DPADYE1900JGS7G/000007_1763532732.jpg?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DPADYE-1900JGS7G",
       "platform": "pchome_onsale"
     },
     {
@@ -670,5 +684,5 @@
       "platform": "pchome_onsale"
     }
   ],
-  "crawl_time": "2026-04-06 07:19:52"
+  "crawl_time": "2026-04-06 12:53:21"
 }
