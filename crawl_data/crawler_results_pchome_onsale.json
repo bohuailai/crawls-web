@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-09T13:05:03.947433",
+  "timestamp": "2026-04-09T18:53:28.209949",
   "platform": "pchome_onsale",
   "keyword": "pchome_onsale",
   "total_products": 84,
@@ -14,7 +14,7 @@
     {
       "title": "Xiaomi 小米14T Pro (12GB/512GB)",
       "price": "$12,699",
-      "image_url": "https://img.pchome.com.tw/cs/items/DYAWBXA900HTG4U/000007_1775729341.jpg?width=480",
+      "image_url": "https://img.pchome.com.tw/cs/items/DYAWBXA900HTG4U/000007_1775750499.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DYAWBX-A900HTG4U",
       "platform": "pchome_onsale"
     },
@@ -593,5 +593,5 @@
       "platform": "pchome_onsale"
     }
   ],
-  "crawl_time": "2026-04-09 13:05:03"
+  "crawl_time": "2026-04-09 18:53:28"
 }
