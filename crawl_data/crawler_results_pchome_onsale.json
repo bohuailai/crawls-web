@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-09T18:53:28.209949",
+  "timestamp": "2026-04-10T01:49:20.711688",
   "platform": "pchome_onsale",
   "keyword": "pchome_onsale",
   "total_products": 84,
@@ -37,13 +37,6 @@
       "price": "$14,140",
       "image_url": "https://img.pchome.com.tw/cs/items/DGCF411900IOE5G/000007_1745810619.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DGCF41-1900IOE5G",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "emirai 儲能小瓦力 PRO",
-      "price": "$7,280",
-      "image_url": "https://img.pchome.com.tw/cs/items/DEBQ7SA900J7WGL/000007_1775556560.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DEBQ7S-A900J7WGL",
       "platform": "pchome_onsale"
     },
     {
@@ -86,6 +79,13 @@
       "price": "$30,990",
       "image_url": "https://img.pchome.com.tw/cs/items/DHBFA01900JUOQM/000007_1775707551.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DHBFA0-1900JUOQM",
+      "platform": "pchome_onsale"
+    },
+    {
+      "title": "ECOFLOW DELTA 2 儲能電源",
+      "price": "$22,990",
+      "image_url": "https://img.pchome.com.tw/cs/items/DEBQ7SA900GZ5ZL/000007_1775727035.jpg?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DEBQ7S-A900GZ5ZL",
       "platform": "pchome_onsale"
     },
     {
@@ -593,5 +593,5 @@
       "platform": "pchome_onsale"
     }
   ],
-  "crawl_time": "2026-04-09 18:53:28"
+  "crawl_time": "2026-04-10 01:49:20"
 }
