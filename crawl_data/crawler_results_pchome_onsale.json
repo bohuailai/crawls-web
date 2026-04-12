@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-04-12T07:05:13.936926",
+  "timestamp": "2026-04-12T12:42:52.551991",
   "platform": "pchome_onsale",
   "keyword": "pchome_onsale",
-  "total_products": 87,
+  "total_products": 89,
   "products": [
     {
       "title": "舒酸定 專業抗敏護齦牙膏(100gx8入)",
@@ -34,7 +34,7 @@
     },
     {
       "title": "APC 1000VA/600W 在線互動UPS",
-      "price": "$2,289",
+      "price": "$2,189",
       "image_url": "https://img.pchome.com.tw/cs/items/DCAR1CA9009JQ00/000007_1682590953.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DCAR1C-A9009JQ00",
       "platform": "pchome_onsale"
@@ -215,6 +215,13 @@
       "platform": "pchome_onsale"
     },
     {
+      "title": "LG超淨化大白空氣清淨機",
+      "price": "$7,280",
+      "image_url": "https://img.pchome.com.tw/cs/items/DMAU0BA900GI0Q1/000007_1735886692.jpg?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DMAU0B-A900GI0Q1",
+      "platform": "pchome_onsale"
+    },
+    {
       "title": "ACER 14吋32G記憶體Copilot+ AI筆電",
       "price": "$33,900",
       "image_url": "https://img.pchome.com.tw/cs/items/DHAEJ0A900JB6DV/000007_1765937203.jpg?width=480",
@@ -264,6 +271,13 @@
       "platform": "pchome_onsale"
     },
     {
+      "title": "BenQ 50吋4K 120Hz量子點護眼晶顯示器",
+      "price": "$13,900",
+      "image_url": "https://img.pchome.com.tw/cs/items/DPADHK1900IFVPH/000007_1774958522.jpg?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DPADHK-1900IFVPH",
+      "platform": "pchome_onsale"
+    },
+    {
       "title": "添寧貼心敢動褲",
       "price": "$999",
       "image_url": "https://img.pchome.com.tw/cs/items/DAAU4YA900J48G5/000007_1754899227.jpg?width=480",
@@ -278,6 +292,13 @@
       "platform": "pchome_onsale"
     },
     {
+      "title": "LG 55型 4K 75系列智慧顯示器",
+      "price": "$14,500",
+      "image_url": "https://img.pchome.com.tw/cs/items/DPADYE1900JGS7G/000007_1763532732.jpg?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DPADYE-1900JGS7G",
+      "platform": "pchome_onsale"
+    },
+    {
       "title": "ARIEL 抗菌洗衣精1690g補充包x6",
       "price": "$1,099",
       "image_url": "https://img.pchome.com.tw/cs/items/DAAK7P1900IBNVW/000007_1738572498.jpg?width=480",
@@ -289,13 +310,6 @@
       "price": "$2,249",
       "image_url": "https://img.pchome.com.tw/cs/items/DEDJ3GA900JV4UD/000007_1775787855.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DEDJ3G-A900JV4UD",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "LG寵物功能增加版清淨機",
-      "price": "$16,900",
-      "image_url": "https://img.pchome.com.tw/cs/items/DMAUBSA900JO026/000007_1769048573.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DMAUBS-A900JO026",
       "platform": "pchome_onsale"
     },
     {
@@ -614,5 +628,5 @@
       "platform": "pchome_onsale"
     }
   ],
-  "crawl_time": "2026-04-12 07:05:13"
+  "crawl_time": "2026-04-12 12:42:52"
 }
