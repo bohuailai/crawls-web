@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-12T18:36:48.142794",
+  "timestamp": "2026-04-13T01:56:44.136026",
   "platform": "pchome_onsale",
   "keyword": "pchome_onsale",
   "total_products": 88,
@@ -404,6 +404,13 @@
       "platform": "pchome_onsale"
     },
     {
+      "title": "免組裝六層72寬全碳鋼折疊置物架",
+      "price": "$699",
+      "image_url": "https://img.pchome.com.tw/cs/items/DQCD0SA900IHWYD/000007_1769497504.jpg?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DQCD0S-A900IHWYD",
+      "platform": "pchome_onsale"
+    },
+    {
       "title": "東芝20L 旋鈕轉盤微波爐MW3-MM20P",
       "price": "$1,790",
       "image_url": "https://img.pchome.com.tw/cs/items/DMBJ00A900IU2EA/000007_1765156231.jpg?width=480",
@@ -415,13 +422,6 @@
       "price": "$999",
       "image_url": "https://img.pchome.com.tw/cs/items/DEAKO11900HPZQW/000007_1768534055.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DEAKO1-1900HPZQW",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "五層70寬全碳鋼 折疊置物架(多色可選)",
-      "price": "$699",
-      "image_url": "https://img.pchome.com.tw/cs/items/DQCD0SA900I904C/000007_1761549953.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DQCD0S-A900I904C",
       "platform": "pchome_onsale"
     },
     {
@@ -621,5 +621,5 @@
       "platform": "pchome_onsale"
     }
   ],
-  "crawl_time": "2026-04-12 18:36:48"
+  "crawl_time": "2026-04-13 01:56:44"
 }
