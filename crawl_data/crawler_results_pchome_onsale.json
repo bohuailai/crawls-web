@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-15T19:03:48.196119",
+  "timestamp": "2026-04-16T01:56:28.789830",
   "platform": "pchome_onsale",
   "keyword": "pchome_onsale",
   "total_products": 88,
@@ -182,7 +182,7 @@
     {
       "title": "ASUS 15.6吋i7-1TB效能筆電",
       "price": "$26,999",
-      "image_url": "https://img.pchome.com.tw/cs/items/DHAFOD1900J873A/000007_1776231363.jpg?width=480",
+      "image_url": "https://img.pchome.com.tw/cs/items/DHAFOD1900J873A/000007_1776303898.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DHAFOD-1900J873A",
       "platform": "pchome_onsale"
     },
@@ -244,7 +244,7 @@
     },
     {
       "title": "喬亞咖啡 滴濾無糖黑咖啡350ml (24入/箱)",
-      "price": "$560",
+      "price": "$566",
       "image_url": "https://img.pchome.com.tw/cs/items/DBABE2A900B3IQN/000007_1761788630.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DBABE2-A900B3IQN",
       "platform": "pchome_onsale"
@@ -621,5 +621,5 @@
       "platform": "pchome_onsale"
     }
   ],
-  "crawl_time": "2026-04-15 19:03:48"
+  "crawl_time": "2026-04-16 01:56:28"
 }
