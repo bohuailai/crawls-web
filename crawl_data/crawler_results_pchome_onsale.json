@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-04-25T07:04:47.233178",
+  "timestamp": "2026-04-25T12:44:16.209803",
   "platform": "pchome_onsale",
   "keyword": "pchome_onsale",
-  "total_products": 84,
+  "total_products": 85,
   "products": [
     {
       "title": "SHOKZ OpenRun Pro 骨傳導藍牙運動耳機",
@@ -198,6 +198,13 @@
       "price": "$699",
       "image_url": "https://img.pchome.com.tw/cs/items/DEEN0G1900GQKYP/000007_1777013828.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DEEN0G-1900GQKYP",
+      "platform": "pchome_onsale"
+    },
+    {
+      "title": "Samsung 55吋 4K 微邊框纖薄電視",
+      "price": "$13,900",
+      "image_url": "https://img.pchome.com.tw/cs/items/DPADODA900HSF3G/000007_1776308261.jpg?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DPADOD-A900HSF3G",
       "platform": "pchome_onsale"
     },
     {
@@ -593,5 +600,5 @@
       "platform": "pchome_onsale"
     }
   ],
-  "crawl_time": "2026-04-25 07:04:47"
+  "crawl_time": "2026-04-25 12:44:16"
 }
