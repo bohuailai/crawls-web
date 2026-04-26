@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-04-26T07:18:34.155965",
+  "timestamp": "2026-04-26T12:46:49.221127",
   "platform": "pchome_onsale",
   "keyword": "pchome_onsale",
-  "total_products": 92,
+  "total_products": 94,
   "products": [
     {
       "title": "舒潔 蓬柔舒膚抽取衛生紙(100抽x64包)",
@@ -299,10 +299,24 @@
       "platform": "pchome_onsale"
     },
     {
+      "title": "Hikers 2.1杜比全景聲無線重低音聲霸",
+      "price": "$2,999",
+      "image_url": "https://img.pchome.com.tw/cs/items/DPADFN1900JXIGN/000007_1776592636.jpg?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DPADFN-1900JXIGN",
+      "platform": "pchome_onsale"
+    },
+    {
       "title": "颶風俠X3 MINI 強力吹塵槍",
       "price": "$599",
       "image_url": "https://img.pchome.com.tw/cs/items/DEADX9A900J2ZAW/000007_1753867923.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DEADX9-A900J2ZAW",
+      "platform": "pchome_onsale"
+    },
+    {
+      "title": "Haier 50吋QLED 120Hz智能電競螢幕顯示器",
+      "price": "$7,999",
+      "image_url": "https://img.pchome.com.tw/cs/items/DPADLNA900HT6B9/000007_1761550961.jpg?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DPADLN-A900HT6B9",
       "platform": "pchome_onsale"
     },
     {
@@ -649,5 +663,5 @@
       "platform": "pchome_onsale"
     }
   ],
-  "crawl_time": "2026-04-26 07:18:34"
+  "crawl_time": "2026-04-26 12:46:49"
 }
