@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-05-01T13:00:42.844285",
+  "timestamp": "2026-05-01T19:00:13.786952",
   "platform": "pchome_onsale",
   "keyword": "pchome_onsale",
-  "total_products": 76,
+  "total_products": 74,
   "products": [
     {
       "title": "老協珍熬雞精禮盒 (42ml x14入x3盒)",
@@ -51,13 +51,6 @@
       "price": "$54,426",
       "image_url": "https://img.pchome.com.tw/cs/items/DGCB7NA900IVWXK/000007_1753149919.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DGCB7N-A900IVWXK",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "LG 樂金55型 4K UHD 75系列 智慧聯網顯示器",
-      "price": "$13,900",
-      "image_url": "https://img.pchome.com.tw/cs/items/DPADYE1900JGS7G/000007_1763532732.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DPADYE-1900JGS7G",
       "platform": "pchome_onsale"
     },
     {
@@ -142,13 +135,6 @@
       "price": "$399",
       "image_url": "https://img.pchome.com.tw/cs/items/DXAB8LA900HQOK0/000007_1724141552.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DXAB8L-A900HQOK0",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "Hikers 2.1 Atmos杜比全景聲無線重低音聲霸",
-      "price": "$2,999",
-      "image_url": "https://img.pchome.com.tw/cs/items/DPADFN1900JXIGN/000007_1776592636.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DPADFN-1900JXIGN",
       "platform": "pchome_onsale"
     },
     {
@@ -537,5 +523,5 @@
       "platform": "pchome_onsale"
     }
   ],
-  "crawl_time": "2026-05-01 13:00:42"
+  "crawl_time": "2026-05-01 19:00:13"
 }
