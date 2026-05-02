@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-05-02T07:21:31.441549",
+  "timestamp": "2026-05-02T12:52:10.355713",
   "platform": "pchome_onsale",
   "keyword": "pchome_onsale",
-  "total_products": 85,
+  "total_products": 87,
   "products": [
     {
       "title": "SK-II 青春露330ml 公司貨",
@@ -230,9 +230,23 @@
     },
     {
       "title": "東門興記 手工水餃5包組",
-      "price": "$1,038",
+      "price": "$988",
       "image_url": "https://img.pchome.com.tw/cs/items/QFAHF7A9009FE73/000007_1773390732.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/QFAHF7-A9009FE73",
+      "platform": "pchome_onsale"
+    },
+    {
+      "title": "LG 55型 4K UHD 75系列 智慧聯網顯示器",
+      "price": "$13,900",
+      "image_url": "https://img.pchome.com.tw/cs/items/DPADYE1900JGS7G/000007_1763532732.jpg?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DPADYE-1900JGS7G",
+      "platform": "pchome_onsale"
+    },
+    {
+      "title": "MAJORITY旗艦款 2.1聲道家庭劇院聲霸",
+      "price": "$2,222",
+      "image_url": "https://img.pchome.com.tw/cs/items/DPADT3A900JRVR3/000007_1772879681.jpg?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DPADT3-A900JRVR3",
       "platform": "pchome_onsale"
     },
     {
@@ -594,11 +608,11 @@
     },
     {
       "title": "華碩Falchion ACE HFX ZywOo Edition 65%",
-      "price": "$6,190",
+      "price": "$5,990",
       "image_url": "https://img.pchome.com.tw/cs/items/DCAHH2A900JLE9K/000007_1766980694.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DCAHH2-A900JLE9K",
       "platform": "pchome_onsale"
     }
   ],
-  "crawl_time": "2026-05-02 07:21:31"
+  "crawl_time": "2026-05-02 12:52:10"
 }
