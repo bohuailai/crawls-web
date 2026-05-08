@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-08T13:13:35.772114",
+  "timestamp": "2026-05-08T19:06:31.603458",
   "platform": "pchome_onsale",
   "keyword": "pchome_onsale",
   "total_products": 74,
@@ -159,13 +159,6 @@
       "platform": "pchome_onsale"
     },
     {
-      "title": "Asics亞瑟士 GEL-KAYANO 32 支撐慢跑鞋",
-      "price": "$4,144",
-      "image_url": "https://img.pchome.com.tw/cs/items/DXBE3DA900IX4TO/000007_1749548542.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DXBE3D-A900IX4TO",
-      "platform": "pchome_onsale"
-    },
-    {
       "title": "大研 1000億益生菌粉包PLUS+(30包x共2盒)",
       "price": "$1,209",
       "image_url": "https://img.pchome.com.tw/cs/items/DBDF081900ICPAF/000007_1770199968.jpg?width=480",
@@ -229,6 +222,13 @@
       "platform": "pchome_onsale"
     },
     {
+      "title": "Asics亞瑟士 GT-1000 13 支撐慢跑鞋",
+      "price": "$2,026",
+      "image_url": "https://img.pchome.com.tw/cs/items/DXBE3DA900JTHET/000007_1778191868.jpg?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DXBE3D-A900JTHET",
+      "platform": "pchome_onsale"
+    },
+    {
       "title": "ASUS 15.6吋Core 5 512G效能筆電",
       "price": "$18,999",
       "image_url": "https://img.pchome.com.tw/cs/items/DHAFPQA900JNEL1/000007_1768532017.jpg?width=480",
@@ -278,13 +278,6 @@
       "platform": "pchome_onsale"
     },
     {
-      "title": "adidas愛迪達 線條運動長褲",
-      "price": "$899",
-      "image_url": "https://img.pchome.com.tw/cs/items/DEBNMRA900JL8O5/000007_1767845534.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DEBNMR-A900JL8O5",
-      "platform": "pchome_onsale"
-    },
-    {
       "title": "FOOTER 吸濕排汗氣墊除臭襪6入組",
       "price": "$919",
       "image_url": "https://img.pchome.com.tw/cs/items/DICG8EA900HAGNJ/000007_1765546621.jpg?width=480",
@@ -331,6 +324,13 @@
       "price": "$7,699",
       "image_url": "https://img.pchome.com.tw/cs/items/DCBR0FA900HCLLE/000007_1778128668.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DCBR0F-A900HCLLE",
+      "platform": "pchome_onsale"
+    },
+    {
+      "title": "Under Armour安德瑪 Ess Tech 6吋四角褲",
+      "price": "$680",
+      "image_url": "https://img.pchome.com.tw/cs/items/DIBUG3A900JVRMH/000007_1775552067.jpg?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DIBUG3-A900JVRMH",
       "platform": "pchome_onsale"
     },
     {
@@ -412,7 +412,7 @@
     },
     {
       "title": "點睛品 貳台錢黃金金條",
-      "price": "$41,940",
+      "price": "$42,920",
       "image_url": "https://img.pchome.com.tw/cs/items/DICBDKA900HS4XS/000007_1742867468.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DICBDK-A900HS4XS",
       "platform": "pchome_onsale"
@@ -523,5 +523,5 @@
       "platform": "pchome_onsale"
     }
   ],
-  "crawl_time": "2026-05-08 13:13:35"
+  "crawl_time": "2026-05-08 19:06:31"
 }
