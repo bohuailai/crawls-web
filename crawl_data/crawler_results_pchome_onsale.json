@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-05-09T07:46:11.704769",
+  "timestamp": "2026-05-09T12:58:37.575371",
   "platform": "pchome_onsale",
   "keyword": "pchome_onsale",
-  "total_products": 80,
+  "total_products": 82,
   "products": [
     {
       "title": "資生堂 百優精純乳霜 75ml",
@@ -28,7 +28,7 @@
     {
       "title": "微星S270 240GB SSD",
       "price": "$1,399",
-      "image_url": "https://img.pchome.com.tw/cs/items/DRAH6YA900JUKK9/000007_1774412961.jpg?width=480",
+      "image_url": "https://img.pchome.com.tw/cs/cms/creatives/onsale/4f0b66e7-b6b5-4065-bcc2-63ccd1a5f22d.png?width=480",
       "url": "https://24h.pchome.com.tw/prod/DRAH6Y-A900JUKK9",
       "platform": "pchome_onsale"
     },
@@ -254,6 +254,20 @@
       "price": "$1,999",
       "image_url": "https://img.pchome.com.tw/cs/items/DRAFJ5A900HRBAI/000007_1724645001.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DRAFJ5-A900HRBAI",
+      "platform": "pchome_onsale"
+    },
+    {
+      "title": "小米 55型4K Mini LED 144Hz智慧顯示器",
+      "price": "$13,999",
+      "image_url": "https://img.pchome.com.tw/cs/items/DPADBU1900JZNRT/000007_1778171577.jpg?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DPADBU-1900JZNRT",
+      "platform": "pchome_onsale"
+    },
+    {
+      "title": "BenQ 50吋4K 120Hz 量子點護眼顯示器",
+      "price": "$13,900",
+      "image_url": "https://img.pchome.com.tw/cs/items/DPADHK1900IFVPH/000007_1774958522.jpg?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DPADHK-1900IFVPH",
       "platform": "pchome_onsale"
     },
     {
@@ -565,5 +579,5 @@
       "platform": "pchome_onsale"
     }
   ],
-  "crawl_time": "2026-05-09 07:46:11"
+  "crawl_time": "2026-05-09 12:58:37"
 }
