@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-05-10T07:59:15.183921",
+  "timestamp": "2026-05-10T12:59:52.933481",
   "platform": "pchome_onsale",
   "keyword": "pchome_onsale",
-  "total_products": 84,
+  "total_products": 86,
   "products": [
     {
       "title": "UCC 職人咖啡豆(口味多選/包)400gX4包",
@@ -278,6 +278,13 @@
       "platform": "pchome_onsale"
     },
     {
+      "title": "BenQ 50吋4K 120Hz量子點護眼顯示器",
+      "price": "$13,900",
+      "image_url": "https://img.pchome.com.tw/cs/items/DPADHK1900IFVPH/000007_1774958522.jpg?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DPADHK-1900IFVPH",
+      "platform": "pchome_onsale"
+    },
+    {
       "title": "好麗友預感香烤洋芋片12入(口味多選)X6盒",
       "price": "$469",
       "image_url": "https://img.pchome.com.tw/cs/items/DBAEK51900JIDNS/000007_1765179890.jpg?width=480",
@@ -310,6 +317,13 @@
       "price": "$2,999",
       "image_url": "https://img.pchome.com.tw/cs/items/CFADBLA900556MI/000007_1755151143.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/CFADBL-A900556MI",
+      "platform": "pchome_onsale"
+    },
+    {
+      "title": "mimax 無線環繞重低音家庭影院聲霸",
+      "price": "$2,222",
+      "image_url": "https://img.pchome.com.tw/cs/items/DPADFN1900JXCJ1/000007_1776397977.jpg?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DPADFN-1900JXCJ1",
       "platform": "pchome_onsale"
     },
     {
@@ -593,5 +607,5 @@
       "platform": "pchome_onsale"
     }
   ],
-  "crawl_time": "2026-05-10 07:59:15"
+  "crawl_time": "2026-05-10 12:59:52"
 }
