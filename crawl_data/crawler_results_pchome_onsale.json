@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-12T14:03:31.878404",
+  "timestamp": "2026-05-12T19:29:37.331101",
   "platform": "pchome_onsale",
   "keyword": "pchome_onsale",
   "total_products": 80,
@@ -30,20 +30,6 @@
       "price": "$34,999",
       "image_url": "https://img.pchome.com.tw/cs/items/DHAFUOA900JRNCP/000007_1772094085.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DHAFUO-A900JRNCP",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "華碩 RTX 5060電競機(I5-14400F/B760)",
-      "price": "$28,999",
-      "image_url": "https://img.pchome.com.tw/cs/items/DSAUR0A900J56IX/000007_1755249886.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DSAUR0-A900J56IX",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "FUJIFILM X-T50 + XC 15-45mm KIT組",
-      "price": "$47,400",
-      "image_url": "https://img.pchome.com.tw/cs/items/DGBQ8MA900HLU33/000007_1719394356.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DGBQ8M-A900HLU33",
       "platform": "pchome_onsale"
     },
     {
@@ -138,10 +124,24 @@
       "platform": "pchome_onsale"
     },
     {
-      "title": "BLUETTI 1800W電站+200W太陽能板+收納包",
-      "price": "$39,999",
-      "image_url": "https://img.pchome.com.tw/cs/items/DEBQ7SA900JDZTR/000007_1761820694.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DEBQ7S-A900JDZTR",
+      "title": "華碩 RTX 5060電競機(I5-14400F/B760)",
+      "price": "$28,999",
+      "image_url": "https://img.pchome.com.tw/cs/items/DSAUR0A900J56IX/000007_1755249886.jpg?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DSAUR0-A900J56IX",
+      "platform": "pchome_onsale"
+    },
+    {
+      "title": "FUJIFILM X-T50 + XC 15-45mm KIT組",
+      "price": "$47,400",
+      "image_url": "https://img.pchome.com.tw/cs/items/DGBQ8MA900HLU33/000007_1719394356.jpg?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DGBQ8M-A900HLU33",
+      "platform": "pchome_onsale"
+    },
+    {
+      "title": "emirai 次世代行動電站",
+      "price": "$28,880",
+      "image_url": "https://img.pchome.com.tw/cs/items/DEBQRUA900JLENU/000007_1776960023.jpg?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DEBQRU-A900JLENU",
       "platform": "pchome_onsale"
     },
     {
@@ -187,24 +187,17 @@
       "platform": "pchome_onsale"
     },
     {
-      "title": "ecostore 宜可誠環保洗碗粉",
-      "price": "$619",
-      "image_url": "https://img.pchome.com.tw/cs/items/DAAK6YA9007CROP/000007_1722495350.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DAAK6Y-A9007CROP",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "POCO F8 Ultra 16GB/512GB",
-      "price": "$23,999",
-      "image_url": "https://img.pchome.com.tw/cs/items/DYAWDJA900JF93O/000007_1764153157.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DYAWDJ-A900JF93O",
-      "platform": "pchome_onsale"
-    },
-    {
       "title": "BGYM 扶手版超慢跑律動走步機",
       "price": "$10,666",
       "image_url": "https://img.pchome.com.tw/cs/items/DEBYLYA900J8XOI/000007_1778581200.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DEBYLY-A900J8XOI",
+      "platform": "pchome_onsale"
+    },
+    {
+      "title": "三星65吋4K HDR 10+ Airplay QLED顯示器",
+      "price": "$22,900",
+      "image_url": "https://img.pchome.com.tw/cs/items/DPADFNA900HJYEM/000007_1761640390.jpg?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DPADFN-A900HJYEM",
       "platform": "pchome_onsale"
     },
     {
@@ -278,10 +271,17 @@
       "platform": "pchome_onsale"
     },
     {
-      "title": "三星55吋 4K 微邊框纖薄 智慧顯示器",
-      "price": "$13,900",
-      "image_url": "https://img.pchome.com.tw/cs/items/DPADODA900HSF3G/000007_1776308261.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DPADOD-A900HSF3G",
+      "title": "ecostore 宜可誠環保洗碗粉",
+      "price": "$619",
+      "image_url": "https://img.pchome.com.tw/cs/items/DAAK6YA9007CROP/000007_1722495350.jpg?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DAAK6Y-A9007CROP",
+      "platform": "pchome_onsale"
+    },
+    {
+      "title": "POCO F8 Ultra 16GB/512GB",
+      "price": "$23,999",
+      "image_url": "https://img.pchome.com.tw/cs/items/DYAWDJA900JF93O/000007_1764153157.jpg?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DYAWDJ-A900JF93O",
       "platform": "pchome_onsale"
     },
     {
@@ -324,13 +324,6 @@
       "price": "$4,490",
       "image_url": "https://img.pchome.com.tw/cs/items/DMBJ7PA900HE32U/000007_1713236638.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DMBJ7P-A900HE32U",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "倍潔雅 好韌真三層抽取式衛生紙72包/箱",
-      "price": "$809",
-      "image_url": "https://img.pchome.com.tw/cs/items/DAAG5LA900BG6GD/000007_1750057806.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DAAG5L-A900BG6GD",
       "platform": "pchome_onsale"
     },
     {
@@ -425,6 +418,13 @@
       "platform": "pchome_onsale"
     },
     {
+      "title": "倍潔雅 好韌真三層抽取式衛生紙72包/箱",
+      "price": "$809",
+      "image_url": "https://img.pchome.com.tw/cs/items/DAAG5LA900BG6GD/000007_1750057806.jpg?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DAAG5L-A900BG6GD",
+      "platform": "pchome_onsale"
+    },
+    {
       "title": "Anker 165W自帶雙C線25000mAh行動電源",
       "price": "$2,490",
       "image_url": "https://img.pchome.com.tw/cs/items/DYBADAA900JCN8H/000007_1778557908.jpg?width=480",
@@ -467,20 +467,6 @@
       "platform": "pchome_onsale"
     },
     {
-      "title": "Acer QD-OLED 27型 電競螢幕+護眼螢幕掛燈",
-      "price": "$9,999",
-      "image_url": "https://img.pchome.com.tw/cs/items/DSABEL1900JYO5Q/000007_1778230068.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DSABEL-1900JYO5Q",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "ACER 14吋AI效能筆電(Ultra5/32G/512G)",
-      "price": "$33,888",
-      "image_url": "https://img.pchome.com.tw/cs/items/DHAEJ0A900JB6DV/000007_1765937203.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DHAEJ0-A900JB6DV",
-      "platform": "pchome_onsale"
-    },
-    {
       "title": "加厚承重可調高度置物五層架-90*50*183 cm",
       "price": "$1,111",
       "image_url": "https://img.pchome.com.tw/cs/items/DQCD0BA900JCBWS/000007_1760423323.jpg?width=480",
@@ -496,7 +482,7 @@
     },
     {
       "title": "瑞米 氣壓式螢幕支架",
-      "price": "$949",
+      "price": "$899",
       "image_url": "https://img.pchome.com.tw/cs/items/DCBBC5A900HX2JW/000007_1728013267.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DCBBC5-A900HX2JW",
       "platform": "pchome_onsale"
@@ -563,7 +549,21 @@
       "image_url": "https://img.pchome.com.tw/cs/items/DCBR00A900IR33I/000007_1746515515.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DCBR00-A900IR33I",
       "platform": "pchome_onsale"
+    },
+    {
+      "title": "Acer QD-OLED 27型 電競螢幕+護眼螢幕掛燈",
+      "price": "$9,999",
+      "image_url": "https://img.pchome.com.tw/cs/items/DSABEL1900JYO5Q/000007_1778230068.jpg?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DSABEL-1900JYO5Q",
+      "platform": "pchome_onsale"
+    },
+    {
+      "title": "ACER 14吋AI效能筆電(Ultra5/32G/512G)",
+      "price": "$33,888",
+      "image_url": "https://img.pchome.com.tw/cs/items/DHAEJ0A900JB6DV/000007_1765937203.jpg?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DHAEJ0-A900JB6DV",
+      "platform": "pchome_onsale"
     }
   ],
-  "crawl_time": "2026-05-12 14:03:31"
+  "crawl_time": "2026-05-12 19:29:37"
 }
