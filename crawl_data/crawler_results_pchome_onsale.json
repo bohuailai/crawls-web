@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-05-15T13:47:07.232901",
+  "timestamp": "2026-05-15T19:19:58.953739",
   "platform": "pchome_onsale",
   "keyword": "pchome_onsale",
-  "total_products": 72,
+  "total_products": 73,
   "products": [
     {
       "title": "OPPO Find X9 Ultra (12G/512G)",
@@ -58,6 +58,13 @@
       "price": "$3,599",
       "image_url": "https://img.pchome.com.tw/cs/items/DRAFJ5A900JBNBF/000007_1759826800.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DRAFJ5-A900JBNBF",
+      "platform": "pchome_onsale"
+    },
+    {
+      "title": "SanDisk Extreme 高速記憶卡 512GB",
+      "price": "$2,999",
+      "image_url": "https://img.pchome.com.tw/cs/cms/creatives/onsale/1a829273-0fdd-4126-b8f5-58bf10e85bbf.png?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DGAG0H-A900JZ8NM",
       "platform": "pchome_onsale"
     },
     {
@@ -509,5 +516,5 @@
       "platform": "pchome_onsale"
     }
   ],
-  "crawl_time": "2026-05-15 13:47:07"
+  "crawl_time": "2026-05-15 19:19:58"
 }
