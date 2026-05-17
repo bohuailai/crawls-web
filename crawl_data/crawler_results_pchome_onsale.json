@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-17T13:01:17.775264",
+  "timestamp": "2026-05-17T18:56:33.228186",
   "platform": "pchome_onsale",
   "keyword": "pchome_onsale",
   "total_products": 84,
@@ -30,13 +30,6 @@
       "price": "$3,990",
       "image_url": "https://img.pchome.com.tw/cs/items/DCBF02A900JWXQC/000007_1778665738.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DCBF02-A900JWXQC",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "BenQ 50吋4K 120Hz 量子點護眼顯示器",
-      "price": "$13,900",
-      "image_url": "https://img.pchome.com.tw/cs/items/DPADHK1900IFVPH/000007_1774958522.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DPADHK-1900IFVPH",
       "platform": "pchome_onsale"
     },
     {
@@ -124,13 +117,6 @@
       "platform": "pchome_onsale"
     },
     {
-      "title": "mimax 無線環繞重低音家庭影院聲霸",
-      "price": "$2,222",
-      "image_url": "https://img.pchome.com.tw/cs/items/DPADFN1900JXCJ1/000007_1776397977.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DPADFN-1900JXCJ1",
-      "platform": "pchome_onsale"
-    },
-    {
       "title": "天地合補葡萄糖胺飲(30入x2盒)",
       "price": "$2,662",
       "image_url": "https://img.pchome.com.tw/cs/items/DBBW091900GOV5H/000007_1764554314.jpg?width=480",
@@ -170,6 +156,20 @@
       "price": "$37,999",
       "image_url": "https://img.pchome.com.tw/cs/items/DHAS9DA900JLITO/000007_1775119437.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DHAS9D-A900JLITO",
+      "platform": "pchome_onsale"
+    },
+    {
+      "title": "金士頓Type-C 128GB 隨身碟",
+      "price": "$299",
+      "image_url": "https://img.pchome.com.tw/cs/cms/creatives/onsale/3c616be1-d790-42db-a32f-3e6cbd941fc9.png?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DGCD15-A900JPQSB",
+      "platform": "pchome_onsale"
+    },
+    {
+      "title": "SanDisk 高速記憶卡 512GB",
+      "price": "$2,999",
+      "image_url": "https://img.pchome.com.tw/cs/cms/creatives/onsale/f49218d6-2c8a-4bc6-baac-c2c80655abb7.png?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DGAG0H-A900JZ8NM",
       "platform": "pchome_onsale"
     },
     {
@@ -593,5 +593,5 @@
       "platform": "pchome_onsale"
     }
   ],
-  "crawl_time": "2026-05-17 13:01:17"
+  "crawl_time": "2026-05-17 18:56:33"
 }
