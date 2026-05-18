@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-18T14:56:45.987236",
+  "timestamp": "2026-05-18T19:27:18.793914",
   "platform": "pchome_onsale",
   "keyword": "pchome_onsale",
   "total_products": 83,
@@ -215,7 +215,7 @@
       "platform": "pchome_onsale"
     },
     {
-      "title": "HERAN禾聯75型 4K HDR智慧連網QLED液晶電視",
+      "title": "HERAN禾聯75型4K QLED智慧液晶電視+視訊盒",
       "price": "$14,999",
       "image_url": "https://img.pchome.com.tw/cs/items/DPAD0E1900JMUEM/000007_1769765534.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DPAD0E-1900JMUEM",
@@ -251,9 +251,9 @@
     },
     {
       "title": "小米55型4K Mini LED 144Hz 顯示器",
-      "price": "$15,999",
+      "price": "$13,999",
       "image_url": "https://img.pchome.com.tw/cs/items/DPADBUA900IGM0Q/000007_1767092133.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DPADBU-A900IGM0Q",
+      "url": "https://24h.pchome.com.tw/prod/DPADBU-A900JXVP0",
       "platform": "pchome_onsale"
     },
     {
@@ -586,5 +586,5 @@
       "platform": "pchome_onsale"
     }
   ],
-  "crawl_time": "2026-05-18 14:56:45"
+  "crawl_time": "2026-05-18 19:27:18"
 }
