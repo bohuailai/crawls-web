@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-05-20T14:41:30.672623",
+  "timestamp": "2026-05-20T20:03:40.869964",
   "platform": "pchome_onsale",
   "keyword": "pchome_onsale",
-  "total_products": 80,
+  "total_products": 82,
   "products": [
     {
       "title": "伊萊克斯 26L極適家居除濕機",
@@ -68,6 +68,13 @@
       "platform": "pchome_onsale"
     },
     {
+      "title": "ACER 64GB 記憶卡",
+      "price": "$349",
+      "image_url": "https://img.pchome.com.tw/cs/cms/creatives/onsale/32b2bdbc-e423-4dc7-9c72-391592a74433.png?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DCAS8W-A900JXSDN",
+      "platform": "pchome_onsale"
+    },
+    {
       "title": "KYMCO 光陽機車 新豪邁 125 鼓煞",
       "price": "$62,500",
       "image_url": "https://img.pchome.com.tw/cs/items/DXBK3TA900JMT9I/000007_1768196824.jpg?width=480",
@@ -128,6 +135,13 @@
       "price": "$37,990",
       "image_url": "https://img.pchome.com.tw/cs/items/DYAW791900K0FKN/000007_1778740895.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DYAW79-1900K0FKN",
+      "platform": "pchome_onsale"
+    },
+    {
+      "title": "金士頓 Type-C 128GB 隨身碟",
+      "price": "$299",
+      "image_url": "https://img.pchome.com.tw/cs/cms/creatives/onsale/847d9f4c-59e6-4d7d-a244-347616cd3d8a.png?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DGCD15-A900JPQSB",
       "platform": "pchome_onsale"
     },
     {
@@ -565,5 +579,5 @@
       "platform": "pchome_onsale"
     }
   ],
-  "crawl_time": "2026-05-20 14:41:30"
+  "crawl_time": "2026-05-20 20:03:40"
 }
