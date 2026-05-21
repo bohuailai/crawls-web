@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-05-21T14:46:43.727562",
+  "timestamp": "2026-05-21T19:44:35.102532",
   "platform": "pchome_onsale",
   "keyword": "pchome_onsale",
-  "total_products": 74,
+  "total_products": 76,
   "products": [
     {
       "title": "UKKO 65W氮化鎵3孔(2C1A)急速充電器",
@@ -103,6 +103,13 @@
       "platform": "pchome_onsale"
     },
     {
+      "title": "ACER 宏碁 64GB 記憶卡",
+      "price": "$369",
+      "image_url": "https://img.pchome.com.tw/cs/cms/creatives/onsale/613ceb09-1fcd-4a40-bdcd-920ece4a99ec.png?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DCAS8W-A900JXSDN",
+      "platform": "pchome_onsale"
+    },
+    {
       "title": "希捷 新黑鑽 16TB 大容量硬碟",
       "price": "$13,899",
       "image_url": "https://img.pchome.com.tw/cs/items/DRAM07A900BJIB7/000007_1635906062.jpg?width=480",
@@ -128,6 +135,13 @@
       "price": "$40,490",
       "image_url": "https://img.pchome.com.tw/cs/items/DGCS3Z1900JZXXT/000007_1778466714.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DGCS3Z-1900JZXXT",
+      "platform": "pchome_onsale"
+    },
+    {
+      "title": "金士頓 Type-C 128GB 隨身碟",
+      "price": "$299",
+      "image_url": "https://img.pchome.com.tw/cs/cms/creatives/onsale/7b467ae2-094d-4018-8ae0-7d7d1920e5c6.png?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DGCD15-A900JPQSB",
       "platform": "pchome_onsale"
     },
     {
@@ -286,7 +300,7 @@
     },
     {
       "title": "COACH蔻馳 經典LOGO中性雙層拉練郵差斜背包",
-      "price": "$6,179",
+      "price": "$6,032",
       "image_url": "https://img.pchome.com.tw/cs/items/DICKGAA900I8NCT/000007_1765959280.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DICKGA-A900I8NCT",
       "platform": "pchome_onsale"
@@ -405,7 +419,7 @@
     },
     {
       "title": "adidas愛迪達 ADILETTE AQUA/SHOWER 拖鞋",
-      "price": "$499",
+      "price": "$520",
       "image_url": "https://img.pchome.com.tw/cs/items/DXAX98A900JYOT7/000007_1777470098.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DXAX98-A900JYOT7",
       "platform": "pchome_onsale"
@@ -475,7 +489,7 @@
     },
     {
       "title": "emirai 200W儲能小瓦力PRO+30W太陽能板組合",
-      "price": "$7,350",
+      "price": "$8,860",
       "image_url": "https://img.pchome.com.tw/cs/items/DEBQFDA900J94NT/000007_1776960038.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DEBQFD-A900J94NT",
       "platform": "pchome_onsale"
@@ -523,5 +537,5 @@
       "platform": "pchome_onsale"
     }
   ],
-  "crawl_time": "2026-05-21 14:46:43"
+  "crawl_time": "2026-05-21 19:44:35"
 }
