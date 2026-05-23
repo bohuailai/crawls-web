@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-05-23T13:06:20.799144",
+  "timestamp": "2026-05-23T18:58:50.730258",
   "platform": "pchome_onsale",
   "keyword": "pchome_onsale",
-  "total_products": 86,
+  "total_products": 85,
   "products": [
     {
       "title": "技嘉 16吋i5-RTX5050電競筆電(16G/512G)",
@@ -47,24 +47,17 @@
       "platform": "pchome_onsale"
     },
     {
+      "title": "BRITA新升級純淨濾水壺好狀態4芯組",
+      "price": "$1,499",
+      "image_url": "https://img.pchome.com.tw/cs/items/DEAY2NA900JVGIQ/000007_1775121448.jpg?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DEAY2N-A900JVGIQ",
+      "platform": "pchome_onsale"
+    },
+    {
       "title": "MIZUNO美津濃 MAXIMIZER 27 寬楦慢跑鞋",
       "price": "$1,111",
       "image_url": "https://img.pchome.com.tw/cs/items/DXAQALA900JB6PQ/000007_1759477192.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DXAQAL-A900JB6PQ",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "Stanley 防漏吸管隨手杯 0.88L",
-      "price": "$1,199",
-      "image_url": "https://img.pchome.com.tw/cs/items/DEBWE9A900I6VAP/000007_1769679005.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DEBWE9-A900I6VAP",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "LG 42吋 OLED evo AI 4K 智慧顯示器",
-      "price": "$28,900",
-      "image_url": "https://img.pchome.com.tw/cs/items/DPADYEA900JGKH8/000007_1763404192.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DPADYE-A900JGKH8",
       "platform": "pchome_onsale"
     },
     {
@@ -208,6 +201,13 @@
       "platform": "pchome_onsale"
     },
     {
+      "title": "Readmoo 讀墨7吋彩色閲讀器-迷月白",
+      "price": "$8,988",
+      "image_url": "https://img.pchome.com.tw/cs/items/DCBR0OA900J944V/000007_1757916260.jpg?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DCBR0O-A900J944V",
+      "platform": "pchome_onsale"
+    },
+    {
       "title": "KIRIN 麒麟生茶 24入/箱",
       "price": "$649",
       "image_url": "https://img.pchome.com.tw/cs/items/DBAJ8UA900HPB4A/000007_1723544829.jpg?width=480",
@@ -219,13 +219,6 @@
       "price": "$43,900",
       "image_url": "https://img.pchome.com.tw/cs/items/DYAJ8NA900J82WO/000007_1757487706.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DYAJ8N-A900J82WO",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "Readmoo 讀墨 mooInk Nana 彩色閲讀器",
-      "price": "$8,699",
-      "image_url": "https://img.pchome.com.tw/cs/items/DCBR0OA900JL2XI/000007_1766550484.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DCBR0O-A900JL2XI",
       "platform": "pchome_onsale"
     },
     {
@@ -607,5 +600,5 @@
       "platform": "pchome_onsale"
     }
   ],
-  "crawl_time": "2026-05-23 13:06:20"
+  "crawl_time": "2026-05-23 18:58:50"
 }
