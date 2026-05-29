@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-05-29T14:44:30.079375",
+  "timestamp": "2026-05-29T20:10:30.182663",
   "platform": "pchome_onsale",
   "keyword": "pchome_onsale",
-  "total_products": 83,
+  "total_products": 82,
   "products": [
     {
       "title": "BOOX 文石Note Air5 C 10.3 吋彩色閱讀器",
@@ -107,13 +107,6 @@
       "price": "$4,388",
       "image_url": "https://img.pchome.com.tw/cs/items/DMBQ0OA900JTABO/000007_1775641781.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DMBQ0O-A900JTABO",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "象印*日本製 1L玻璃內膽真空保溫茶壺",
-      "price": "$988",
-      "image_url": "https://img.pchome.com.tw/cs/items/DEBWA9A900AVD51/000007_1681355720.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DEBWA9-A900AVD51",
       "platform": "pchome_onsale"
     },
     {
@@ -586,5 +579,5 @@
       "platform": "pchome_onsale"
     }
   ],
-  "crawl_time": "2026-05-29 14:44:30"
+  "crawl_time": "2026-05-29 20:10:30"
 }
