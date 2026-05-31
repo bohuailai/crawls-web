@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-05-31T13:20:03.673727",
+  "timestamp": "2026-05-31T19:04:56.502725",
   "platform": "pchome_onsale",
   "keyword": "pchome_onsale",
-  "total_products": 104,
+  "total_products": 105,
   "products": [
     {
       "title": "雀巢金牌 微研磨黑咖啡隨行包(2gx50入)x2盒",
@@ -103,6 +103,13 @@
       "platform": "pchome_onsale"
     },
     {
+      "title": "金士頓 Type-C 128GB 隨身碟",
+      "price": "$299",
+      "image_url": "https://img.pchome.com.tw/cs/cms/creatives/onsale/c67f970e-9729-426f-9a70-2996c80690d3.png?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DGCD15-A900JPQSB",
+      "platform": "pchome_onsale"
+    },
+    {
       "title": "國際牌610公升無邊框鋼板四門冰箱",
       "price": "$35,900",
       "image_url": "https://img.pchome.com.tw/cs/items/DPAC1TA900AVR5Q/000007_1618576898.jpg?width=480",
@@ -145,13 +152,6 @@
       "platform": "pchome_onsale"
     },
     {
-      "title": "Stanley冒險系列 吸管隨手杯2.0 0.88L",
-      "price": "$1,242",
-      "image_url": "https://img.pchome.com.tw/cs/items/DEBWE9A900H3PUO/000007_1771380033.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DEBWE9-A900H3PUO",
-      "platform": "pchome_onsale"
-    },
-    {
       "title": "TCL 85吋 4K QLED 120Hz 量子智能顯示器",
       "price": "$36,618",
       "image_url": "https://img.pchome.com.tw/cs/items/DPADT3A900J2KMC/000007_1761760333.jpg?width=480",
@@ -163,6 +163,13 @@
       "price": "$13,618",
       "image_url": "https://img.pchome.com.tw/cs/items/DPAD98A900JX77S/000007_1777482293.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DPAD98-A900JX77S",
+      "platform": "pchome_onsale"
+    },
+    {
+      "title": "ACER 宏碁 64GB 記憶卡",
+      "price": "$369",
+      "image_url": "https://img.pchome.com.tw/cs/cms/creatives/onsale/20e87374-6794-4b59-b74b-9f7baa78ccc7.png?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DCAS8W-A900JXSDN",
       "platform": "pchome_onsale"
     },
     {
@@ -511,7 +518,7 @@
     {
       "title": "Nespresso Pixie暢遊世界咖啡組",
       "price": "$6,710",
-      "image_url": "https://img.pchome.com.tw/cs/items/DMBN04A900FOMUJ/000007_1778690696.jpg?width=480",
+      "image_url": "https://img.pchome.com.tw/cs/items/DMBN04A900FOMUJ/000007_1780245600.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DMBN04-A900FOMUJ",
       "platform": "pchome_onsale"
     },
@@ -733,5 +740,5 @@
       "platform": "pchome_onsale"
     }
   ],
-  "crawl_time": "2026-05-31 13:20:03"
+  "crawl_time": "2026-05-31 19:04:56"
 }
