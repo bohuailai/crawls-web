@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-02T16:05:53.257720",
+  "timestamp": "2026-06-02T20:37:00.984471",
   "platform": "pchome_onsale",
   "keyword": "pchome_onsale",
   "total_products": 105,
@@ -327,10 +327,10 @@
       "platform": "pchome_onsale"
     },
     {
-      "title": "TCL 55吋QLED 120Hz DLG顯示器",
-      "price": "$11,618",
-      "image_url": "https://img.pchome.com.tw/cs/items/DPADT31900JRP5I/000007_1772130655.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DPADT3-1900JRP5I",
+      "title": "Hisense 65型4K 原生144Hz MiniLEDI顯示器",
+      "price": "$14,999",
+      "image_url": "https://img.pchome.com.tw/cs/cms/creatives/onsale/713c3a48-2fca-44f9-ac13-c52fe3d26d23.jpeg?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DPAD98-A900JV2AZ",
       "platform": "pchome_onsale"
     },
     {
@@ -740,5 +740,5 @@
       "platform": "pchome_onsale"
     }
   ],
-  "crawl_time": "2026-06-02 16:05:53"
+  "crawl_time": "2026-06-02 20:37:00"
 }
