@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-04T14:39:53.476829",
+  "timestamp": "2026-06-04T19:55:45.833112",
   "platform": "pchome_onsale",
   "keyword": "pchome_onsale",
   "total_products": 107,
@@ -166,17 +166,17 @@
       "platform": "pchome_onsale"
     },
     {
+      "title": "SanDisk Extreme 高速記憶卡 512GB",
+      "price": "$2,999",
+      "image_url": "https://img.pchome.com.tw/cs/cms/creatives/onsale/53656cbe-bb3d-4afb-bc41-ffe9b4934041.png?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DGAG0H-A900JZ8NM",
+      "platform": "pchome_onsale"
+    },
+    {
       "title": "J-bedtime 天絲吸濕排汗床包枕套組/涼被",
       "price": "$799",
       "image_url": "https://img.pchome.com.tw/cs/items/DEBT2DA900E64CA/000007_1780388547.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DEBT2D-A900E64CA",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "ACER 宏碁 64GB 記憶卡",
-      "price": "$369",
-      "image_url": "https://img.pchome.com.tw/cs/cms/creatives/onsale/406bf45a-8192-409b-8a78-263f14d23a8b.png?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DCAS8W-A900JXSDN",
       "platform": "pchome_onsale"
     },
     {
@@ -754,5 +754,5 @@
       "platform": "pchome_onsale"
     }
   ],
-  "crawl_time": "2026-06-04 14:39:53"
+  "crawl_time": "2026-06-04 19:55:45"
 }
