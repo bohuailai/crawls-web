@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-06-05T14:29:13.802127",
+  "timestamp": "2026-06-05T19:43:27.391542",
   "platform": "pchome_onsale",
   "keyword": "pchome_onsale",
-  "total_products": 88,
+  "total_products": 89,
   "products": [
     {
       "title": "ACER 16吋AI輕薄長效筆電(16G/512G)",
@@ -159,13 +159,6 @@
       "platform": "pchome_onsale"
     },
     {
-      "title": "ACER 宏碁 64GB 記憶卡",
-      "price": "$369",
-      "image_url": "https://img.pchome.com.tw/cs/cms/creatives/onsale/b55bf0bd-58e8-46d7-8450-6597b5fb2120.png?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DCAS8W-A900JXSDN",
-      "platform": "pchome_onsale"
-    },
-    {
       "title": "妙管家濃縮洗衣精4000g (4入/箱)",
       "price": "$399",
       "image_url": "https://img.pchome.com.tw/cs/items/DAAK1ZA900EOU54/000007_1682320339.jpg?width=480",
@@ -173,17 +166,17 @@
       "platform": "pchome_onsale"
     },
     {
+      "title": "康寧餐具淨漾耐熱雙層把手玻璃杯500ML",
+      "price": "$599",
+      "image_url": "https://img.pchome.com.tw/cs/items/DEBW16A900HZ6Y5/000007_1729066318.jpg?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DEBW16-A900HZ6Y5",
+      "platform": "pchome_onsale"
+    },
+    {
       "title": "倍潔雅純萃柔感抽取式衛生紙",
       "price": "$8",
       "image_url": "https://img.pchome.com.tw/cs/items/DAAG8PA900K129Z/000007_1779247913.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DAAG8P-A900K129Z",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "New Balance 紐巴倫1906系列 復古鞋",
-      "price": "$2,618",
-      "image_url": "https://img.pchome.com.tw/cs/items/DXAX69A900JXOYV/000007_1776819438.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DXAX69-A900JXOYV",
       "platform": "pchome_onsale"
     },
     {
@@ -198,6 +191,20 @@
       "price": "$399",
       "image_url": "https://img.pchome.com.tw/cs/cms/creatives/onsale/152282ab-d916-4800-9455-6018eea9057c.png?width=480",
       "url": "https://24h.pchome.com.tw/prod/DGCD15-A900JWVD6",
+      "platform": "pchome_onsale"
+    },
+    {
+      "title": "SanDisk Extreme 高速記憶卡 512GB",
+      "price": "$2,999",
+      "image_url": "https://img.pchome.com.tw/cs/cms/creatives/onsale/806ae060-ec7e-435e-bfd3-2d0604e06460.png?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DGAG0H-A900JZ8NM",
+      "platform": "pchome_onsale"
+    },
+    {
+      "title": "MIZUNO 美津濃WAVE INSPIRE 22 男款慢跑鞋",
+      "price": "$2,321",
+      "image_url": "https://img.pchome.com.tw/cs/items/DXAQADA900JTMNF/000007_1773730296.jpg?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DXAQAD-A900JTMNF",
       "platform": "pchome_onsale"
     },
     {
@@ -621,5 +628,5 @@
       "platform": "pchome_onsale"
     }
   ],
-  "crawl_time": "2026-06-05 14:29:13"
+  "crawl_time": "2026-06-05 19:43:27"
 }
