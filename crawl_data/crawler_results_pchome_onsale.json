@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-06T13:13:15.643279",
+  "timestamp": "2026-06-06T19:07:53.492345",
   "platform": "pchome_onsale",
   "keyword": "pchome_onsale",
   "total_products": 88,
@@ -138,6 +138,13 @@
       "platform": "pchome_onsale"
     },
     {
+      "title": "SanDisk Extreme 高速記憶卡 512GB",
+      "price": "$2,999",
+      "image_url": "https://img.pchome.com.tw/cs/cms/creatives/onsale/c9f2fd95-bbe2-435a-8e80-fa6676605d70.png?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DGAG0H-A900JZ8NM",
+      "platform": "pchome_onsale"
+    },
+    {
       "title": "Nikon ZF 單機身",
       "price": "$51,511",
       "image_url": "https://img.pchome.com.tw/cs/items/DGCB7EA900HC22E/000007_1711352486.jpg?width=480",
@@ -145,17 +152,10 @@
       "platform": "pchome_onsale"
     },
     {
-      "title": "mimax 無線環繞重低音家庭影院聲霸",
-      "price": "$2,222",
-      "image_url": "https://img.pchome.com.tw/cs/items/DPADFN1900JXCJ1/000007_1776397977.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DPADFN-1900JXCJ1",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "LG Smart Monitor 32型4K可移動智慧顯示器",
-      "price": "$11,618",
-      "image_url": "https://img.pchome.com.tw/cs/items/DPADYE1900K2YAR/000007_1780746583.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DPADYE-1900K2YAR",
+      "title": "金士頓 128GB Type-C 雙頭隨身碟",
+      "price": "$399",
+      "image_url": "https://img.pchome.com.tw/cs/cms/creatives/onsale/7eda18cf-f169-4192-8315-3116fa807135.png?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DGCD15-A900JWVD6",
       "platform": "pchome_onsale"
     },
     {
@@ -308,7 +308,7 @@
     {
       "title": "新東陽迷你粽珠貝粽X20入(贈保冷袋乙個)",
       "price": "$799",
-      "image_url": "https://img.pchome.com.tw/cs/items/DBCXFEA900JV5EY/000007_1774940742.jpg?width=480",
+      "image_url": "https://img.pchome.com.tw/cs/items/DBCXFEA900JV5EY/000007_1780762499.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DBCXFE-A900JV5EY",
       "platform": "pchome_onsale"
     },
@@ -621,5 +621,5 @@
       "platform": "pchome_onsale"
     }
   ],
-  "crawl_time": "2026-06-06 13:13:15"
+  "crawl_time": "2026-06-06 19:07:53"
 }
