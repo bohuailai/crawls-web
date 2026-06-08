@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-08T15:33:25.883852",
+  "timestamp": "2026-06-08T20:03:45.728243",
   "platform": "pchome_onsale",
   "keyword": "pchome_onsale",
   "total_products": 114,
@@ -173,10 +173,10 @@
       "platform": "pchome_onsale"
     },
     {
-      "title": "十銓 Express 超高速記憶卡 512GB",
-      "price": "$2,818",
-      "image_url": "https://img.pchome.com.tw/cs/items/DGAG1CA900IYCYH/000007_1776737164.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DGAG1C-A900IYCYH",
+      "title": "ACER 宏碁 64GB 記憶卡",
+      "price": "$369",
+      "image_url": "https://img.pchome.com.tw/cs/cms/creatives/onsale/d3656796-740d-40b0-acb3-265886b4ca4e.png?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DCAS8W-A900JXSDN",
       "platform": "pchome_onsale"
     },
     {
@@ -803,5 +803,5 @@
       "platform": "pchome_onsale"
     }
   ],
-  "crawl_time": "2026-06-08 15:33:25"
+  "crawl_time": "2026-06-08 20:03:45"
 }
