@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-09T14:30:48.620374",
+  "timestamp": "2026-06-09T19:58:13.365920",
   "platform": "pchome_onsale",
   "keyword": "pchome_onsale",
   "total_products": 114,
@@ -61,13 +61,6 @@
       "platform": "pchome_onsale"
     },
     {
-      "title": "KIOXIA 鎧俠 256GB 記憶卡",
-      "price": "$1,490",
-      "image_url": "https://img.pchome.com.tw/cs/cms/creatives/onsale/1b39a62e-e297-420c-8e57-218c75a8505c.png?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DGAG7D-A900B6I94",
-      "platform": "pchome_onsale"
-    },
-    {
       "title": "MacBook Pro 14 M5 晶片(16GB /1TB SSD)",
       "price": "$50,900",
       "image_url": "https://img.pchome.com.tw/cs/items/DYAJEPA900JSHHX/000007_1772778755.jpg?width=480",
@@ -86,6 +79,13 @@
       "price": "$19,999",
       "image_url": "https://img.pchome.com.tw/cs/items/DMBL0LA900JU2MC/000007_1773977172.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DMBL0L-A900JU2MC",
+      "platform": "pchome_onsale"
+    },
+    {
+      "title": "SanDisk Extreme 高速記憶卡 512GB",
+      "price": "$2,999",
+      "image_url": "https://img.pchome.com.tw/cs/cms/creatives/onsale/f4598409-46a7-4470-bfac-8b870a8dac8b.png?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DGAG0H-A900JZ8NM",
       "platform": "pchome_onsale"
     },
     {
@@ -131,10 +131,10 @@
       "platform": "pchome_onsale"
     },
     {
-      "title": "KIOXIA 鎧俠 128GB 隨身碟 二入組",
-      "price": "$699",
-      "image_url": "https://img.pchome.com.tw/cs/cms/creatives/onsale/d4943cc8-36da-4da2-aefd-72f8244fe7d1.png?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DGCD8O-1900K1WSO",
+      "title": "金士頓 256GB TYPE-C 雙頭隨身碟",
+      "price": "$949",
+      "image_url": "https://img.pchome.com.tw/cs/cms/creatives/onsale/d529ebe6-b208-4d14-8191-bf756d326b27.png?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DGCD15-A900K0VFM",
       "platform": "pchome_onsale"
     },
     {
@@ -803,5 +803,5 @@
       "platform": "pchome_onsale"
     }
   ],
-  "crawl_time": "2026-06-09 14:30:48"
+  "crawl_time": "2026-06-09 19:58:13"
 }
