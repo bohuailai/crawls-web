@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-10T14:57:10.841018",
+  "timestamp": "2026-06-10T20:15:28.755580",
   "platform": "pchome_onsale",
   "keyword": "pchome_onsale",
   "total_products": 114,
@@ -376,6 +376,13 @@
       "platform": "pchome_onsale"
     },
     {
+      "title": "海信 65型120Hz Google+APPLE雙認證顯示器",
+      "price": "$12,618",
+      "image_url": "https://img.pchome.com.tw/cs/items/DPAD98A900JX77S/000007_1777482293.jpg?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DPAD98-A900JX77S",
+      "platform": "pchome_onsale"
+    },
+    {
       "title": "7-ELEVEN 21Plus藜麥毛豆嫩雞丁6入",
       "price": "$268",
       "image_url": "https://img.pchome.com.tw/cs/items/DBCRQ41900K2UFO/000007_1780921987.jpg?width=480",
@@ -387,13 +394,6 @@
       "price": "$618",
       "image_url": "https://img.pchome.com.tw/cs/items/DAAG8WA900GP1QA/000007_1698995637.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DAAG8W-A900GP1QA",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "海信65型Google+Apple雙認證顯示器",
-      "price": "$12,618",
-      "image_url": "https://img.pchome.com.tw/cs/items/DPAD98A900JX77S/000007_1777482293.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DPAD98-A900JX77S",
       "platform": "pchome_onsale"
     },
     {
@@ -803,5 +803,5 @@
       "platform": "pchome_onsale"
     }
   ],
-  "crawl_time": "2026-06-10 14:57:10"
+  "crawl_time": "2026-06-10 20:15:28"
 }
