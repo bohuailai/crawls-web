@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-06-11T15:39:02.354653",
+  "timestamp": "2026-06-11T20:11:31.402292",
   "platform": "pchome_onsale",
   "keyword": "pchome_onsale",
-  "total_products": 114,
+  "total_products": 115,
   "products": [
     {
       "title": "Samsung Galaxy S25 Ultra (12G/256G)",
@@ -79,6 +79,13 @@
       "price": "$1,490",
       "image_url": "https://img.pchome.com.tw/cs/cms/creatives/onsale/dc041a62-cb78-442f-9ddf-6e722b7dc101.png?width=480",
       "url": "https://24h.pchome.com.tw/prod/DGAG7D-A900B6I94",
+      "platform": "pchome_onsale"
+    },
+    {
+      "title": "Stanley 冒險系列 吸管隨手杯 0.88L",
+      "price": "$999",
+      "image_url": "https://img.pchome.com.tw/cs/items/DEBWE9A900H3PUO/000007_1780986630.jpg?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DEBWE9-A900H3PUO",
       "platform": "pchome_onsale"
     },
     {
@@ -553,7 +560,7 @@
     {
       "title": "飛利浦旗艦型攜帶式電鬍刀 RQ903",
       "price": "$6,270",
-      "image_url": "https://img.pchome.com.tw/cs/items/DMBK54A900JWL8G/000007_1780456138.jpg?width=480",
+      "image_url": "https://img.pchome.com.tw/cs/items/DMBK54A900JWL8G/000007_1781193781.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DMBK54-A900JWL8G",
       "platform": "pchome_onsale"
     },
@@ -803,5 +810,5 @@
       "platform": "pchome_onsale"
     }
   ],
-  "crawl_time": "2026-06-11 15:39:02"
+  "crawl_time": "2026-06-11 20:11:31"
 }
