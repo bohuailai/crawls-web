@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-06-13T13:29:47.255583",
+  "timestamp": "2026-06-13T19:12:16.672030",
   "platform": "pchome_onsale",
   "keyword": "pchome_onsale",
-  "total_products": 98,
+  "total_products": 95,
   "products": [
     {
       "title": "Ergohuman 特仕版 2.0 人體工學椅",
@@ -44,13 +44,6 @@
       "price": "$1,938",
       "image_url": "https://img.pchome.com.tw/cs/items/DEAY3YA900ITEY6/000007_1780566802.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DEAY3Y-A900ITEY6",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "象印不銹鋼彈蓋式真空保溫保冷杯-600ml",
-      "price": "$988",
-      "image_url": "https://img.pchome.com.tw/cs/items/DEBWN3A900IZPKG/000007_1751353552.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DEBWN3-A900IZPKG",
       "platform": "pchome_onsale"
     },
     {
@@ -117,13 +110,6 @@
       "platform": "pchome_onsale"
     },
     {
-      "title": "Hisense 65型4K 120Hz APPLE認證智慧顯示器",
-      "price": "$11,900",
-      "image_url": "https://img.pchome.com.tw/cs/items/DPAD98A900JX77S/000007_1777482293.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DPAD98-A900JX77S",
-      "platform": "pchome_onsale"
-    },
-    {
       "title": "巴黎萊雅 溫和眼唇卸妝液125ml 8入囤貨組",
       "price": "$1,068",
       "image_url": "https://img.pchome.com.tw/cs/items/DAAM791900JIE7R/000007_1764670877.jpg?width=480",
@@ -149,13 +135,6 @@
       "price": "$1,990",
       "image_url": "https://img.pchome.com.tw/cs/items/DGCF49A900K0S1P/000007_1780535745.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DGCF49-A900K0S1P",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "LG 32型 4K APPLE認證顯示器+移動螢幕支架",
-      "price": "$11,900",
-      "image_url": "https://img.pchome.com.tw/cs/items/DPADYE1900JZ5VW/000007_1777912652.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DPADYE-1900JZ5VW",
       "platform": "pchome_onsale"
     },
     {
@@ -691,5 +670,5 @@
       "platform": "pchome_onsale"
     }
   ],
-  "crawl_time": "2026-06-13 13:29:47"
+  "crawl_time": "2026-06-13 19:12:16"
 }
