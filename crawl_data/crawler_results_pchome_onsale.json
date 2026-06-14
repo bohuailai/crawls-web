@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-06-14T13:43:55.231746",
+  "timestamp": "2026-06-14T19:12:44.465868",
   "platform": "pchome_onsale",
   "keyword": "pchome_onsale",
-  "total_products": 112,
+  "total_products": 110,
   "products": [
     {
       "title": "舒潔蓬柔舒膚抽取衛生紙64包",
@@ -68,17 +68,10 @@
       "platform": "pchome_onsale"
     },
     {
-      "title": "WARPPLE 高畫質智慧藍芽無線投影機",
-      "price": "$2,222",
-      "image_url": "https://img.pchome.com.tw/cs/items/DPADY71900K3LHH/000007_1781439998.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DPADY7-1900K3LHH",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "立達Gaming Plus 1TB 記憶卡",
-      "price": "$3,618",
-      "image_url": "https://img.pchome.com.tw/cs/items/DGAG52A900FYOKN/000007_1727340525.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DGAG52-A900FYOKN",
+      "title": "金士頓 256GB TYPE-C 雙頭隨身碟",
+      "price": "$899",
+      "image_url": "https://img.pchome.com.tw/cs/cms/creatives/onsale/38b8f6a8-5cd1-4bac-9834-7a2d970786ca.png?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DGCD15-A900K0VFM",
       "platform": "pchome_onsale"
     },
     {
@@ -159,13 +152,6 @@
       "platform": "pchome_onsale"
     },
     {
-      "title": "BRITA 【官方直營】新升級純淨濾水壺1壺6芯組",
-      "price": "$1,518",
-      "image_url": "https://img.pchome.com.tw/cs/items/DEAY2N1900K1Q3G/000007_1780565503.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DEAY2N-1900K1Q3G",
-      "platform": "pchome_onsale"
-    },
-    {
       "title": "蜂鳥 EVE 4 Ultra 5G極視彎曲定型掏耳棒",
       "price": "$1,780",
       "image_url": "https://img.pchome.com.tw/cs/items/DDBKDBA900K1GGG/000007_1779442537.jpg?width=480",
@@ -173,10 +159,10 @@
       "platform": "pchome_onsale"
     },
     {
-      "title": "mimax 無線環繞重低音家庭影院聲霸",
-      "price": "$2,222",
-      "image_url": "https://img.pchome.com.tw/cs/items/DPADFN1900JXCJ1/000007_1776397977.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DPADFN-1900JXCJ1",
+      "title": "十銓 PRO+ 512GB 高速記憶卡",
+      "price": "$2,599",
+      "image_url": "https://img.pchome.com.tw/cs/cms/creatives/onsale/1ef83335-ab36-4eaf-9a58-6b7496281253.png?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DGAG1C-A900J40CI",
       "platform": "pchome_onsale"
     },
     {
@@ -588,7 +574,7 @@
     {
       "title": "Issey Miyake三宅一生 BAOBAO PRISM PLUS",
       "price": "$13,165",
-      "image_url": "https://img.pchome.com.tw/cs/items/DICKGCA900JUANW/000007_1774236482.jpg?width=480",
+      "image_url": "https://img.pchome.com.tw/cs/items/DICKGCA900JUANW/000007_1781460037.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DICKGC-A900JUANW",
       "platform": "pchome_onsale"
     },
@@ -789,5 +775,5 @@
       "platform": "pchome_onsale"
     }
   ],
-  "crawl_time": "2026-06-14 13:43:55"
+  "crawl_time": "2026-06-14 19:12:44"
 }
