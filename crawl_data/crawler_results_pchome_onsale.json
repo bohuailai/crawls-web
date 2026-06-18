@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-06-18T14:50:47.713287",
+  "timestamp": "2026-06-18T20:13:38.082337",
   "platform": "pchome_onsale",
   "keyword": "pchome_onsale",
-  "total_products": 107,
+  "total_products": 105,
   "products": [
     {
       "title": "iPhone 17 Pro 256G",
@@ -97,7 +97,7 @@
     },
     {
       "title": "Calvin Klein 柔滑輕盈彈性內褲3件組",
-      "price": "$1,118",
+      "price": "$1,168",
       "image_url": "https://img.pchome.com.tw/cs/items/DIBUBYA900I6OVD/000007_1781787085.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DIBUBY-A900I6OVD",
       "platform": "pchome_onsale"
@@ -128,13 +128,6 @@
       "price": "$268",
       "image_url": "https://img.pchome.com.tw/cs/items/DBCRQ41900K2UFO/000007_1781247014.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DBCRQ4-1900K2UFO",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "象印超輕量不鏽鋼彈開式保溫杯480ml-2入組",
-      "price": "$1,188",
-      "image_url": "https://img.pchome.com.tw/cs/items/DEBWN31900I8SUH/000007_1736404064.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DEBWN3-1900I8SUH",
       "platform": "pchome_onsale"
     },
     {
@@ -170,13 +163,6 @@
       "price": "$18,999",
       "image_url": "https://img.pchome.com.tw/cs/items/DMBL1CA900JA04J/000007_1761554919.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DMBL1C-A900JA04J",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "BRITA 【官方直營】去水垢濾芯10入",
-      "price": "$1,938",
-      "image_url": "https://img.pchome.com.tw/cs/items/DEAY3YA900ITEY6/000007_1780566802.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DEAY3Y-A900ITEY6",
       "platform": "pchome_onsale"
     },
     {
@@ -754,5 +740,5 @@
       "platform": "pchome_onsale"
     }
   ],
-  "crawl_time": "2026-06-18 14:50:47"
+  "crawl_time": "2026-06-18 20:13:38"
 }
