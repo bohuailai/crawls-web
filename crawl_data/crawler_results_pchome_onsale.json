@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-06-19T14:46:27.553336",
+  "timestamp": "2026-06-19T19:28:01.214141",
   "platform": "pchome_onsale",
   "keyword": "pchome_onsale",
-  "total_products": 101,
+  "total_products": 99,
   "products": [
     {
       "title": "SK-II 青春露 330ml (專櫃公司貨)",
@@ -124,13 +124,6 @@
       "platform": "pchome_onsale"
     },
     {
-      "title": "mimax 無線環繞重低音家庭影院聲霸",
-      "price": "$2,222",
-      "image_url": "https://img.pchome.com.tw/cs/items/DPADFN1900JXCJ1/000007_1776397977.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DPADFN-1900JXCJ1",
-      "platform": "pchome_onsale"
-    },
-    {
       "title": "三星 EVO Plus 512GB 高速記憶卡",
       "price": "$2,849",
       "image_url": "https://img.pchome.com.tw/cs/cms/creatives/onsale/4b4d31c3-4cc2-4707-8113-91b098b6d8f5.png?width=480",
@@ -149,13 +142,6 @@
       "price": "$17,999",
       "image_url": "https://img.pchome.com.tw/cs/items/DPAF1N1900JP7SU/000007_1772094956.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DPAF1N-1900JP7SU",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "WARPPLE 智慧藍芽無線投影機",
-      "price": "$2,618",
-      "image_url": "https://img.pchome.com.tw/cs/items/DPADY71900K3LHH/000007_1781439998.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DPADY7-1900K3LHH",
       "platform": "pchome_onsale"
     },
     {
@@ -712,5 +698,5 @@
       "platform": "pchome_onsale"
     }
   ],
-  "crawl_time": "2026-06-19 14:46:27"
+  "crawl_time": "2026-06-19 19:28:01"
 }
