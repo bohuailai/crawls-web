@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-20T13:43:28.438494",
+  "timestamp": "2026-06-20T19:12:40.187859",
   "platform": "pchome_onsale",
   "keyword": "pchome_onsale",
   "total_products": 105,
@@ -82,6 +82,20 @@
       "platform": "pchome_onsale"
     },
     {
+      "title": "KIOXIA 鎧俠 128GB 隨身碟",
+      "price": "$699",
+      "image_url": "https://img.pchome.com.tw/cs/cms/creatives/onsale/764b02a1-f491-408f-8933-70531a980904.png?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DGCD8O-1900K1WSO",
+      "platform": "pchome_onsale"
+    },
+    {
+      "title": "ACER 宏碁 64GB 記憶卡",
+      "price": "$999",
+      "image_url": "https://img.pchome.com.tw/cs/cms/creatives/onsale/2064ca6a-0753-49b6-9a53-df90cc935db8.png?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DGAG5F-1900K47UM",
+      "platform": "pchome_onsale"
+    },
+    {
       "title": "白蘭氏葉黃素精華凍特別版(90入)",
       "price": "$4,299",
       "image_url": "https://img.pchome.com.tw/cs/items/DBCL1N1900K0ER4/000007_1778728881.jpg?width=480",
@@ -138,13 +152,6 @@
       "platform": "pchome_onsale"
     },
     {
-      "title": "mimax 無線環繞重低音家庭影院聲霸",
-      "price": "$2,222",
-      "image_url": "https://img.pchome.com.tw/cs/items/DPADFN1900JXCJ1/000007_1776397977.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DPADFN-1900JXCJ1",
-      "platform": "pchome_onsale"
-    },
-    {
       "title": "Apple Watch Ultra 3",
       "price": "$24,618",
       "image_url": "https://img.pchome.com.tw/cs/items/DYAJCLA900J836T/000007_1757924323.jpg?width=480",
@@ -163,13 +170,6 @@
       "price": "$70",
       "image_url": "https://img.pchome.com.tw/cs/cms/creatives/onsale/9a6a8422-1a99-4a70-bbdd-2104562e8d3a.png?width=480",
       "url": "https://24h.pchome.com.tw/prod/DBCRQC-A900K2UAI",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "WARPPLE 智慧短焦投影機(HD/150吋/450流明)",
-      "price": "$2,222",
-      "image_url": "https://img.pchome.com.tw/cs/items/DPADY71900K3LHH/000007_1781439998.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DPADFN-1900K4UXD",
       "platform": "pchome_onsale"
     },
     {
@@ -259,7 +259,7 @@
     {
       "title": "ACER Win11P迷你電腦",
       "price": "$4,999",
-      "image_url": "https://img.pchome.com.tw/cs/items/DSAANA1900K1XPH/000007_1780552481.jpg?width=480",
+      "image_url": "https://img.pchome.com.tw/cs/items/DSAANA1900K1XPH/000007_1781976869.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DSAANA-1900K1XPH",
       "platform": "pchome_onsale"
     },
@@ -740,5 +740,5 @@
       "platform": "pchome_onsale"
     }
   ],
-  "crawl_time": "2026-06-20 13:43:28"
+  "crawl_time": "2026-06-20 19:12:40"
 }
