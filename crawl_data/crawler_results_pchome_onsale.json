@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-06-21T13:51:24.426333",
+  "timestamp": "2026-06-21T19:18:32.594590",
   "platform": "pchome_onsale",
   "keyword": "pchome_onsale",
-  "total_products": 102,
+  "total_products": 100,
   "products": [
     {
       "title": "白蘭含熊寶貝馨香洗衣精12包(多款任選)",
@@ -65,13 +65,6 @@
       "price": "$2,849",
       "image_url": "https://img.pchome.com.tw/cs/cms/creatives/onsale/8ca0c069-d077-4b76-9d60-12cbf46c9c09.png?width=480",
       "url": "https://24h.pchome.com.tw/prod/DGAG6Y-A900JA2SW",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "WAPPLE智慧短焦投影機(HD/150吋/450流明)",
-      "price": "$2,222",
-      "image_url": "https://img.pchome.com.tw/cs/items/DPADFN1900K4UXD/000007_1781958232.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DPADFN-1900K4UXD",
       "platform": "pchome_onsale"
     },
     {
@@ -170,13 +163,6 @@
       "price": "$13,900",
       "image_url": "https://img.pchome.com.tw/cs/items/DPADHK1900IFVPH/000007_1774958522.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DPADHK-1900IFVPH",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "小米 43型 4K QLED Google TV智慧顯示器",
-      "price": "$7,094",
-      "image_url": "https://img.pchome.com.tw/cs/items/DPADBUA900JNUU3/000007_1768960317.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DPADBU-A900JNUU3",
       "platform": "pchome_onsale"
     },
     {
@@ -719,5 +705,5 @@
       "platform": "pchome_onsale"
     }
   ],
-  "crawl_time": "2026-06-21 13:51:24"
+  "crawl_time": "2026-06-21 19:18:32"
 }
