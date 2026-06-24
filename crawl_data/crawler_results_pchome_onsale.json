@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-06-24T14:10:24.521125",
+  "timestamp": "2026-06-24T19:27:34.537786",
   "platform": "pchome_onsale",
   "keyword": "pchome_onsale",
-  "total_products": 98,
+  "total_products": 100,
   "products": [
     {
       "title": "7-ELEVEN隨行取 大杯特選美式(冰)共24杯",
@@ -58,6 +58,13 @@
       "price": "$70",
       "image_url": "https://img.pchome.com.tw/cs/cms/creatives/onsale/1a043b6f-8608-41e3-a3b3-cefcecbad822.jpeg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DBCRQC-A900K2UAI",
+      "platform": "pchome_onsale"
+    },
+    {
+      "title": "ACER 宏碁 64GB 記憶卡",
+      "price": "$999",
+      "image_url": "https://img.pchome.com.tw/cs/cms/creatives/onsale/c21f4cc8-4863-421f-83c3-24c23b0d2ff0.png?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DGAG5F-1900K47UM",
       "platform": "pchome_onsale"
     },
     {
@@ -173,6 +180,13 @@
       "platform": "pchome_onsale"
     },
     {
+      "title": "金士頓 128GB Type-C 雙頭隨身碟",
+      "price": "$399",
+      "image_url": "https://img.pchome.com.tw/cs/cms/creatives/onsale/d4661d99-4de6-4fa8-9f1f-04ca2129077b.png?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DGCD15-A900JWVD6",
+      "platform": "pchome_onsale"
+    },
+    {
       "title": "AirPods Pro 3",
       "price": "$6,599",
       "image_url": "https://img.pchome.com.tw/cs/items/DYAJCH1900JLHPE/000007_1775787499.jpg?width=480",
@@ -189,7 +203,7 @@
     {
       "title": "RAZER x BLACKPINK 聯名套組",
       "price": "$22,500",
-      "image_url": "https://img.pchome.com.tw/cs/items/DCBF2R1900JZKB2/000007_1782299898.jpg?width=480",
+      "image_url": "https://img.pchome.com.tw/cs/items/DCBF2R1900JZKB2/000007_1782317555.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DCBF2R-1900JZKB2",
       "platform": "pchome_onsale"
     },
@@ -357,7 +371,7 @@
     {
       "title": "RAZER x BLACKPINK 聯名套組",
       "price": "$22,500",
-      "image_url": "https://img.pchome.com.tw/cs/items/DCBF2R1900JZKB2/000007_1782299898.jpg?width=480",
+      "image_url": "https://img.pchome.com.tw/cs/items/DCBF2R1900JZKB2/000007_1782317555.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DCBF2R-1900JZKB2",
       "platform": "pchome_onsale"
     },
@@ -525,7 +539,7 @@
     {
       "title": "RAZER x BLACKPINK 聯名套組",
       "price": "$22,500",
-      "image_url": "https://img.pchome.com.tw/cs/items/DCBF2R1900JZKB2/000007_1782299898.jpg?width=480",
+      "image_url": "https://img.pchome.com.tw/cs/items/DCBF2R1900JZKB2/000007_1782317555.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DCBF2R-1900JZKB2",
       "platform": "pchome_onsale"
     },
@@ -691,5 +705,5 @@
       "platform": "pchome_onsale"
     }
   ],
-  "crawl_time": "2026-06-24 14:10:24"
+  "crawl_time": "2026-06-24 19:27:34"
 }
