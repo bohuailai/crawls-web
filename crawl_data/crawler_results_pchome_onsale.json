@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-28T13:20:38.477046",
+  "timestamp": "2026-06-28T19:05:30.141851",
   "platform": "pchome_onsale",
   "keyword": "pchome_onsale",
   "total_products": 83,
@@ -68,6 +68,13 @@
       "platform": "pchome_onsale"
     },
     {
+      "title": "金士頓 128GB Type-C 雙頭隨身碟",
+      "price": "$399",
+      "image_url": "https://img.pchome.com.tw/cs/cms/creatives/onsale/7669cd28-7b4c-442c-8043-d19cad277a0b.png?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DGCD15-A900JWVD6",
+      "platform": "pchome_onsale"
+    },
+    {
       "title": "國際牌610公升無邊框鋼板四門冰箱",
       "price": "$35,900",
       "image_url": "https://img.pchome.com.tw/cs/items/DPAC1TA900AVR5Q/000007_1618576898.jpg?width=480",
@@ -117,13 +124,6 @@
       "platform": "pchome_onsale"
     },
     {
-      "title": "TCL 50吋 T6C QLED 量子智能液晶螢幕顯示器",
-      "price": "$9,999",
-      "image_url": "https://img.pchome.com.tw/cs/items/DPADT3A900J2KMA/000007_1772007541.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DPADT3-A900J2KMA",
-      "platform": "pchome_onsale"
-    },
-    {
       "title": "石頭科技Qrevo Curv 2 Flow掃拖機器人",
       "price": "$18,999",
       "image_url": "https://img.pchome.com.tw/cs/items/DMBL1CA900JA04J/000007_1761554919.jpg?width=480",
@@ -166,10 +166,10 @@
       "platform": "pchome_onsale"
     },
     {
-      "title": "小米 75吋4K Mini LED 144Hz智慧電競顯示器",
-      "price": "$22,618",
-      "image_url": "https://img.pchome.com.tw/cs/items/DPADBU1900J3LGT/000007_1780625460.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DPADBU-1900J3LGT",
+      "title": "ACER 宏碁 64GB 記憶卡",
+      "price": "$999",
+      "image_url": "https://img.pchome.com.tw/cs/cms/creatives/onsale/9a1e9395-770a-4940-ba2c-cf8480a3e6c0.png?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DGAG5F-1900K47UM",
       "platform": "pchome_onsale"
     },
     {
@@ -586,5 +586,5 @@
       "platform": "pchome_onsale"
     }
   ],
-  "crawl_time": "2026-06-28 13:20:38"
+  "crawl_time": "2026-06-28 19:05:30"
 }
