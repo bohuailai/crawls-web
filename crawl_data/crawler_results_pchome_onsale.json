@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-06-29T15:33:10.547659",
+  "timestamp": "2026-06-29T19:45:45.102656",
   "platform": "pchome_onsale",
   "keyword": "pchome_onsale",
-  "total_products": 81,
+  "total_products": 82,
   "products": [
     {
       "title": "讀墨7吋mooInk Nana彩色閲讀器",
@@ -68,13 +68,6 @@
       "platform": "pchome_onsale"
     },
     {
-      "title": "KIOXIA 鎧俠 128GB 隨身碟",
-      "price": "$699",
-      "image_url": "https://img.pchome.com.tw/cs/cms/creatives/onsale/482e9280-0f0b-44b1-9eec-60e0e3757c50.png?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DGCD8O-1900K1WSO",
-      "platform": "pchome_onsale"
-    },
-    {
       "title": "船井 極纖錠480顆黑夜代謝爆攻組",
       "price": "$4,880",
       "image_url": "https://img.pchome.com.tw/cs/items/DBBF2RA900F5ZIF/000007_1759394498.jpg?width=480",
@@ -110,6 +103,13 @@
       "platform": "pchome_onsale"
     },
     {
+      "title": "威剛 Premier Pro 64GB 記憶卡 (附轉卡)",
+      "price": "$549",
+      "image_url": "https://img.pchome.com.tw/cs/cms/creatives/onsale/535c9af3-b4fe-42fd-a994-f068a0fe7667.png?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DGAG6S-A900JXKFF",
+      "platform": "pchome_onsale"
+    },
+    {
       "title": "大同11人份316不鏽鋼電鍋(全不鏽鋼)",
       "price": "$5,180",
       "image_url": "https://img.pchome.com.tw/cs/items/DMBI8KA900IXYAE/000007_1750141963.jpg?width=480",
@@ -128,6 +128,13 @@
       "price": "$15,618",
       "image_url": "https://img.pchome.com.tw/cs/items/DPAF3W1900JVXG4/000007_1775641150.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DPAF3W-1900JVXG4",
+      "platform": "pchome_onsale"
+    },
+    {
+      "title": "金士頓 256GB TYPE-C 雙頭隨身碟",
+      "price": "$899",
+      "image_url": "https://img.pchome.com.tw/cs/cms/creatives/onsale/5944bb4e-62c4-4cee-a7a5-9c2d70ee2078.png?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DGCD15-A900K0VFM",
       "platform": "pchome_onsale"
     },
     {
@@ -572,5 +579,5 @@
       "platform": "pchome_onsale"
     }
   ],
-  "crawl_time": "2026-06-29 15:33:10"
+  "crawl_time": "2026-06-29 19:45:45"
 }
