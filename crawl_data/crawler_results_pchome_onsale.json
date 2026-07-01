@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-07-01T14:13:41.967089",
+  "timestamp": "2026-07-01T19:41:59.556316",
   "platform": "pchome_onsale",
   "keyword": "pchome_onsale",
-  "total_products": 83,
+  "total_products": 85,
   "products": [
     {
       "title": "Jo Malone 香水 100ml 任選",
@@ -40,6 +40,13 @@
       "platform": "pchome_onsale"
     },
     {
+      "title": "Gigastone 立達 1TB 記憶卡(附SD轉卡)",
+      "price": "$3,699",
+      "image_url": "https://img.pchome.com.tw/cs/items/DGAG52A900FYOKN/000007_1727340525.jpg?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DGAG52-A900FYOKN",
+      "platform": "pchome_onsale"
+    },
+    {
       "title": "LENOVO Legion Tab Gen 5 12G/256G",
       "price": "$26,990",
       "image_url": "https://img.pchome.com.tw/cs/items/DYAMHIA900K2SJZ/000007_1780992653.jpg?width=480",
@@ -58,6 +65,13 @@
       "price": "$990",
       "image_url": "https://img.pchome.com.tw/cs/items/DQAUFQA900GRO0X/000007_1777442270.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DQAUFQ-A900GRO0X",
+      "platform": "pchome_onsale"
+    },
+    {
+      "title": "KIOXIA 鎧俠 128GB Type-A 隨身碟",
+      "price": "$699",
+      "image_url": "https://img.pchome.com.tw/cs/cms/creatives/onsale/87f3ff8a-e043-4380-a566-25784f50d840.png?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DGCD8O-1900K1WSO",
       "platform": "pchome_onsale"
     },
     {
@@ -586,5 +600,5 @@
       "platform": "pchome_onsale"
     }
   ],
-  "crawl_time": "2026-07-01 14:13:41"
+  "crawl_time": "2026-07-01 19:41:59"
 }
