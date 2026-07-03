@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-03T13:45:59.642217",
+  "timestamp": "2026-07-03T19:05:28.840214",
   "platform": "pchome_onsale",
   "keyword": "pchome_onsale",
   "total_products": 96,
@@ -30,6 +30,13 @@
       "price": "$919",
       "image_url": "https://img.pchome.com.tw/cs/items/DICG8EA900HAGNJ/000007_1765546621.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DICG8E-A900HAGNJ",
+      "platform": "pchome_onsale"
+    },
+    {
+      "title": "金士頓 256GB TYPE-C 雙頭隨身碟",
+      "price": "$749",
+      "image_url": "https://img.pchome.com.tw/cs/items/DGCD15A900K0VFM/000007_1779153863.jpg?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DGCD15-A900K0VFM",
       "platform": "pchome_onsale"
     },
     {
@@ -103,20 +110,6 @@
       "platform": "pchome_onsale"
     },
     {
-      "title": "三星 EVO Plus 512GB記憶卡",
-      "price": "$2,999",
-      "image_url": "https://img.pchome.com.tw/cs/cms/creatives/onsale/50bc8af6-1a4e-400d-b5fd-4c42465d9664.png?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DGAG6Y-A900JA2SW",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "金士頓 Type-C 128GB 隨身碟",
-      "price": "$699",
-      "image_url": "https://img.pchome.com.tw/cs/cms/creatives/onsale/b48a13dd-6665-45fb-b2d5-d8a4622059cc.png?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DGCD15-1900JV42K",
-      "platform": "pchome_onsale"
-    },
-    {
       "title": "Samsung Tab S10FE SM-X520 (8G/128GB)",
       "price": "$15,900",
       "image_url": "https://img.pchome.com.tw/cs/items/DYCO0NA900K0RVZ/000007_1779073478.jpg?width=480",
@@ -159,6 +152,13 @@
       "platform": "pchome_onsale"
     },
     {
+      "title": "Team 十銓 Express 超高速記憶卡 512GB",
+      "price": "$2,699",
+      "image_url": "https://img.pchome.com.tw/cs/items/DGAG1CA900IYCYH/000007_1776737164.jpg?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DGAG1C-A900IYCYH",
+      "platform": "pchome_onsale"
+    },
+    {
       "title": "acerpure Aqua 黑曜石冰溫瞬熱RO濾淨飲水機",
       "price": "$15,990",
       "image_url": "https://img.pchome.com.tw/cs/items/DMCI0YA900IDCP3/000007_1773651244.jpg?width=480",
@@ -174,7 +174,7 @@
     },
     {
       "title": "十銓 Express 512GB 超高速記憶卡",
-      "price": "$2,888",
+      "price": "$2,699",
       "image_url": "https://img.pchome.com.tw/cs/items/DGAG1CA900IYCYH/000007_1776737164.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DGAG1C-A900IYCYH",
       "platform": "pchome_onsale"
@@ -342,7 +342,7 @@
     },
     {
       "title": "十銓 Express 512GB 超高速記憶卡",
-      "price": "$2,888",
+      "price": "$2,699",
       "image_url": "https://img.pchome.com.tw/cs/items/DGAG1CA900IYCYH/000007_1776737164.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DGAG1C-A900IYCYH",
       "platform": "pchome_onsale"
@@ -510,7 +510,7 @@
     },
     {
       "title": "十銓 Express 512GB 超高速記憶卡",
-      "price": "$2,888",
+      "price": "$2,699",
       "image_url": "https://img.pchome.com.tw/cs/items/DGAG1CA900IYCYH/000007_1776737164.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DGAG1C-A900IYCYH",
       "platform": "pchome_onsale"
@@ -677,5 +677,5 @@
       "platform": "pchome_onsale"
     }
   ],
-  "crawl_time": "2026-07-03 13:45:59"
+  "crawl_time": "2026-07-03 19:05:28"
 }
