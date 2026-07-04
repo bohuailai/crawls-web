@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-04T13:04:40.618212",
+  "timestamp": "2026-07-04T18:58:49.576204",
   "platform": "pchome_onsale",
   "keyword": "pchome_onsale",
   "total_products": 110,
@@ -47,17 +47,10 @@
       "platform": "pchome_onsale"
     },
     {
-      "title": "Samsung 65型4K QLED APPLE認證 AI顯示器",
-      "price": "$22,410",
-      "image_url": "https://img.pchome.com.tw/cs/items/DPADEWA900J54YI/000007_1782148659.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DPADEW-A900J54YI",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "海信 65型4K 120Hz APPLE認證智慧聯顯示器",
-      "price": "$12,999",
-      "image_url": "https://img.pchome.com.tw/cs/items/DPAD98A900JX77S/000007_1777482293.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DPAD98-A900JX77S",
+      "title": "KIOXIA 鎧俠 128GB 隨身碟",
+      "price": "$699",
+      "image_url": "https://img.pchome.com.tw/cs/cms/creatives/onsale/a966f188-abd3-4952-9db8-cd4e111faa9d.png?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DGCD8O-1900K1WSO",
       "platform": "pchome_onsale"
     },
     {
@@ -100,6 +93,13 @@
       "price": "$699",
       "image_url": "https://img.pchome.com.tw/cs/items/DBAK0BA9007PII6/000007_1762765052.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DBAK0B-A9007PII6",
+      "platform": "pchome_onsale"
+    },
+    {
+      "title": "KIOXIA 鎧俠 256GB 記憶卡",
+      "price": "$1,490",
+      "image_url": "https://img.pchome.com.tw/cs/cms/creatives/onsale/934d1cdc-fea1-4070-855c-6daf5869995c.png?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DGAG7D-A900B6I94",
       "platform": "pchome_onsale"
     },
     {
@@ -621,13 +621,6 @@
       "platform": "pchome_onsale"
     },
     {
-      "title": "美國探險家 30吋雙排靜音輪可擴充前開箱",
-      "price": "$1,888",
-      "image_url": "https://img.pchome.com.tw/cs/items/DIBKVLA900J3BQ6/000007_1766474736.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DIBKVL-A900J3BQ6",
-      "platform": "pchome_onsale"
-    },
-    {
       "title": "OSIM 護眼樂Air 2 OS-1251",
       "price": "$3,799",
       "image_url": "https://img.pchome.com.tw/cs/items/DMAD1LA900J3VBZ/000007_1754536083.jpg?width=480",
@@ -698,6 +691,13 @@
       "platform": "pchome_onsale"
     },
     {
+      "title": "美國探險家 30吋可擴充前開箱 CF62",
+      "price": "$1,888",
+      "image_url": "https://img.pchome.com.tw/cs/items/DIBKVLA900JM5KE/000007_1773035808.jpg?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DIBKVL-A900JM5KE",
+      "platform": "pchome_onsale"
+    },
+    {
       "title": "青森丸搾蘋果汁1000ml (6入x1箱)",
       "price": "$799",
       "image_url": "https://img.pchome.com.tw/cs/items/DBAJ9QA900FHFAE/000007_1781689627.jpg?width=480",
@@ -754,7 +754,7 @@
       "platform": "pchome_onsale"
     },
     {
-      "title": "Deseno 29.5吋煞車輪前開箱(含真空壓縮機)",
+      "title": "Deseno 29.5吋真空壓縮煞車輪前開箱",
       "price": "$7,780",
       "image_url": "https://img.pchome.com.tw/cs/items/DIBKVLA900IXQUK/000007_1750068005.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DIBKVL-A900IXQUK",
@@ -775,5 +775,5 @@
       "platform": "pchome_onsale"
     }
   ],
-  "crawl_time": "2026-07-04 13:04:40"
+  "crawl_time": "2026-07-04 18:58:49"
 }
