@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-05T13:13:42.487791",
+  "timestamp": "2026-07-05T19:04:33.045933",
   "platform": "pchome_onsale",
   "keyword": "pchome_onsale",
   "total_products": 102,
@@ -40,17 +40,10 @@
       "platform": "pchome_onsale"
     },
     {
-      "title": "Samsung 65型4K QLED APPLE認證 AI顯示器",
-      "price": "$22,410",
-      "image_url": "https://img.pchome.com.tw/cs/items/DPADEWA900J54YI/000007_1782148659.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DPADEW-A900J54YI",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "海信65型4K 120Hz APPLE認證智慧顯示器",
-      "price": "$12,999",
-      "image_url": "https://img.pchome.com.tw/cs/items/DPAD98A900JX77S/000007_1777482293.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DPAD98-A900JX77S",
+      "title": "金士頓 Type-C 128GB 隨身碟 二入組",
+      "price": "$649",
+      "image_url": "https://img.pchome.com.tw/cs/cms/creatives/onsale/ff155254-fc61-456e-8e7e-1d8ce1131e70.png?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DGCD15-1900JV42K",
       "platform": "pchome_onsale"
     },
     {
@@ -135,6 +128,13 @@
       "price": "$1,888",
       "image_url": "https://img.pchome.com.tw/cs/items/DIBKVLA900JM5KE/000007_1773035808.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DIBKVL-A900JM5KE",
+      "platform": "pchome_onsale"
+    },
+    {
+      "title": "ACER 宏碁 64GB 記憶卡",
+      "price": "$999",
+      "image_url": "https://img.pchome.com.tw/cs/cms/creatives/onsale/07399d76-8585-49e0-b1d6-1e366721fe20.png?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DGAG5F-1900K47UM",
       "platform": "pchome_onsale"
     },
     {
@@ -719,5 +719,5 @@
       "platform": "pchome_onsale"
     }
   ],
-  "crawl_time": "2026-07-05 13:13:42"
+  "crawl_time": "2026-07-05 19:04:33"
 }
