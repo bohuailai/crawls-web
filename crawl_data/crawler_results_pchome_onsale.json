@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-07T14:10:46.636115",
+  "timestamp": "2026-07-07T19:43:36.357054",
   "platform": "pchome_onsale",
   "keyword": "pchome_onsale",
   "total_products": 104,
@@ -14,7 +14,7 @@
     {
       "title": "理膚寶水 極致抗油光防曬亮白乳 30mlx2",
       "price": "$1,663",
-      "image_url": "https://img.pchome.com.tw/cs/items/DDCA2G1900FN0TP/000007_1783353713.jpg?width=480",
+      "image_url": "https://img.pchome.com.tw/cs/items/DDCA2G1900FN0TP/000007_1783442259.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DDCA2G-1900FN0TP",
       "platform": "pchome_onsale"
     },
@@ -72,6 +72,13 @@
       "price": "$399",
       "image_url": "https://img.pchome.com.tw/cs/cms/creatives/onsale/89f202b2-8fb0-4bdf-95e1-6765bb584052.png?width=480",
       "url": "https://24h.pchome.com.tw/prod/DGCD1E-A900K3JFN",
+      "platform": "pchome_onsale"
+    },
+    {
+      "title": "SanDisk 高耐用記憶卡 128GB",
+      "price": "$1,199",
+      "image_url": "https://img.pchome.com.tw/cs/cms/creatives/onsale/b52afc26-56a8-42f5-b7aa-031052dfa616.png?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DGAG0H-A9009YHLL",
       "platform": "pchome_onsale"
     },
     {
@@ -170,13 +177,6 @@
       "price": "$14,588",
       "image_url": "https://img.pchome.com.tw/cs/items/DCBR0NA900IAQTY/000007_1737620982.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DCBR0N-A900IAQTY",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "威剛 Premier Pro 64GB A2 記憶卡 (附轉卡)",
-      "price": "$549",
-      "image_url": "https://img.pchome.com.tw/cs/cms/creatives/onsale/92b60030-863b-4c30-a25c-63d931e764eb.png?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DGAG6S-A900JXKFF",
       "platform": "pchome_onsale"
     },
     {
@@ -733,5 +733,5 @@
       "platform": "pchome_onsale"
     }
   ],
-  "crawl_time": "2026-07-07 14:10:46"
+  "crawl_time": "2026-07-07 19:43:36"
 }
