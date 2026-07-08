@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-07-08T13:45:49.672664",
+  "timestamp": "2026-07-08T19:10:40.872239",
   "platform": "pchome_onsale",
   "keyword": "pchome_onsale",
-  "total_products": 104,
+  "total_products": 106,
   "products": [
     {
       "title": "iPhone 17 Pro Max 256G",
@@ -89,6 +89,20 @@
       "platform": "pchome_onsale"
     },
     {
+      "title": "ACER 宏碁 64GB 記憶卡 三入組",
+      "price": "$999",
+      "image_url": "https://img.pchome.com.tw/cs/cms/creatives/onsale/0a2154d4-3048-42a9-8519-962f4ffe51d8.png?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DGAG5F-1900K47UM",
+      "platform": "pchome_onsale"
+    },
+    {
+      "title": "SanDisk Ultra Flair 隨身碟 128GB",
+      "price": "$399",
+      "image_url": "https://img.pchome.com.tw/cs/cms/creatives/onsale/56a545c1-f767-4ca7-9e24-a354b51dc564.png?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DGCD1E-A900K3JFN",
+      "platform": "pchome_onsale"
+    },
+    {
       "title": "Apple Watch Ultra 3",
       "price": "$24,999",
       "image_url": "https://img.pchome.com.tw/cs/items/DYAJCLA900J836T/000007_1757924323.jpg?width=480",
@@ -125,7 +139,7 @@
     },
     {
       "title": "來一客經典風味杯(12入/箱)x2箱",
-      "price": "$520",
+      "price": "$499",
       "image_url": "https://img.pchome.com.tw/cs/items/DBAY1D1900I4Q10/000007_1762936785.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DBAY1D-1900I4Q10",
       "platform": "pchome_onsale"
@@ -329,7 +343,7 @@
     {
       "title": "飛利浦 智能電鬍刀 S7887/58",
       "price": "$10,888",
-      "image_url": "https://img.pchome.com.tw/cs/items/DMBK54A900JW09J/000007_1775701305.jpg?width=480",
+      "image_url": "https://img.pchome.com.tw/cs/items/DMBK54A900JW09J/000007_1783527660.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DMBK54-A900JW09J",
       "platform": "pchome_onsale"
     },
@@ -733,5 +747,5 @@
       "platform": "pchome_onsale"
     }
   ],
-  "crawl_time": "2026-07-08 13:45:49"
+  "crawl_time": "2026-07-08 19:10:40"
 }
