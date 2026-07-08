@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-07-07T19:43:36.357054",
+  "timestamp": "2026-07-08T01:55:28.047978",
   "platform": "pchome_onsale",
   "keyword": "pchome_onsale",
-  "total_products": 104,
+  "total_products": 102,
   "products": [
     {
       "title": "KIRIN 麒麟生茶525ml (24入/箱)",
@@ -65,20 +65,6 @@
       "price": "$2,999",
       "image_url": "https://img.pchome.com.tw/cs/items/DPAE6ZA900K1AAM/000007_1779347200.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DPAE6Z-A900K1AAM",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "SanDisk Ultra Flair 隨身碟 128GB",
-      "price": "$399",
-      "image_url": "https://img.pchome.com.tw/cs/cms/creatives/onsale/89f202b2-8fb0-4bdf-95e1-6765bb584052.png?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DGCD1E-A900K3JFN",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "SanDisk 高耐用記憶卡 128GB",
-      "price": "$1,199",
-      "image_url": "https://img.pchome.com.tw/cs/cms/creatives/onsale/b52afc26-56a8-42f5-b7aa-031052dfa616.png?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DGAG0H-A9009YHLL",
       "platform": "pchome_onsale"
     },
     {
@@ -733,5 +719,5 @@
       "platform": "pchome_onsale"
     }
   ],
-  "crawl_time": "2026-07-07 19:43:36"
+  "crawl_time": "2026-07-08 01:55:28"
 }
