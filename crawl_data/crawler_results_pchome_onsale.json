@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-07-10T14:03:52.623442",
+  "timestamp": "2026-07-10T19:17:41.201480",
   "platform": "pchome_onsale",
   "keyword": "pchome_onsale",
-  "total_products": 100,
+  "total_products": 98,
   "products": [
     {
       "title": "技嘉 16吋i7-RTX5070電競筆電(16G/1TB)",
@@ -100,20 +100,6 @@
       "price": "$154",
       "image_url": "https://img.pchome.com.tw/cs/items/DBCRN81900K5O03/000007_1782563779.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DBCRN8-1900K5O03",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "mimax 無線環繞重低音家庭影院聲霸",
-      "price": "$2,222",
-      "image_url": "https://img.pchome.com.tw/cs/items/DPADFN1900JXCJ1/000007_1776397977.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DPADFN-1900JXCJ1",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "OVO 沃朋小方塊行動劇院智慧投影機",
-      "price": "$2,222",
-      "image_url": "https://img.pchome.com.tw/cs/items/DPADXZA900K4ZQF/000007_1782144371.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DPADXZ-A900K4ZQF",
       "platform": "pchome_onsale"
     },
     {
@@ -384,7 +370,7 @@
     },
     {
       "title": "GUCCI古馳 經典中夾/零錢卡夾短夾組合",
-      "price": "$25,835",
+      "price": "$19,599",
       "image_url": "https://img.pchome.com.tw/cs/items/DICKACA900K5B6V/000007_1782294518.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DICKAC-A900K5B6V",
       "platform": "pchome_onsale"
@@ -552,7 +538,7 @@
     },
     {
       "title": "EMINENT萬國通路 28吋UNIVO可擴充前開箱",
-      "price": "$7,988",
+      "price": "$7,711",
       "image_url": "https://img.pchome.com.tw/cs/items/DIBKVLA900JICQN/000007_1764652387.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DIBKVL-A900JICQN",
       "platform": "pchome_onsale"
@@ -705,5 +691,5 @@
       "platform": "pchome_onsale"
     }
   ],
-  "crawl_time": "2026-07-10 14:03:52"
+  "crawl_time": "2026-07-10 19:17:41"
 }
