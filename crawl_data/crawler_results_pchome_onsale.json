@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-07-10T19:17:41.201480",
+  "timestamp": "2026-07-11T01:54:10.256885",
   "platform": "pchome_onsale",
   "keyword": "pchome_onsale",
-  "total_products": 98,
+  "total_products": 96,
   "products": [
     {
       "title": "技嘉 16吋i7-RTX5070電競筆電(16G/1TB)",
@@ -103,24 +103,10 @@
       "platform": "pchome_onsale"
     },
     {
-      "title": "十銓 PRO+ 512GB 高速記憶卡",
-      "price": "$2,599",
-      "image_url": "https://img.pchome.com.tw/cs/cms/creatives/onsale/1e93f6d0-6ca9-4ac9-bb85-bdbdca46be63.png?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DGAG1C-A900J40CI",
-      "platform": "pchome_onsale"
-    },
-    {
       "title": "ASUS ROG SL400C 電競椅",
       "price": "$11,990",
       "image_url": "https://img.pchome.com.tw/cs/items/DCBT04A900K1BYJ/000007_1779363395.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DCBT04-A900K1BYJ",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "KIOXIA 鎧俠 128GB 隨身碟",
-      "price": "$699",
-      "image_url": "https://img.pchome.com.tw/cs/cms/creatives/onsale/f50319cf-856b-4020-9c86-e23e6b2abffe.png?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DGCD8O-1900K1WSO",
       "platform": "pchome_onsale"
     },
     {
@@ -691,5 +677,5 @@
       "platform": "pchome_onsale"
     }
   ],
-  "crawl_time": "2026-07-10 19:17:41"
+  "crawl_time": "2026-07-11 01:54:10"
 }
