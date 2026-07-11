@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-11T12:59:54.382999",
+  "timestamp": "2026-07-11T18:48:39.783945",
   "platform": "pchome_onsale",
   "keyword": "pchome_onsale",
   "total_products": 110,
@@ -159,10 +159,17 @@
       "platform": "pchome_onsale"
     },
     {
-      "title": "mimax 無線環繞重低音家庭影院聲霸",
-      "price": "$2,222",
-      "image_url": "https://img.pchome.com.tw/cs/items/DPADFN1900JXCJ1/000007_1776397977.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DPADFN-1900JXCJ1",
+      "title": "威剛 Premier Pro 64GB A2 記憶卡 (附轉卡)",
+      "price": "$549",
+      "image_url": "https://img.pchome.com.tw/cs/cms/creatives/onsale/6ffc5695-0d2d-4d48-aa49-35cdf208fbb9.png?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DGAG6S-A900JXKFF",
+      "platform": "pchome_onsale"
+    },
+    {
+      "title": "金士頓 Type-C 128GB 隨身碟 二入組",
+      "price": "$688",
+      "image_url": "https://img.pchome.com.tw/cs/cms/creatives/onsale/a1959d62-a7dc-4b48-acb0-82641697e1d9.png?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DGCD15-1900JV42K",
       "platform": "pchome_onsale"
     },
     {
@@ -170,13 +177,6 @@
       "price": "$2,188",
       "image_url": "https://img.pchome.com.tw/cs/items/DMADIKA900I9MYR/000007_1744796233.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DMADIK-A900I9MYR",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "OVO 沃朋小方塊行動劇院智慧投影機",
-      "price": "$2,222",
-      "image_url": "https://img.pchome.com.tw/cs/items/DPADXZA900K4ZQF/000007_1782144371.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DPADXZ-A900K4ZQF",
       "platform": "pchome_onsale"
     },
     {
@@ -775,5 +775,5 @@
       "platform": "pchome_onsale"
     }
   ],
-  "crawl_time": "2026-07-11 12:59:54"
+  "crawl_time": "2026-07-11 18:48:39"
 }
