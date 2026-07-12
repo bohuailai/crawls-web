@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-07-11T18:48:39.783945",
+  "timestamp": "2026-07-12T01:57:18.511244",
   "platform": "pchome_onsale",
   "keyword": "pchome_onsale",
-  "total_products": 110,
+  "total_products": 108,
   "products": [
     {
       "title": "Branden 防盜多功能護照包Plus(多色任選)",
@@ -156,20 +156,6 @@
       "price": "$7,777",
       "image_url": "https://img.pchome.com.tw/cs/items/DMBR0TA900IC5XQ/000007_1738904484.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DMBR0T-A900IC5XQ",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "威剛 Premier Pro 64GB A2 記憶卡 (附轉卡)",
-      "price": "$549",
-      "image_url": "https://img.pchome.com.tw/cs/cms/creatives/onsale/6ffc5695-0d2d-4d48-aa49-35cdf208fbb9.png?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DGAG6S-A900JXKFF",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "金士頓 Type-C 128GB 隨身碟 二入組",
-      "price": "$688",
-      "image_url": "https://img.pchome.com.tw/cs/cms/creatives/onsale/a1959d62-a7dc-4b48-acb0-82641697e1d9.png?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DGCD15-1900JV42K",
       "platform": "pchome_onsale"
     },
     {
@@ -363,7 +349,7 @@
     },
     {
       "title": "LENOVO Legion Tab Gen 5 12G/256G",
-      "price": "$26,990",
+      "price": "$26,490",
       "image_url": "https://img.pchome.com.tw/cs/items/DYAMHIA900K2SJZ/000007_1780992653.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DYAMHI-A900K2SJZ",
       "platform": "pchome_onsale"
@@ -460,13 +446,6 @@
       "platform": "pchome_onsale"
     },
     {
-      "title": "大同6人份全不鏽鋼電鍋(全不鏽鋼)",
-      "price": "$3,999",
-      "image_url": "https://img.pchome.com.tw/cs/items/DMBI8K1900JD0WL/000007_1780449696.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DMBI8K-1900JD0WL",
-      "platform": "pchome_onsale"
-    },
-    {
       "title": "德國百靈油25ML*2+滾珠空瓶*1",
       "price": "$1,150",
       "image_url": "https://img.pchome.com.tw/cs/items/DABC9BA900AV4FW/000007_1755236989.jpg?width=480",
@@ -506,6 +485,13 @@
       "price": "$1,214",
       "image_url": "https://img.pchome.com.tw/cs/items/DYAZ0TA900HHZFM/000007_1756458106.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DYAZ0T-A900HHZFM",
+      "platform": "pchome_onsale"
+    },
+    {
+      "title": "TATUNG 大同6人份全不鏽鋼電鍋",
+      "price": "$3,999",
+      "image_url": "https://img.pchome.com.tw/cs/items/DMBI8KA900J9KQ6/000007_1758272138.jpg?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DMBI8K-A900J9KQ6",
       "platform": "pchome_onsale"
     },
     {
@@ -775,5 +761,5 @@
       "platform": "pchome_onsale"
     }
   ],
-  "crawl_time": "2026-07-11 18:48:39"
+  "crawl_time": "2026-07-12 01:57:18"
 }
