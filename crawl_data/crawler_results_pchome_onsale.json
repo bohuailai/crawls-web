@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-07-12T18:53:44.267016",
+  "timestamp": "2026-07-13T01:59:20.450933",
   "platform": "pchome_onsale",
   "keyword": "pchome_onsale",
-  "total_products": 102,
+  "total_products": 100,
   "products": [
     {
       "title": "3M 牙線棒1050支_ECO包裝 (箱購)兩款任選",
@@ -82,13 +82,6 @@
       "platform": "pchome_onsale"
     },
     {
-      "title": "ACER 宏碁 64GB 記憶卡 三入組",
-      "price": "$999",
-      "image_url": "https://img.pchome.com.tw/cs/cms/creatives/onsale/8dfbe246-c05c-4229-8e68-2e4c56dc0770.png?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DGAG5F-1900K47UM",
-      "platform": "pchome_onsale"
-    },
-    {
       "title": "多功能健身椅",
       "price": "$999",
       "image_url": "https://img.pchome.com.tw/cs/items/DEBYHPA900GRNRX/000007_1721282357.jpg?width=480",
@@ -114,13 +107,6 @@
       "price": "$27,990",
       "image_url": "https://img.pchome.com.tw/cs/items/DYAWE2A900K7FXE/000007_1783591919.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DYAWE2-A900K7FXE",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "金士頓 Type-C 128GB 隨身碟 二入組",
-      "price": "$688",
-      "image_url": "https://img.pchome.com.tw/cs/cms/creatives/onsale/bf871dff-3070-4bc0-af9d-5a1ca397367c.png?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DGCD15-1900JV42K",
       "platform": "pchome_onsale"
     },
     {
@@ -307,7 +293,7 @@
     },
     {
       "title": "克潮靈集水袋補充包(400mlx5入/組,9組/箱)",
-      "price": "$749",
+      "price": "$739",
       "image_url": "https://img.pchome.com.tw/cs/items/DABE2BA900ANZ47/000007_1692088907.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DABE2B-A900ANZ47",
       "platform": "pchome_onsale"
@@ -357,14 +343,14 @@
     {
       "title": "ASUS 14吋文書筆電",
       "price": "$7,999",
-      "image_url": "https://img.pchome.com.tw/cs/items/DHAFQJ1900JHX1O/000007_1783786239.jpg?width=480",
+      "image_url": "https://img.pchome.com.tw/cs/items/DHAFQJ1900JHX1O/000007_1783906638.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DHAFQJ-1900JHX1O",
       "platform": "pchome_onsale"
     },
     {
       "title": "橘子工坊洗衣精補充包1700mlx6包",
       "price": "$1,099",
-      "image_url": "https://img.pchome.com.tw/cs/items/DAAK05A900HW9QI/000007_1783563572.jpg?width=480",
+      "image_url": "https://img.pchome.com.tw/cs/items/DAAK05A900HW9QI/000007_1783903844.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DAAK05-A900HW9QI",
       "platform": "pchome_onsale"
     },
@@ -475,7 +461,7 @@
     },
     {
       "title": "Edifier G1500 MAX 2.1桌面電競喇叭",
-      "price": "$2,540",
+      "price": "$2,300",
       "image_url": "https://img.pchome.com.tw/cs/items/DCAIN7A900GCECZ/000007_1756114447.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DCAIN7-A900GCECZ",
       "platform": "pchome_onsale"
@@ -692,7 +678,7 @@
     },
     {
       "title": "Samsung Tab S10FE SM-X520 (8G/128GB)",
-      "price": "$14,490",
+      "price": "$15,400",
       "image_url": "https://img.pchome.com.tw/cs/items/DYCO0NA900K0RVZ/000007_1779073478.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DYCO0N-A900K0RVZ",
       "platform": "pchome_onsale"
@@ -719,5 +705,5 @@
       "platform": "pchome_onsale"
     }
   ],
-  "crawl_time": "2026-07-12 18:53:44"
+  "crawl_time": "2026-07-13 01:59:20"
 }
