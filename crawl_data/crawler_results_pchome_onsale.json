@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-07-13T19:14:49.958725",
+  "timestamp": "2026-07-14T01:46:01.518554",
   "platform": "pchome_onsale",
   "keyword": "pchome_onsale",
-  "total_products": 92,
+  "total_products": 90,
   "products": [
     {
       "title": "資生堂 百優精純乳霜 75ml",
@@ -61,13 +61,6 @@
       "platform": "pchome_onsale"
     },
     {
-      "title": "ACER 宏碁 64GB 記憶卡 三入組",
-      "price": "$999",
-      "image_url": "https://img.pchome.com.tw/cs/cms/creatives/onsale/58fe176f-68fa-40e4-ab15-5e0b7904c20e.png?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DGAG5F-1900K47UM",
-      "platform": "pchome_onsale"
-    },
-    {
       "title": "收藏家57公升居家美背型電子防潮箱 PC-69N",
       "price": "$2,940",
       "image_url": "https://img.pchome.com.tw/cs/items/DGBK4OA900A26ER/000007_1782798247.jpg?width=480",
@@ -93,13 +86,6 @@
       "price": "$28,800",
       "image_url": "https://img.pchome.com.tw/cs/items/DEBQRUA900JLENU/000007_1783617021.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DEBQRU-A900JLENU",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "KIOXIA 鎧俠 128GB 隨身碟 二入組",
-      "price": "$699",
-      "image_url": "https://img.pchome.com.tw/cs/cms/creatives/onsale/08de63f6-925c-4fc5-a261-be6c63aa0f58.png?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DGCD8O-1900K1WSO",
       "platform": "pchome_onsale"
     },
     {
@@ -196,7 +182,7 @@
     {
       "title": "RICOH GR IIIx+原廠閃光燈+電池配件組合",
       "price": "$40,900",
-      "image_url": "https://img.pchome.com.tw/cs/items/DGADJN1900K6GUY/000007_1783306233.jpg?width=480",
+      "image_url": "https://img.pchome.com.tw/cs/items/DGADJN1900K6GUY/000007_1783990637.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DGADJN-1900K6GUY",
       "platform": "pchome_onsale"
     },
@@ -350,7 +336,7 @@
     {
       "title": "RICOH GR IIIx+原廠閃光燈+電池配件組合",
       "price": "$40,900",
-      "image_url": "https://img.pchome.com.tw/cs/items/DGADJN1900K6GUY/000007_1783306233.jpg?width=480",
+      "image_url": "https://img.pchome.com.tw/cs/items/DGADJN1900K6GUY/000007_1783990637.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DGADJN-1900K6GUY",
       "platform": "pchome_onsale"
     },
@@ -504,7 +490,7 @@
     {
       "title": "RICOH GR IIIx+原廠閃光燈+電池配件組合",
       "price": "$40,900",
-      "image_url": "https://img.pchome.com.tw/cs/items/DGADJN1900K6GUY/000007_1783306233.jpg?width=480",
+      "image_url": "https://img.pchome.com.tw/cs/items/DGADJN1900K6GUY/000007_1783990637.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DGADJN-1900K6GUY",
       "platform": "pchome_onsale"
     },
@@ -541,6 +527,13 @@
       "price": "$3,799",
       "image_url": "https://img.pchome.com.tw/cs/items/DMAD1LA900J3VBZ/000007_1754536083.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DMAD1L-A900J3VBZ",
+      "platform": "pchome_onsale"
+    },
+    {
+      "title": "OPPO Pad SE 柔光版 星光銀 4G/128G",
+      "price": "$5,990",
+      "image_url": "https://img.pchome.com.tw/cs/items/DYAMG2A900IY59I/000007_1750244150.jpg?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DYAMG2-A900IY59I",
       "platform": "pchome_onsale"
     },
     {
@@ -635,19 +628,12 @@
       "platform": "pchome_onsale"
     },
     {
-      "title": "LENOVO Legion Tab Gen 5 12G/256G",
-      "price": "$26,990",
-      "image_url": "https://img.pchome.com.tw/cs/items/DYAMHIA900K2SJZ/000007_1780992653.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DYAMHI-A900K2SJZ",
-      "platform": "pchome_onsale"
-    },
-    {
       "title": "RAZER 雷蛇Iskur V2 電競椅",
-      "price": "$12,990",
+      "price": "$15,591",
       "image_url": "https://img.pchome.com.tw/cs/items/DCBT0KA900JA1IM/000007_1774438541.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DCBT0K-A900JA1IM",
       "platform": "pchome_onsale"
     }
   ],
-  "crawl_time": "2026-07-13 19:14:49"
+  "crawl_time": "2026-07-14 01:46:01"
 }
