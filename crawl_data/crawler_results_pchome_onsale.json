@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-07-15T13:17:42.054726",
+  "timestamp": "2026-07-15T18:58:11.980797",
   "platform": "pchome_onsale",
   "keyword": "pchome_onsale",
-  "total_products": 82,
+  "total_products": 80,
   "products": [
     {
       "title": "宏碁 FA100 1TB SSD (TLC顆粒)",
@@ -44,13 +44,6 @@
       "price": "$21,888",
       "image_url": "https://img.pchome.com.tw/cs/items/DPAF0WA900JNC6D/000007_1774333268.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DPAF0W-A900JNC6D",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "KIOXIA 鎧俠 128GB 隨身碟 二入組",
-      "price": "$699",
-      "image_url": "https://img.pchome.com.tw/cs/cms/creatives/onsale/01579326-8da1-408a-93f2-a9c8b3c24947.png?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DGCD8O-1900K1WSO",
       "platform": "pchome_onsale"
     },
     {
@@ -107,13 +100,6 @@
       "price": "$659",
       "image_url": "https://img.pchome.com.tw/cs/items/DCAP5PA9005IQCL/000007_1729153208.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DCAP5P-A9005IQCL",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "KIOXIA 鎧俠 256GB 高耐用記憶卡",
-      "price": "$1,490",
-      "image_url": "https://img.pchome.com.tw/cs/cms/creatives/onsale/61723990-dcb0-4e5a-b2ba-b4e4eefbf751.png?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DGAG7D-A900B6I94",
       "platform": "pchome_onsale"
     },
     {
@@ -579,5 +565,5 @@
       "platform": "pchome_onsale"
     }
   ],
-  "crawl_time": "2026-07-15 13:17:42"
+  "crawl_time": "2026-07-15 18:58:11"
 }
