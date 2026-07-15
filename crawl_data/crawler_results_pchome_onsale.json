@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-07-14T19:05:40.848417",
+  "timestamp": "2026-07-15T01:42:35.801883",
   "platform": "pchome_onsale",
   "keyword": "pchome_onsale",
-  "total_products": 84,
+  "total_products": 82,
   "products": [
     {
       "title": "威技 14吋DC直流變頻電風扇",
@@ -14,7 +14,7 @@
     {
       "title": "RICOH GR IIIx+原廠閃光燈+電池配件組合",
       "price": "$40,900",
-      "image_url": "https://img.pchome.com.tw/cs/items/DGADJN1900K6GUY/000007_1784018062.jpg?width=480",
+      "image_url": "https://img.pchome.com.tw/cs/items/DGADJN1900K6GUY/000007_1784077431.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DGADJN-1900K6GUY",
       "platform": "pchome_onsale"
     },
@@ -82,10 +82,10 @@
       "platform": "pchome_onsale"
     },
     {
-      "title": "ACER 宏碁 64GB 記憶卡 三入組",
-      "price": "$999",
-      "image_url": "https://img.pchome.com.tw/cs/cms/creatives/onsale/c41eb918-02a0-4bd5-9968-555807a7c7d2.png?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DGAG5F-1900K47UM",
+      "title": "欣美 移動式摺合會議桌 180x60x74cm",
+      "price": "$8,430",
+      "image_url": "https://img.pchome.com.tw/cs/items/DEDG1NA900IOT4U/000007_1774358673.jpg?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DEDG1N-A900IOT4U",
       "platform": "pchome_onsale"
     },
     {
@@ -103,24 +103,10 @@
       "platform": "pchome_onsale"
     },
     {
-      "title": "SanDisk Ultra Flair 隨身碟 128GB",
-      "price": "$399",
-      "image_url": "https://img.pchome.com.tw/cs/cms/creatives/onsale/348c7e46-9318-4fe9-a46f-bcc7fc221d60.png?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DGCD1E-A900K3JFN",
-      "platform": "pchome_onsale"
-    },
-    {
       "title": "Stanley 防漏吸管隨手杯 1.18L",
       "price": "$1,575",
       "image_url": "https://img.pchome.com.tw/cs/items/DEBWE9A900I6VE2/000007_1769165811.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DEBWE9-A900I6VE2",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "曜越幻銀ARGENT P900 智能電競桌",
-      "price": "$29,000",
-      "image_url": "https://img.pchome.com.tw/cs/items/DCBB7TA900FN8LN/000007_1783997692.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DCBB7T-A900FN8LN",
       "platform": "pchome_onsale"
     },
     {
@@ -271,7 +257,7 @@
       "platform": "pchome_onsale"
     },
     {
-      "title": "Kingston 金士頓 256GB TYPE-C 雙頭隨身碟",
+      "title": "金士頓 256GB TYPE-C 雙頭隨身碟",
       "price": "$749",
       "image_url": "https://img.pchome.com.tw/cs/items/DGCD15A900K0VFM/000007_1779153863.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DGCD15-A900K0VFM",
@@ -593,5 +579,5 @@
       "platform": "pchome_onsale"
     }
   ],
-  "crawl_time": "2026-07-14 19:05:40"
+  "crawl_time": "2026-07-15 01:42:35"
 }
