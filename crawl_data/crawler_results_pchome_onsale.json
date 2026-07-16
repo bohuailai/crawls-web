@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-07-16T13:24:51.911783",
+  "timestamp": "2026-07-16T18:58:58.151295",
   "platform": "pchome_onsale",
   "keyword": "pchome_onsale",
-  "total_products": 80,
+  "total_products": 82,
   "products": [
     {
       "title": "海信65型4K 120Hz HSR APPLE認證顯示器",
@@ -76,7 +76,7 @@
     },
     {
       "title": "TOMA-PRO優格 經典狗飼料13.6kg",
-      "price": "$1,699",
+      "price": "$1,875",
       "image_url": "https://img.pchome.com.tw/cs/items/DXBG71A900GMRM9/000007_1693816975.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DXBG71-A900GMRM9",
       "platform": "pchome_onsale"
@@ -131,6 +131,20 @@
       "platform": "pchome_onsale"
     },
     {
+      "title": "KIOXIA 鎧俠 128GB 隨身碟 二入組",
+      "price": "$699",
+      "image_url": "https://img.pchome.com.tw/cs/cms/creatives/onsale/75c86819-bd3a-416d-bc59-d397e3ed157f.png?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DGCD8O-1900K1WSO",
+      "platform": "pchome_onsale"
+    },
+    {
+      "title": "ACER 宏碁 64GB 記憶卡 三入組",
+      "price": "$999",
+      "image_url": "https://img.pchome.com.tw/cs/cms/creatives/onsale/40059b31-3b41-4e99-a41c-c1dee2814fa3.png?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DGAG5F-1900K47UM",
+      "platform": "pchome_onsale"
+    },
+    {
       "title": "MSI 322UP QD-OLED E16 32型 4K電競螢幕",
       "price": "$16,990",
       "image_url": "https://img.pchome.com.tw/cs/items/DSABPDA900JO281/000007_1769076774.jpg?width=480",
@@ -146,7 +160,7 @@
     },
     {
       "title": "白蘭氏雞精78入+蠟筆小新行李箱組",
-      "price": "$43.8",
+      "price": "$3,711",
       "image_url": "https://img.pchome.com.tw/cs/items/DBCL0Q1900J9QEC/000007_1767346471.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DBCL0Q-1900J9QEC",
       "platform": "pchome_onsale"
@@ -286,7 +300,7 @@
     },
     {
       "title": "白蘭氏雞精78入+蠟筆小新聯名行李箱組",
-      "price": "$43.8",
+      "price": "$3,711",
       "image_url": "https://img.pchome.com.tw/cs/items/DBCL0Q1900J9QEC/000007_1767346471.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DBCL0Q-1900J9QEC",
       "platform": "pchome_onsale"
@@ -552,7 +566,7 @@
     },
     {
       "title": "白蘭氏雞精78入+蠟筆小新聯名行李箱組",
-      "price": "$43.8",
+      "price": "$3,711",
       "image_url": "https://img.pchome.com.tw/cs/items/DBCL0Q1900J9QEC/000007_1767346471.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DBCL0Q-1900J9QEC",
       "platform": "pchome_onsale"
@@ -565,5 +579,5 @@
       "platform": "pchome_onsale"
     }
   ],
-  "crawl_time": "2026-07-16 13:24:51"
+  "crawl_time": "2026-07-16 18:58:58"
 }
