@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-07-16T18:58:58.151295",
+  "timestamp": "2026-07-17T01:56:05.666028",
   "platform": "pchome_onsale",
   "keyword": "pchome_onsale",
-  "total_products": 82,
+  "total_products": 80,
   "products": [
     {
       "title": "海信65型4K 120Hz HSR APPLE認證顯示器",
@@ -128,20 +128,6 @@
       "price": "$8,788",
       "image_url": "https://img.pchome.com.tw/cs/items/DCBR0OA900J944V/000007_1757916260.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DCBR0O-A900J944V",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "KIOXIA 鎧俠 128GB 隨身碟 二入組",
-      "price": "$699",
-      "image_url": "https://img.pchome.com.tw/cs/cms/creatives/onsale/75c86819-bd3a-416d-bc59-d397e3ed157f.png?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DGCD8O-1900K1WSO",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "ACER 宏碁 64GB 記憶卡 三入組",
-      "price": "$999",
-      "image_url": "https://img.pchome.com.tw/cs/cms/creatives/onsale/40059b31-3b41-4e99-a41c-c1dee2814fa3.png?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DGAG5F-1900K47UM",
       "platform": "pchome_onsale"
     },
     {
@@ -579,5 +565,5 @@
       "platform": "pchome_onsale"
     }
   ],
-  "crawl_time": "2026-07-16 18:58:58"
+  "crawl_time": "2026-07-17 01:56:05"
 }
