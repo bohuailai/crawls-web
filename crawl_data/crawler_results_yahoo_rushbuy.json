@@ -1,7 +1,7 @@
 {
   "platform": "yahoo_rushbuy",
   "keyword": "yahoo_rushbuy",
-  "total_products": 29,
+  "total_products": 30,
   "products": [
     {
       "title": "CHLOE 蔻依 Woody 字母織帶涼/拖鞋(黑色)",
@@ -75,7 +75,7 @@
     },
     {
       "title": "羅技 logitech M331 SilentPlus 靜音滑鼠-黑色",
-      "price": 699,
+      "price": 550,
       "image_url": "https://img.yec.tw/zp/MerchandiseImages/00EAAD7D11-Product-32367548.jpg",
       "url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=11961421",
       "platform": "yahoo_rushbuy"
@@ -131,7 +131,7 @@
     },
     {
       "title": "加碼送3款聯名杯套【KOF ‘97聯名】ANBORTEH 拳皇聯名車用大禮包(遮陽簾兩款+椅背墊+頭枕+手提袋+七孔車充)SNK/KOF/格鬥天王/快打旋風/HITBOX",
-      "price": 3588,
+      "price": 3788,
       "image_url": "https://img.yec.tw/zp/MerchandiseImages/DEE080087B-Gd-12162913.jpg",
       "url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=12162913",
       "platform": "yahoo_rushbuy"
@@ -193,6 +193,13 @@
       "platform": "yahoo_rushbuy"
     },
     {
+      "title": "【華得水產】超人氣蒲燒鯛魚油飯3盒(380g/盒)",
+      "price": 688,
+      "image_url": "https://img.yec.tw/zp/MerchandiseImages/999F1ECB0F-Gd-12093143.jpg",
+      "url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=12093143",
+      "platform": "yahoo_rushbuy"
+    },
+    {
       "title": "【百鈴】 髒會滅驅蟑凍-3入(贈驅蚊凍1瓶)",
       "price": 739,
       "image_url": "https://img.yec.tw/zp/MerchandiseImages/E645849508-Gd-12165740.jpg",
@@ -207,5 +214,5 @@
       "platform": "yahoo_rushbuy"
     }
   ],
-  "crawl_time": "2026-07-18 07:29:17"
+  "crawl_time": "2026-07-18 12:55:57"
 }
