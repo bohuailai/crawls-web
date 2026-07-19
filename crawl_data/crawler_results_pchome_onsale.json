@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-07-19T08:02:40.900914",
+  "timestamp": "2026-07-19T12:58:35.345035",
   "platform": "pchome_onsale",
   "keyword": "pchome_onsale",
-  "total_products": 92,
+  "total_products": 96,
   "products": [
     {
       "title": "品木宣言 靈芝水 200ml x2入組",
@@ -215,10 +215,38 @@
       "platform": "pchome_onsale"
     },
     {
+      "title": "象印超輕量不鏽鋼彈開式保溫杯480ml-2入組",
+      "price": "$1,188",
+      "image_url": "https://img.pchome.com.tw/cs/items/DEBWN31900I8SUH/000007_1736404064.jpg?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DEBWN3-1900I8SUH",
+      "platform": "pchome_onsale"
+    },
+    {
       "title": "奇美5坪內一級變頻冷暖空調",
       "price": "$17,900",
       "image_url": "https://img.pchome.com.tw/cs/items/DPAF3W1900JVXG4/000007_1775641150.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DPAF3W-1900JVXG4",
+      "platform": "pchome_onsale"
+    },
+    {
+      "title": "mimax 無線環繞重低音家庭影院聲霸",
+      "price": "$2,222",
+      "image_url": "https://img.pchome.com.tw/cs/items/DPADFN1900JXCJ1/000007_1776397977.jpg?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DPADFN-1900JXCJ1",
+      "platform": "pchome_onsale"
+    },
+    {
+      "title": "OVO 小方塊行動劇院智慧投影機",
+      "price": "$2,222",
+      "image_url": "https://img.pchome.com.tw/cs/items/DPADXZA900K4ZQF/000007_1782144371.jpg?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DPADXZ-A900K4ZQF",
+      "platform": "pchome_onsale"
+    },
+    {
+      "title": "MAJORITY Teton旗艦款 2.1聲道家庭劇院",
+      "price": "$2,222",
+      "image_url": "https://img.pchome.com.tw/cs/items/DPADT3A900JRVR3/000007_1772879681.jpg?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DPADT3-A900JRVR3",
       "platform": "pchome_onsale"
     },
     {
@@ -649,5 +677,5 @@
       "platform": "pchome_onsale"
     }
   ],
-  "crawl_time": "2026-07-19 08:02:40"
+  "crawl_time": "2026-07-19 12:58:35"
 }
