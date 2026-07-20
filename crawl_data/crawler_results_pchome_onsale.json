@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-07-20T13:51:20.793926",
+  "timestamp": "2026-07-20T19:27:35.107626",
   "platform": "pchome_onsale",
   "keyword": "pchome_onsale",
-  "total_products": 98,
+  "total_products": 96,
   "products": [
     {
       "title": "華碩 Dual RTX 5070 12GB OC 顯示卡",
@@ -47,24 +47,10 @@
       "platform": "pchome_onsale"
     },
     {
-      "title": "mimax 全音域環繞聲",
-      "price": "$1,111",
-      "image_url": "https://img.pchome.com.tw/cs/items/DPAD201900IKHGR/000007_1770306750.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DPAD20-1900IKHGR",
-      "platform": "pchome_onsale"
-    },
-    {
       "title": "Kobo Libra Colour 7吋彩色閱讀器",
       "price": "$8,599",
       "image_url": "https://img.pchome.com.tw/cs/items/DCBR0FA900HCLLE/000007_1778128668.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DCBR0F-A900HCLLE",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "Hikers 2.1聲道 Atmos無線重低音聲霸",
-      "price": "$2,999",
-      "image_url": "https://img.pchome.com.tw/cs/items/DPADC8A900K5PF1/000007_1782651997.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DPADC8-A900K5PF1",
       "platform": "pchome_onsale"
     },
     {
@@ -539,7 +525,7 @@
     {
       "title": "Sun Flower三花 1/4毛巾底運動短襪12雙組",
       "price": "$800",
-      "image_url": "https://img.pchome.com.tw/cs/items/DIDI0OA900FVJEH/000007_1780288783.jpg?width=480",
+      "image_url": "https://img.pchome.com.tw/cs/items/DIDI0OA900FVJEH/000007_1784564085.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DIDI0O-A900FVJEH",
       "platform": "pchome_onsale"
     },
@@ -691,5 +677,5 @@
       "platform": "pchome_onsale"
     }
   ],
-  "crawl_time": "2026-07-20 13:51:20"
+  "crawl_time": "2026-07-20 19:27:35"
 }
