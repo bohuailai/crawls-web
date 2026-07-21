@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-21T13:20:11.298815",
+  "timestamp": "2026-07-21T19:06:21.528435",
   "platform": "pchome_onsale",
   "keyword": "pchome_onsale",
   "total_products": 97,
@@ -61,10 +61,10 @@
       "platform": "pchome_onsale"
     },
     {
-      "title": "Hikers 2.1 Dolby Atmos無線重低音聲霸",
-      "price": "$2,222",
-      "image_url": "https://img.pchome.com.tw/cs/items/DPADC8A900K5PF1/000007_1782651997.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DPADC8-A900K5PF1",
+      "title": "SanDisk Ultra 隨身碟 128GB",
+      "price": "$399",
+      "image_url": "https://img.pchome.com.tw/cs/cms/creatives/onsale/ff47d2f7-31c8-4b32-ad47-03f26db5aa79.png?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DGCD1E-A900K3JFN",
       "platform": "pchome_onsale"
     },
     {
@@ -72,6 +72,13 @@
       "price": "$22,990",
       "image_url": "https://img.pchome.com.tw/cs/items/DEBQ7SA900H4A2A/000007_1783353605.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DEBQ7S-A900H4A2A",
+      "platform": "pchome_onsale"
+    },
+    {
+      "title": "SanDisk Extreme 高速記憶卡 512GB",
+      "price": "$3,299",
+      "image_url": "https://img.pchome.com.tw/cs/cms/creatives/onsale/d645301b-6b10-4e3e-9493-e5c3fa6a4dc5.png?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DGAG0H-A900JZ8NM",
       "platform": "pchome_onsale"
     },
     {
@@ -128,13 +135,6 @@
       "price": "$8,999",
       "image_url": "https://img.pchome.com.tw/cs/items/DPAI1P1900IILQG/000007_1754967135.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DPAI1P-1900IILQG",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "Warpple 短焦雲台智慧投影機",
-      "price": "$2,222",
-      "image_url": "https://img.pchome.com.tw/cs/items/DPADFN1900K50BQ/000007_1782149768.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DPADFN-1900K50BQ",
       "platform": "pchome_onsale"
     },
     {
@@ -684,5 +684,5 @@
       "platform": "pchome_onsale"
     }
   ],
-  "crawl_time": "2026-07-21 13:20:11"
+  "crawl_time": "2026-07-21 19:06:21"
 }
