@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-07-20T19:27:35.107626",
+  "timestamp": "2026-07-21T01:54:17.846952",
   "platform": "pchome_onsale",
   "keyword": "pchome_onsale",
-  "total_products": 96,
+  "total_products": 94,
   "products": [
     {
       "title": "華碩 Dual RTX 5070 12GB OC 顯示卡",
@@ -42,7 +42,7 @@
     {
       "title": "舒適 水次元5 痘痘肌敏感肌/保濕款刮鬍刀",
       "price": "$927",
-      "image_url": "https://img.pchome.com.tw/cs/items/DDAXM7A900J3SLB/000007_1784517631.jpg?width=480",
+      "image_url": "https://img.pchome.com.tw/cs/items/DDAXM7A900J3SLB/000007_1784597948.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DDAXM7-A900J3SLB",
       "platform": "pchome_onsale"
     },
@@ -93,20 +93,6 @@
       "price": "$31,888",
       "image_url": "https://img.pchome.com.tw/cs/items/DPAF981900JKBBT/000007_1782877055.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DPAF98-1900JKBBT",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "SanDisk Ultra Flair 隨身碟 128GB",
-      "price": "$399",
-      "image_url": "https://img.pchome.com.tw/cs/cms/creatives/onsale/5f53fe7b-9890-414d-801d-c4d0360f1277.png?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DGCD1E-A900K3JFN",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "威剛 Premier Pro A2 4GB 記憶卡 (附轉卡)",
-      "price": "$549",
-      "image_url": "https://img.pchome.com.tw/cs/cms/creatives/onsale/ea0ed70f-5ece-41e1-adc9-247e2547f186.png?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DGAG6S-A900JXKFF",
       "platform": "pchome_onsale"
     },
     {
@@ -215,6 +201,13 @@
       "platform": "pchome_onsale"
     },
     {
+      "title": "GARMIN Forerunner 570 心率跑錶 47mm",
+      "price": "$15,290",
+      "image_url": "https://img.pchome.com.tw/cs/items/DXAO7AA900K7UT8/000007_1783995081.jpg?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DXAO7A-A900K7UT8",
+      "platform": "pchome_onsale"
+    },
+    {
       "title": "Nespresso Lattissima One拿鐵盛宴組",
       "price": "$9,440",
       "image_url": "https://img.pchome.com.tw/cs/items/DMBN05A900EORQ1/000007_1784514434.jpg?width=480",
@@ -226,13 +219,6 @@
       "price": "$51,900",
       "image_url": "https://img.pchome.com.tw/cs/items/DHAM4JA900IZKIJ/000007_1751243819.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DHAM4J-A900IZKIJ",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "GARMIN Forerunner 570 心率跑錶 47mm",
-      "price": "$15,290",
-      "image_url": "https://img.pchome.com.tw/cs/items/DXAO43A900ITVRS/000007_1747389849.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DXAO43-A900ITVRS",
       "platform": "pchome_onsale"
     },
     {
@@ -287,7 +273,7 @@
     {
       "title": "飛利浦鑽石智能音波牙刷 HX9924",
       "price": "$7,190",
-      "image_url": "https://img.pchome.com.tw/cs/items/DMBA9QA900JW2C6/000007_1784251741.jpg?width=480",
+      "image_url": "https://img.pchome.com.tw/cs/items/DMBA9QA900JW2C6/000007_1784597307.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DMBA9Q-A900JW2C6",
       "platform": "pchome_onsale"
     },
@@ -448,7 +434,7 @@
     {
       "title": "寶拉珍選 2%水楊酸身體乳雙入組",
       "price": "$1,599",
-      "image_url": "https://img.pchome.com.tw/cs/items/DDDE15A900JZ4GR/000007_1782955002.jpg?width=480",
+      "image_url": "https://img.pchome.com.tw/cs/items/DDDE15A900JZ4GR/000007_1784594604.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DDDE15-A900JZ4GR",
       "platform": "pchome_onsale"
     },
@@ -677,5 +663,5 @@
       "platform": "pchome_onsale"
     }
   ],
-  "crawl_time": "2026-07-20 19:27:35"
+  "crawl_time": "2026-07-21 01:54:17"
 }
