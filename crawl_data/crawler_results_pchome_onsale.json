@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-07-21T19:06:21.528435",
+  "timestamp": "2026-07-22T01:53:07.062293",
   "platform": "pchome_onsale",
   "keyword": "pchome_onsale",
-  "total_products": 97,
+  "total_products": 95,
   "products": [
     {
       "title": "LUHO 小旅禾 28吋可擴充前開行李箱",
@@ -61,24 +61,10 @@
       "platform": "pchome_onsale"
     },
     {
-      "title": "SanDisk Ultra 隨身碟 128GB",
-      "price": "$399",
-      "image_url": "https://img.pchome.com.tw/cs/cms/creatives/onsale/ff47d2f7-31c8-4b32-ad47-03f26db5aa79.png?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DGCD1E-A900K3JFN",
-      "platform": "pchome_onsale"
-    },
-    {
       "title": "ECOFLOW DELTA 2 1800W儲能電源",
       "price": "$22,990",
       "image_url": "https://img.pchome.com.tw/cs/items/DEBQ7SA900H4A2A/000007_1783353605.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DEBQ7S-A900H4A2A",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "SanDisk Extreme 高速記憶卡 512GB",
-      "price": "$3,299",
-      "image_url": "https://img.pchome.com.tw/cs/cms/creatives/onsale/d645301b-6b10-4e3e-9493-e5c3fa6a4dc5.png?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DGAG0H-A900JZ8NM",
       "platform": "pchome_onsale"
     },
     {
@@ -418,8 +404,8 @@
       "platform": "pchome_onsale"
     },
     {
-      "title": "SanDisk 晟碟 Type-C 隨身碟",
-      "price": "$2,999",
+      "title": "SanDisk Phone Drive Type-C 隨身碟 512GB",
+      "price": "$2,899",
       "image_url": "https://img.pchome.com.tw/cs/items/DGCD1EA900IZ87A/000007_1750920307.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DGCD1E-A900IZ87A",
       "platform": "pchome_onsale"
@@ -684,5 +670,5 @@
       "platform": "pchome_onsale"
     }
   ],
-  "crawl_time": "2026-07-21 19:06:21"
+  "crawl_time": "2026-07-22 01:53:07"
 }
