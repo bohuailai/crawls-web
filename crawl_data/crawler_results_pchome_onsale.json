@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-07-22T13:24:42.032461",
+  "timestamp": "2026-07-22T18:59:56.563104",
   "platform": "pchome_onsale",
   "keyword": "pchome_onsale",
-  "total_products": 94,
+  "total_products": 92,
   "products": [
     {
       "title": "雅詩蘭黛 特潤超導全方位修護露100ml_2入組",
@@ -68,10 +68,10 @@
       "platform": "pchome_onsale"
     },
     {
-      "title": "Warpple 短焦雲台智慧投影機",
-      "price": "$2,222",
-      "image_url": "https://img.pchome.com.tw/cs/items/DPADFN1900K50BQ/000007_1782149768.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DPADFN-1900K50BQ",
+      "title": "SanDisk Extreme 高速記憶卡 512GB",
+      "price": "$3,299",
+      "image_url": "https://img.pchome.com.tw/cs/cms/creatives/onsale/7b187fc0-da39-4e6a-9d8c-f0d5f4d906ee.png?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DGAG0H-A900JZ8NM",
       "platform": "pchome_onsale"
     },
     {
@@ -114,20 +114,6 @@
       "price": "$399",
       "image_url": "https://img.pchome.com.tw/cs/cms/creatives/onsale/5e92cc29-8e69-4ec9-a25e-afd1a03d5172.png?width=480",
       "url": "https://24h.pchome.com.tw/prod/DGCD1E-A900K3JFN",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "ACER 宏碁 64GB 記憶卡 三入組",
-      "price": "$999",
-      "image_url": "https://img.pchome.com.tw/cs/cms/creatives/onsale/0d9ab6a9-048d-4328-9240-487a2df27b39.png?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DGAG5F-1900K47UM",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "mimax 全音域藍芽環繞聲霸",
-      "price": "$1,111",
-      "image_url": "https://img.pchome.com.tw/cs/items/DPAD201900IKHGR/000007_1770306750.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DPAD20-1900IKHGR",
       "platform": "pchome_onsale"
     },
     {
@@ -560,7 +546,7 @@
     {
       "title": "飛利浦 旗艦系列電鬍刀 XP9404/31",
       "price": "$22,888",
-      "image_url": "https://img.pchome.com.tw/cs/items/DMBK54A900JW08U/000007_1784607323.jpg?width=480",
+      "image_url": "https://img.pchome.com.tw/cs/items/DMBK54A900JW08U/000007_1784736058.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DMBK54-A900JW08U",
       "platform": "pchome_onsale"
     },
@@ -629,7 +615,7 @@
     },
     {
       "title": "三得利固力伸 (30日份/180顆/瓶)x2入組",
-      "price": "$2,799",
+      "price": "$2,770",
       "image_url": "https://img.pchome.com.tw/cs/items/DBAV0N1900JLZEK/000007_1767585606.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DBAV0N-1900JLZEK",
       "platform": "pchome_onsale"
@@ -663,5 +649,5 @@
       "platform": "pchome_onsale"
     }
   ],
-  "crawl_time": "2026-07-22 13:24:42"
+  "crawl_time": "2026-07-22 18:59:56"
 }
