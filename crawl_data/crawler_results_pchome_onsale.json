@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-23T13:28:09.235601",
+  "timestamp": "2026-07-23T19:01:39.095622",
   "platform": "pchome_onsale",
   "keyword": "pchome_onsale",
   "total_products": 90,
@@ -117,13 +117,6 @@
       "platform": "pchome_onsale"
     },
     {
-      "title": "三得利固力伸 (30日份/180顆/瓶)x2入組",
-      "price": "$2,770",
-      "image_url": "https://img.pchome.com.tw/cs/items/DBAV0N1900JLZEK/000007_1767585606.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DBAV0N-1900JLZEK",
-      "platform": "pchome_onsale"
-    },
-    {
       "title": "歌林12KG變頻蒸氣洗脫烘滾筒",
       "price": "$12,900",
       "image_url": "https://img.pchome.com.tw/cs/items/DPAIC2A900JRYM8/000007_1772445231.jpg?width=480",
@@ -170,6 +163,13 @@
       "price": "$3,299",
       "image_url": "https://img.pchome.com.tw/cs/cms/creatives/onsale/33d932ec-df0e-4f76-8080-a0f00e557068.png?width=480",
       "url": "https://24h.pchome.com.tw/prod/DGAG0H-A900JZ8NM",
+      "platform": "pchome_onsale"
+    },
+    {
+      "title": "船井倍熱 健字號極纖錠共440顆(含贈品4顆)",
+      "price": "$4,418",
+      "image_url": "https://img.pchome.com.tw/cs/items/DBBF2R1900FQSNJ/000007_1762334271.jpg?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DBBF2R-1900FQSNJ",
       "platform": "pchome_onsale"
     },
     {
@@ -616,7 +616,7 @@
     {
       "title": "百靈9系列PRO+ 諧震音波電鬍刀 9660cc",
       "price": "$21,888",
-      "image_url": "https://img.pchome.com.tw/cs/items/DMBK0XA900JI2MA/000007_1784772780.jpg?width=480",
+      "image_url": "https://img.pchome.com.tw/cs/items/DMBK0XA900JI2MA/000007_1784821616.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DMBK0X-A900JI2MA",
       "platform": "pchome_onsale"
     },
@@ -635,5 +635,5 @@
       "platform": "pchome_onsale"
     }
   ],
-  "crawl_time": "2026-07-23 13:28:09"
+  "crawl_time": "2026-07-23 19:01:39"
 }
