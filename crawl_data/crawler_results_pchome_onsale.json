@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-07-23T19:01:39.095622",
+  "timestamp": "2026-07-24T01:56:33.369605",
   "platform": "pchome_onsale",
   "keyword": "pchome_onsale",
-  "total_products": 90,
+  "total_products": 88,
   "products": [
     {
       "title": "iPhone 17 Pro 256G",
@@ -91,7 +91,7 @@
     {
       "title": "MSI 15.6吋 RTX5060電競筆電",
       "price": "$39,999",
-      "image_url": "https://img.pchome.com.tw/cs/items/DHAK961900JUEK1/000007_1784795933.jpg?width=480",
+      "image_url": "https://img.pchome.com.tw/cs/items/DHAK961900JUEK1/000007_1784853082.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DHAK96-1900JUEK1",
       "platform": "pchome_onsale"
     },
@@ -149,20 +149,6 @@
       "price": "$4,147",
       "image_url": "https://img.pchome.com.tw/cs/items/DEDJ14A900J48SN/000007_1762497146.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DEDJ14-A900J48SN",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "SanDisk Ultra Flair 隨身碟 128GB",
-      "price": "$399",
-      "image_url": "https://img.pchome.com.tw/cs/cms/creatives/onsale/4c9c3d86-c36d-4890-9d6e-d837013f59e6.png?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DGCD1E-A900K3JFN",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "SanDisk Extreme 高速記憶卡 512GB",
-      "price": "$3,299",
-      "image_url": "https://img.pchome.com.tw/cs/cms/creatives/onsale/33d932ec-df0e-4f76-8080-a0f00e557068.png?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DGAG0H-A900JZ8NM",
       "platform": "pchome_onsale"
     },
     {
@@ -398,7 +384,7 @@
     },
     {
       "title": "Harman Kardon Aura Studio 5 水母喇叭",
-      "price": "$8,940",
+      "price": "$9,190",
       "image_url": "https://img.pchome.com.tw/cs/items/DCAIALA900JLLPP/000007_1777341754.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DCAIAL-A900JLLPP",
       "platform": "pchome_onsale"
@@ -418,7 +404,7 @@
       "platform": "pchome_onsale"
     },
     {
-      "title": "立達 256GB 相機攝影記憶卡",
+      "title": "Gigastone 立達 256GB 記憶卡(附SD轉卡)",
       "price": "$999",
       "image_url": "https://img.pchome.com.tw/cs/items/DGAG52A900I0LIS/000007_1729763584.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DGAG52-A900I0LIS",
@@ -635,5 +621,5 @@
       "platform": "pchome_onsale"
     }
   ],
-  "crawl_time": "2026-07-23 19:01:39"
+  "crawl_time": "2026-07-24 01:56:33"
 }
