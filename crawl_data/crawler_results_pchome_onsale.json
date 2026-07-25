@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-25T13:05:35.214405",
+  "timestamp": "2026-07-25T18:55:39.526603",
   "platform": "pchome_onsale",
   "keyword": "pchome_onsale",
   "total_products": 104,
@@ -180,10 +180,10 @@
       "platform": "pchome_onsale"
     },
     {
-      "title": "SanDisk Extreme 高速記憶卡 512GB",
-      "price": "$3,299",
-      "image_url": "https://img.pchome.com.tw/cs/cms/creatives/onsale/a99da447-b648-4268-9aad-a763b9c3494f.png?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DGAG0H-A900JZ8NM",
+      "title": "ACER 宏碁 64GB 記憶卡 三入組",
+      "price": "$949",
+      "image_url": "https://img.pchome.com.tw/cs/cms/creatives/onsale/1bf7145a-2610-4a7a-a918-1ffc1d92a668.png?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DGAG5F-1900K47UM",
       "platform": "pchome_onsale"
     },
     {
@@ -733,5 +733,5 @@
       "platform": "pchome_onsale"
     }
   ],
-  "crawl_time": "2026-07-25 13:05:35"
+  "crawl_time": "2026-07-25 18:55:39"
 }
