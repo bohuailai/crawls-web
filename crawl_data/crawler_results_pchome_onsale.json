@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-07-26T13:02:48.711925",
+  "timestamp": "2026-07-26T18:59:32.018173",
   "platform": "pchome_onsale",
   "keyword": "pchome_onsale",
-  "total_products": 100,
+  "total_products": 98,
   "products": [
     {
       "title": "安耐曬 金鑽高效防曬露NA 5X版(60ml) x2入",
@@ -159,13 +159,6 @@
       "platform": "pchome_onsale"
     },
     {
-      "title": "Hikers 2.1 Dolby Atmos無線重低音聲霸",
-      "price": "$2,999",
-      "image_url": "https://img.pchome.com.tw/cs/items/DPADC8A900K5PF1/000007_1782651997.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DPADC8-A900K5PF1",
-      "platform": "pchome_onsale"
-    },
-    {
       "title": "三洋3坪內冷暖型變頻分離式空調",
       "price": "$14,900",
       "image_url": "https://img.pchome.com.tw/cs/items/DPAFA71900HG5TM/000007_1768271906.jpg?width=480",
@@ -191,13 +184,6 @@
       "price": "$1,111",
       "image_url": "https://img.pchome.com.tw/cs/items/DAAM791900JIE7R/000007_1764670877.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DAAM79-1900JIE7R",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "AIWA日本愛華3D環繞聲霸藍芽喇叭",
-      "price": "$990",
-      "image_url": "https://img.pchome.com.tw/cs/items/DPADFNA900K7GQP/000007_1783587989.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DPADFN-A900K7GQP",
       "platform": "pchome_onsale"
     },
     {
@@ -705,5 +691,5 @@
       "platform": "pchome_onsale"
     }
   ],
-  "crawl_time": "2026-07-26 13:02:48"
+  "crawl_time": "2026-07-26 18:59:32"
 }
