@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-07-27T19:15:12.842590",
+  "timestamp": "2026-07-28T01:49:10.288856",
   "platform": "pchome_onsale",
   "keyword": "pchome_onsale",
-  "total_products": 86,
+  "total_products": 84,
   "products": [
     {
       "title": "乖乖Homerun應援袋 x3袋",
@@ -20,7 +20,7 @@
     },
     {
       "title": "國際牌10.5KG日製洗脫烘滾筒",
-      "price": "$39,900",
+      "price": "$44,900",
       "image_url": "https://img.pchome.com.tw/cs/items/DPAI1HA900JXCDB/000007_1778146286.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DPAI1H-A900JXCDB",
       "platform": "pchome_onsale"
@@ -124,13 +124,6 @@
       "platform": "pchome_onsale"
     },
     {
-      "title": "SanDisk Ultra Flair 隨身碟 128GB",
-      "price": "$399",
-      "image_url": "https://img.pchome.com.tw/cs/items/DGCD1EA900K3JFN/000007_1785147725.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DGCD1E-A900K3JFN",
-      "platform": "pchome_onsale"
-    },
-    {
       "title": "羅技G PRO X 2 SUPERSTRIKE 無線類比滑鼠",
       "price": "$4,890",
       "image_url": "https://img.pchome.com.tw/cs/items/DSAR4SA900JM7GD/000007_1781662227.jpg?width=480",
@@ -180,13 +173,6 @@
       "platform": "pchome_onsale"
     },
     {
-      "title": "SanDisk Extreme 高速記憶卡 512GB",
-      "price": "$3,299",
-      "image_url": "https://img.pchome.com.tw/cs/cms/creatives/onsale/2873b039-bd6d-4756-8e52-f1f77163f39b.png?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DGAG0H-A900JZ8NM",
-      "platform": "pchome_onsale"
-    },
-    {
       "title": "PHILIPS 34M2C3500L 34型 曲面電競螢幕",
       "price": "$4,599",
       "image_url": "https://img.pchome.com.tw/cs/items/DSABQKA900K48OS/000007_1781512719.jpg?width=480",
@@ -216,7 +202,7 @@
     },
     {
       "title": "acerpure Cozy 智能DC空氣循環風扇",
-      "price": "$2,790",
+      "price": "$2,990",
       "image_url": "https://img.pchome.com.tw/cs/items/DMABN6A900IFSDN/000007_1741660130.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DMABN6-A900IFSDN",
       "platform": "pchome_onsale"
@@ -292,17 +278,17 @@
       "platform": "pchome_onsale"
     },
     {
+      "title": "GARMIN Approach S70 進階高爾夫球錶 47mm",
+      "price": "$20,390",
+      "image_url": "https://img.pchome.com.tw/cs/items/DXAO4EA900K8CHJ/000007_1784280104.jpg?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DXAO4E-A900K8CHJ",
+      "platform": "pchome_onsale"
+    },
+    {
       "title": "SP 廣穎 4TB 2.5吋 軍規防震行動硬碟",
       "price": "$4,599",
       "image_url": "https://img.pchome.com.tw/cs/items/DRAHCMA900HO4EH/000007_1765951457.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DRAHCM-A900HO4EH",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "GARMIN Approach S70 進階高爾夫球錶 47mm",
-      "price": "$20,390",
-      "image_url": "https://img.pchome.com.tw/cs/items/DXAO48A900GFL9G/000007_1687336139.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DXAO48-A900GFL9G",
       "platform": "pchome_onsale"
     },
     {
@@ -573,7 +559,7 @@
     },
     {
       "title": "ASUS ROG SL400C 電競椅-白色",
-      "price": "$11,990",
+      "price": "$13,390",
       "image_url": "https://img.pchome.com.tw/cs/items/DCBT04A900K1BYJ/000007_1779363395.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DCBT04-A900K1BYJ",
       "platform": "pchome_onsale"
@@ -607,5 +593,5 @@
       "platform": "pchome_onsale"
     }
   ],
-  "crawl_time": "2026-07-27 19:15:12"
+  "crawl_time": "2026-07-28 01:49:10"
 }
