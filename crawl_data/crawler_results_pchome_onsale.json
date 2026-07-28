@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-28T13:44:52.440263",
+  "timestamp": "2026-07-28T19:11:12.234646",
   "platform": "pchome_onsale",
   "keyword": "pchome_onsale",
   "total_products": 88,
@@ -131,10 +131,17 @@
       "platform": "pchome_onsale"
     },
     {
-      "title": "SANSUI 山水藍芽家庭劇院環繞聲霸",
-      "price": "$999",
-      "image_url": "https://img.pchome.com.tw/cs/items/DPADFN1900K9FDI/000007_1785153707.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DPADFN-1900K9FDI",
+      "title": "SanDisk Ultra Flair 隨身碟 128GB",
+      "price": "$399",
+      "image_url": "https://img.pchome.com.tw/cs/items/DGCD1EA900K3JFN/000007_1785147725.jpg?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DGCD1E-A900K3JFN",
+      "platform": "pchome_onsale"
+    },
+    {
+      "title": "威剛 Premier Pro 64GB 記憶卡 (附轉卡)",
+      "price": "$549",
+      "image_url": "https://img.pchome.com.tw/cs/cms/creatives/onsale/a658565e-2e92-4118-91ad-c340735086d8.png?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DGAG6S-A900JXKFF",
       "platform": "pchome_onsale"
     },
     {
@@ -142,13 +149,6 @@
       "price": "$759",
       "image_url": "https://img.pchome.com.tw/cs/items/DAAJ2U1900AAEBR/000007_1775613901.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DAAJ2U-1900AAEBR",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "PHILIPS 70型4K 杜比全景聲智慧顯示器",
-      "price": "$17,999",
-      "image_url": "https://img.pchome.com.tw/cs/items/DPADIKA900K5T5V/000007_1784385070.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DPADIK-A900K5T5V",
       "platform": "pchome_onsale"
     },
     {
@@ -621,5 +621,5 @@
       "platform": "pchome_onsale"
     }
   ],
-  "crawl_time": "2026-07-28 13:44:52"
+  "crawl_time": "2026-07-28 19:11:12"
 }
