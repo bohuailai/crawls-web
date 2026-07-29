@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-07-28T19:11:12.234646",
+  "timestamp": "2026-07-29T01:51:46.024487",
   "platform": "pchome_onsale",
   "keyword": "pchome_onsale",
-  "total_products": 88,
+  "total_products": 86,
   "products": [
     {
       "title": "PHILIPS 34M2C3500L 34型 曲面電競螢幕",
@@ -128,20 +128,6 @@
       "price": "$650",
       "image_url": "https://img.pchome.com.tw/cs/items/DEASBHA900K6ASI/000007_1782963884.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DEASBH-A900K6ASI",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "SanDisk Ultra Flair 隨身碟 128GB",
-      "price": "$399",
-      "image_url": "https://img.pchome.com.tw/cs/items/DGCD1EA900K3JFN/000007_1785147725.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DGCD1E-A900K3JFN",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "威剛 Premier Pro 64GB 記憶卡 (附轉卡)",
-      "price": "$549",
-      "image_url": "https://img.pchome.com.tw/cs/cms/creatives/onsale/a658565e-2e92-4118-91ad-c340735086d8.png?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DGAG6S-A900JXKFF",
       "platform": "pchome_onsale"
     },
     {
@@ -594,7 +580,7 @@
     },
     {
       "title": "Samsung Tab A11+ WiFi SM-X230 (8G/256G)",
-      "price": "$8,990",
+      "price": "$11,490",
       "image_url": "https://img.pchome.com.tw/cs/items/DYCO0SA900JL2I0/000007_1766544512.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DYCO0S-A900JL2I0",
       "platform": "pchome_onsale"
@@ -621,5 +607,5 @@
       "platform": "pchome_onsale"
     }
   ],
-  "crawl_time": "2026-07-28 19:11:12"
+  "crawl_time": "2026-07-29 01:51:46"
 }
