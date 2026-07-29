@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-29T13:49:43.565071",
+  "timestamp": "2026-07-29T19:00:42.384557",
   "platform": "pchome_onsale",
   "keyword": "pchome_onsale",
   "total_products": 84,
@@ -131,17 +131,17 @@
       "platform": "pchome_onsale"
     },
     {
-      "title": "PHILIPS 70型4K 杜比全景聲智慧顯示器",
-      "price": "$17,999",
-      "image_url": "https://img.pchome.com.tw/cs/items/DPADIKA900K5T5V/000007_1784385070.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DPADIK-A900K5T5V",
-      "platform": "pchome_onsale"
-    },
-    {
       "title": "Samsung Tab A11+ WiFi SM-X230 (8G/256G)",
       "price": "$8,990",
       "image_url": "https://img.pchome.com.tw/cs/items/DYCO0SA900JL2I0/000007_1766544512.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DYCO0S-A900JL2I0",
+      "platform": "pchome_onsale"
+    },
+    {
+      "title": "威剛 Premier Pro 64GB 記憶卡 (附轉卡)",
+      "price": "$549",
+      "image_url": "https://img.pchome.com.tw/cs/cms/creatives/onsale/a6259778-bcb4-48b9-82a5-8ef13f4c1a02.png?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DGAG6S-A900JXKFF",
       "platform": "pchome_onsale"
     },
     {
@@ -152,17 +152,17 @@
       "platform": "pchome_onsale"
     },
     {
+      "title": "SanDisk Ultra Flair 隨身碟 128GB",
+      "price": "$399",
+      "image_url": "https://img.pchome.com.tw/cs/items/DGCD1EA900K3JFN/000007_1785147725.jpg?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DGCD1E-A900K3JFN",
+      "platform": "pchome_onsale"
+    },
+    {
       "title": "歌林12KG變頻蒸洗脫烘滾筒",
       "price": "$12,900",
       "image_url": "https://img.pchome.com.tw/cs/items/DPAIC2A900JRYM8/000007_1772445231.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DPAIC2-A900JRYM8",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "SANSUI 2.1聲道重低音藍芽劇院聲霸",
-      "price": "$1,777",
-      "image_url": "https://img.pchome.com.tw/cs/items/DPADFN1900K9OI3/000007_1785292160.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DPADFN-1900K9OI3",
       "platform": "pchome_onsale"
     },
     {
@@ -566,7 +566,7 @@
     },
     {
       "title": "舒潔 三層抽取衛生紙30包",
-      "price": "$579",
+      "price": "$639",
       "image_url": "https://img.pchome.com.tw/cs/items/DAAG01A900HL8TY/000007_1783915192.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DAAG01-A900HL8TY",
       "platform": "pchome_onsale"
@@ -593,5 +593,5 @@
       "platform": "pchome_onsale"
     }
   ],
-  "crawl_time": "2026-07-29 13:49:43"
+  "crawl_time": "2026-07-29 19:00:42"
 }
