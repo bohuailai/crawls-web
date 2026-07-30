@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-07-30T13:40:26.586858",
+  "timestamp": "2026-07-30T19:12:28.316365",
   "platform": "pchome_onsale",
   "keyword": "pchome_onsale",
-  "total_products": 88,
+  "total_products": 86,
   "products": [
     {
       "title": "亞培原味安素HMB升級配方(237mlx30入x2箱)",
@@ -96,13 +96,6 @@
       "platform": "pchome_onsale"
     },
     {
-      "title": "mimax 全音域環繞藍芽聲霸",
-      "price": "$1,111",
-      "image_url": "https://img.pchome.com.tw/cs/items/DPAD201900IKHGR/000007_1770306750.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DPAD20-1900IKHGR",
-      "platform": "pchome_onsale"
-    },
-    {
       "title": "hoi! 好好生活牛皮電動單人沙發",
       "price": "$15,188",
       "image_url": "https://img.pchome.com.tw/cs/items/DQAY2EA900K833T/000007_1784109926.jpg?width=480",
@@ -135,13 +128,6 @@
       "price": "$5,265",
       "image_url": "https://img.pchome.com.tw/cs/items/DEDJ0VA900JPJT2/000007_1784167277.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DEDJ0V-A900JPJT2",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "PHILIPS 55型4K 120Hz頂規QD MiniLED顯示器",
-      "price": "$19,999",
-      "image_url": "https://img.pchome.com.tw/cs/items/DPADIKA900K6TSJ/000007_1783266805.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DPADIK-A900K6TSJ",
       "platform": "pchome_onsale"
     },
     {
@@ -341,13 +327,6 @@
       "platform": "pchome_onsale"
     },
     {
-      "title": "emirai 200W儲能小瓦力 PRO + 30W太陽能板",
-      "price": "$7,880",
-      "image_url": "https://img.pchome.com.tw/cs/items/DEBQFDA900J94NT/000007_1783617945.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DEBQFD-A900J94NT",
-      "platform": "pchome_onsale"
-    },
-    {
       "title": "ARIEL 4D抗菌洗衣膠囊 60顆袋裝X2袋",
       "price": "$799",
       "image_url": "https://img.pchome.com.tw/cs/items/DAAK7P1900JW1H9/000007_1784168914.jpg?width=480",
@@ -467,6 +446,13 @@
       "platform": "pchome_onsale"
     },
     {
+      "title": "emirai 200W儲能小瓦力 PRO + 30W太陽能板",
+      "price": "$7,880",
+      "image_url": "https://img.pchome.com.tw/cs/items/DEBQFDA900J94NT/000007_1783617945.jpg?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DEBQFD-A900J94NT",
+      "platform": "pchome_onsale"
+    },
+    {
       "title": "小米65型 4K Mini LED 144Hz 智慧顯示器",
       "price": "$17,777",
       "image_url": "https://img.pchome.com.tw/cs/items/DPADBU1900J077H/000007_1785413514.jpg?width=480",
@@ -492,13 +478,6 @@
       "price": "$12,599",
       "image_url": "https://img.pchome.com.tw/cs/items/DYAIATA900K0SYO/000007_1784874428.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DYAIAT-A900K0SYO",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "ACER 15.6吋效能筆電(R7/8G+8G/512G)",
-      "price": "$21,900",
-      "image_url": "https://img.pchome.com.tw/cs/items/DHAEJ3A900K0EDT/000007_1784197354.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DHAEJ3-A900K0EDT",
       "platform": "pchome_onsale"
     },
     {
@@ -619,7 +598,14 @@
       "image_url": "https://img.pchome.com.tw/cs/items/DAAG5LA900BG6GD/000007_1784101115.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DAAG5L-A900BG6GD",
       "platform": "pchome_onsale"
+    },
+    {
+      "title": "ACER 15.6吋效能筆電(R7/8G+8G/512G)",
+      "price": "$21,900",
+      "image_url": "https://img.pchome.com.tw/cs/items/DHAEJ3A900K0EDT/000007_1784197354.jpg?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DHAEJ3-A900K0EDT",
+      "platform": "pchome_onsale"
     }
   ],
-  "crawl_time": "2026-07-30 13:40:26"
+  "crawl_time": "2026-07-30 19:12:28"
 }
