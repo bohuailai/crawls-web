@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-07-31T13:44:44.887434",
+  "timestamp": "2026-07-31T19:10:49.268036",
   "platform": "pchome_onsale",
   "keyword": "pchome_onsale",
-  "total_products": 84,
+  "total_products": 86,
   "products": [
     {
       "title": "小米65型 4K Mini LED 144Hz 智慧顯示器",
@@ -82,6 +82,13 @@
       "platform": "pchome_onsale"
     },
     {
+      "title": "ACER 宏碁 64GB 記憶卡 三入組",
+      "price": "$999",
+      "image_url": "https://img.pchome.com.tw/cs/cms/creatives/onsale/785a9596-5d3d-4db9-992e-1bee092423fc.png?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DGAG5F-1900K47UM",
+      "platform": "pchome_onsale"
+    },
+    {
       "title": "春風寶島 抽取式衛生紙64包",
       "price": "$699",
       "image_url": "https://img.pchome.com.tw/cs/items/DAAG0WA900FI873/000007_1663725766.jpg?width=480",
@@ -128,6 +135,13 @@
       "price": "$2,299",
       "image_url": "https://img.pchome.com.tw/cs/items/DQAUKXA900HJR12/000001_1717746965.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DQAUKX-A900HJR12",
+      "platform": "pchome_onsale"
+    },
+    {
+      "title": "SanDisk Ultra Flair 隨身碟 128GB",
+      "price": "$399",
+      "image_url": "https://img.pchome.com.tw/cs/items/DGCD1EA900K3JFN/000007_1785147725.jpg?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DGCD1E-A900K3JFN",
       "platform": "pchome_onsale"
     },
     {
@@ -488,6 +502,13 @@
       "platform": "pchome_onsale"
     },
     {
+      "title": "3M 博視燈/檯燈 DL6800",
+      "price": "$1,588",
+      "image_url": "https://img.pchome.com.tw/cs/items/DAAN3PA900H1D9D/000007_1703489765.jpg?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DAAN3P-A900H1D9D",
+      "platform": "pchome_onsale"
+    },
+    {
       "title": "飛利浦智能三刀頭電鬍刀 S7887/58",
       "price": "$10,888",
       "image_url": "https://img.pchome.com.tw/cs/items/DMBK54A900JW09J/000007_1784615510.jpg?width=480",
@@ -584,14 +605,7 @@
       "image_url": "https://img.pchome.com.tw/cs/items/DAAO3WA900GCX0R/000007_1684918744.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DAAO3W-A900GCX0R",
       "platform": "pchome_onsale"
-    },
-    {
-      "title": "3M 博視燈/檯燈 DL6800",
-      "price": "$1,588",
-      "image_url": "https://img.pchome.com.tw/cs/items/DAAN3PA900H1D9D/000007_1703489765.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DAAN3P-A900H1D9D",
-      "platform": "pchome_onsale"
     }
   ],
-  "crawl_time": "2026-07-31 13:44:44"
+  "crawl_time": "2026-07-31 19:10:49"
 }
