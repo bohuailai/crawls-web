@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-01T13:01:04.254259",
+  "timestamp": "2026-08-01T18:57:15.030882",
   "platform": "pchome_onsale",
   "keyword": "pchome_onsale",
   "total_products": 94,
@@ -23,20 +23,6 @@
       "price": "$14,999",
       "image_url": "https://img.pchome.com.tw/cs/items/DEBY2AA900EZMNK/000007_1749797265.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DEBY2A-A900EZMNK",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "GARMIN 53 5吋車用衛星導航",
-      "price": "$4,990",
-      "image_url": "https://img.pchome.com.tw/cs/items/DXAO2VA900G6DPZ/000007_1679985381.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DXAO2V-A900G6DPZ",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "大通 C52G 汽車行車記錄器",
-      "price": "$1,599",
-      "image_url": "https://img.pchome.com.tw/cs/items/DEBB55A900DX3RE/000007_1645170213.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DEBB55-A900DX3RE",
       "platform": "pchome_onsale"
     },
     {
@@ -103,6 +89,13 @@
       "platform": "pchome_onsale"
     },
     {
+      "title": "OSIM 電競天王按摩椅",
+      "price": "$22,888",
+      "image_url": "https://img.pchome.com.tw/cs/items/DMADC4A900JESPZ/000007_1762157510.jpg?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DMADC4-A900JESPZ",
+      "platform": "pchome_onsale"
+    },
+    {
       "title": "Pierre Cardin皮爾卡登 四面彈力速乾長褲",
       "price": "$799",
       "image_url": "https://img.pchome.com.tw/cs/items/DICUA0A900H85AC/000007_1742277139.jpg?width=480",
@@ -128,6 +121,13 @@
       "price": "$4,999",
       "image_url": "https://img.pchome.com.tw/cs/items/DPADBU1900KAL5V/000007_1785586599.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DPADBU-1900KAL5V",
+      "platform": "pchome_onsale"
+    },
+    {
+      "title": "Baicycle S3 電動腳踏車",
+      "price": "$12,990",
+      "image_url": "https://img.pchome.com.tw/cs/items/DEAO0SA900JJCAE/000007_1765425524.jpg?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DEAO0S-A900JJCAE",
       "platform": "pchome_onsale"
     },
     {
@@ -663,5 +663,5 @@
       "platform": "pchome_onsale"
     }
   ],
-  "crawl_time": "2026-08-01 13:01:04"
+  "crawl_time": "2026-08-01 18:57:15"
 }
