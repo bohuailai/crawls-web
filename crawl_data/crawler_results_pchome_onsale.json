@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-08-01T18:57:15.030882",
+  "timestamp": "2026-08-02T01:59:03.658507",
   "platform": "pchome_onsale",
   "keyword": "pchome_onsale",
-  "total_products": 94,
+  "total_products": 92,
   "products": [
     {
       "title": "樂高 Kpop 獵魔女團系列 72537 老虎和喜鵲",
@@ -117,13 +117,6 @@
       "platform": "pchome_onsale"
     },
     {
-      "title": "小米2.1立體聲無線重低音家庭劇院聲霸",
-      "price": "$4,999",
-      "image_url": "https://img.pchome.com.tw/cs/items/DPADBU1900KAL5V/000007_1785586599.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DPADBU-1900KAL5V",
-      "platform": "pchome_onsale"
-    },
-    {
       "title": "Baicycle S3 電動腳踏車",
       "price": "$12,990",
       "image_url": "https://img.pchome.com.tw/cs/items/DEAO0SA900JJCAE/000007_1765425524.jpg?width=480",
@@ -149,13 +142,6 @@
       "price": "$19,999",
       "image_url": "https://img.pchome.com.tw/cs/items/DYAY3P1900K1POZ/000007_1783999501.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DYAY3P-1900K1POZ",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "小米 43型4K QLED GoogleTV智慧顯示器",
-      "price": "$7,999",
-      "image_url": "https://img.pchome.com.tw/cs/items/DPADBU1900K03WT/000007_1778567414.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DPADBU-1900K03WT",
       "platform": "pchome_onsale"
     },
     {
@@ -663,5 +649,5 @@
       "platform": "pchome_onsale"
     }
   ],
-  "crawl_time": "2026-08-01 18:57:15"
+  "crawl_time": "2026-08-02 01:59:03"
 }
