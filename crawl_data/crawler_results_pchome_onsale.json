@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-02T13:02:59.927995",
+  "timestamp": "2026-08-02T18:58:05.852824",
   "platform": "pchome_onsale",
   "keyword": "pchome_onsale",
   "total_products": 98,
@@ -124,6 +124,20 @@
       "platform": "pchome_onsale"
     },
     {
+      "title": "ACER 宏碁 64GB 記憶卡 三入組",
+      "price": "$999",
+      "image_url": "https://img.pchome.com.tw/cs/cms/creatives/onsale/35682377-3c5d-4493-8550-b0a2ed47208d.png?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DGAG5F-1900K47UM",
+      "platform": "pchome_onsale"
+    },
+    {
+      "title": "SanDisk Ultra Flair 隨身碟 128GB",
+      "price": "$399",
+      "image_url": "https://img.pchome.com.tw/cs/items/DGCD1EA900K3JFN/000007_1785147725.jpg?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DGCD1E-A900K3JFN",
+      "platform": "pchome_onsale"
+    },
+    {
       "title": "Sun Flower 三花 針織平口男內褲3件組",
       "price": "$747",
       "image_url": "https://img.pchome.com.tw/cs/items/DIDI0AA900AC0KG/000007_1783561765.jpg?width=480",
@@ -142,20 +156,6 @@
       "price": "$65,900",
       "image_url": "https://img.pchome.com.tw/cs/items/DYALS8A900K8JNQ/000007_1784596747.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DYALS8-A900K8JNQ",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "LG 65型4K UHD AI智慧顯示器",
-      "price": "$21,900",
-      "image_url": "https://img.pchome.com.tw/cs/items/DPADYEA900JYTFW/000007_1779474463.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DPADYE-A900JYTFW",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "SANSUI 2.1環繞重低音家庭劇院藍芽聲霸",
-      "price": "$1,888",
-      "image_url": "https://img.pchome.com.tw/cs/items/DPADFN1900K9OI3/000007_1785292160.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DPADFN-1900K9OI3",
       "platform": "pchome_onsale"
     },
     {
@@ -196,7 +196,7 @@
     {
       "title": "飛利浦 旗艦系列電鬍刀 XP9404/31",
       "price": "$22,888",
-      "image_url": "https://img.pchome.com.tw/cs/items/DMBK541900KA66G/000007_1785658089.jpg?width=480",
+      "image_url": "https://img.pchome.com.tw/cs/items/DMBK541900KA66G/000007_1785686393.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DMBK54-1900KA66G",
       "platform": "pchome_onsale"
     },
@@ -364,7 +364,7 @@
     {
       "title": "飛利浦 旗艦系列電鬍刀 XP9404/31",
       "price": "$22,888",
-      "image_url": "https://img.pchome.com.tw/cs/items/DMBK541900KA66G/000007_1785658089.jpg?width=480",
+      "image_url": "https://img.pchome.com.tw/cs/items/DMBK541900KA66G/000007_1785686393.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DMBK54-1900KA66G",
       "platform": "pchome_onsale"
     },
@@ -532,7 +532,7 @@
     {
       "title": "飛利浦 旗艦系列電鬍刀 XP9404/31",
       "price": "$22,888",
-      "image_url": "https://img.pchome.com.tw/cs/items/DMBK541900KA66G/000007_1785658089.jpg?width=480",
+      "image_url": "https://img.pchome.com.tw/cs/items/DMBK541900KA66G/000007_1785686393.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DMBK54-1900KA66G",
       "platform": "pchome_onsale"
     },
@@ -691,5 +691,5 @@
       "platform": "pchome_onsale"
     }
   ],
-  "crawl_time": "2026-08-02 13:02:59"
+  "crawl_time": "2026-08-02 18:58:05"
 }
