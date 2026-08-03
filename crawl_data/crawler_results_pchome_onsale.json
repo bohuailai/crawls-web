@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-08-03T14:19:42.458153",
+  "timestamp": "2026-08-03T19:21:29.730655",
   "platform": "pchome_onsale",
   "keyword": "pchome_onsale",
-  "total_products": 100,
+  "total_products": 98,
   "products": [
     {
       "title": "Nintendo 任天堂Switch 2 (NS2) 遊戲主機",
@@ -79,13 +79,6 @@
       "price": "$799",
       "image_url": "https://img.pchome.com.tw/cs/items/DAAG5LA900BG6GD/000007_1784101115.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DAAG5L-A900BG6GD",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "PHILIPS 55型4K 120Hz QD MiniLED顯示器",
-      "price": "$19,999",
-      "image_url": "https://img.pchome.com.tw/cs/items/DPADIKA900K6TSJ/000007_1783266805.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DPADIK-A900K6TSJ",
       "platform": "pchome_onsale"
     },
     {
@@ -166,13 +159,6 @@
       "platform": "pchome_onsale"
     },
     {
-      "title": "AIWA日本愛華立體聲藍芽聲霸",
-      "price": "$999",
-      "image_url": "https://img.pchome.com.tw/cs/items/DPADFN1900K9ADT/000007_1785500090.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DPADFN-1900K9ADT",
-      "platform": "pchome_onsale"
-    },
-    {
       "title": "特福法製精悍不沾平底鍋28cm",
       "price": "$3,399",
       "image_url": "https://img.pchome.com.tw/cs/items/DEES00A900JWSZT/000007_1776075253.jpg?width=480",
@@ -240,13 +226,6 @@
       "price": "$849",
       "image_url": "https://img.pchome.com.tw/cs/items/DBAJ921900I3CE9/000007_1785400603.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DBAJ92-1900I3CE9",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "HP M111w 無線黑白雷射印表機",
-      "price": "$2,990",
-      "image_url": "https://img.pchome.com.tw/cs/items/DCAW68A900IS9VS/000007_1783044416.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DCAW68-A900IS9VS",
       "platform": "pchome_onsale"
     },
     {
@@ -369,6 +348,13 @@
       "platform": "pchome_onsale"
     },
     {
+      "title": "HP M111w 無線黑白雷射印表機",
+      "price": "$2,990",
+      "image_url": "https://img.pchome.com.tw/cs/items/DCAW68A900IS9VS/000007_1783044416.jpg?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DCAW68-A900IS9VS",
+      "platform": "pchome_onsale"
+    },
+    {
       "title": "歐姆龍HBF-702T醫療級藍牙體脂計",
       "price": "$4,730",
       "image_url": "https://img.pchome.com.tw/cs/items/DMBA2YA900FWN1K/000007_1672816895.jpg?width=480",
@@ -401,13 +387,6 @@
       "price": "$585",
       "image_url": "https://img.pchome.com.tw/cs/items/DBAC2V1900K8HQZ/000007_1784455597.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DBAC2V-1900K8HQZ",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "伊萊克斯 極適家居500 UV抗敏空氣清淨機",
-      "price": "$8,888",
-      "image_url": "https://img.pchome.com.tw/cs/items/DMAUFSA900K5Q1T/000007_1782691944.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DMAUFS-A900K5Q1T",
       "platform": "pchome_onsale"
     },
     {
@@ -537,6 +516,13 @@
       "platform": "pchome_onsale"
     },
     {
+      "title": "伊萊克斯 極適家居500 UV抗敏空氣清淨機",
+      "price": "$8,888",
+      "image_url": "https://img.pchome.com.tw/cs/items/DMAUFSA900K5Q1T/000007_1782691944.jpg?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DMAUFS-A900K5Q1T",
+      "platform": "pchome_onsale"
+    },
+    {
       "title": "歐姆龍HBF-702T醫療級藍牙體脂計",
       "price": "$4,730",
       "image_url": "https://img.pchome.com.tw/cs/items/DMBA2YA900FWN1K/000007_1672816895.jpg?width=480",
@@ -560,7 +546,7 @@
     {
       "title": "ASUS 15 15.6吋16G-1TB效能筆電",
       "price": "$24,999",
-      "image_url": "https://img.pchome.com.tw/cs/items/DHAFS41900JVQ5L/000007_1785744379.jpg?width=480",
+      "image_url": "https://img.pchome.com.tw/cs/items/DHAFS41900JVQ5L/000007_1785766617.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DHAFS4-1900JVQ5L",
       "platform": "pchome_onsale"
     },
@@ -705,5 +691,5 @@
       "platform": "pchome_onsale"
     }
   ],
-  "crawl_time": "2026-08-03 14:19:42"
+  "crawl_time": "2026-08-03 19:21:29"
 }
