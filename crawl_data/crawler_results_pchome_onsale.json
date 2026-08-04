@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-08-04T13:51:27.902661",
+  "timestamp": "2026-08-04T19:19:58.181683",
   "platform": "pchome_onsale",
   "keyword": "pchome_onsale",
-  "total_products": 100,
+  "total_products": 98,
   "products": [
     {
       "title": "歐姆龍HBF-702T醫療級藍牙體脂計",
@@ -79,13 +79,6 @@
       "price": "$12,999",
       "image_url": "https://img.pchome.com.tw/cs/items/DPAD98A900JX77S/000007_1784017420.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DPAD98-A900JX77S",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "Hikers 2.1聲道 無線杜比全景聲重低音聲霸",
-      "price": "$2,999",
-      "image_url": "https://img.pchome.com.tw/cs/items/DPADFN1900KAVI1/000007_1785839961.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DPADFN-1900KAVI1",
       "platform": "pchome_onsale"
     },
     {
@@ -177,13 +170,6 @@
       "price": "$1,435",
       "image_url": "https://img.pchome.com.tw/cs/items/DAAOAEA900I7OM1/000007_1765764978.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DAAOAE-A900I7OM1",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "OVO 小方塊行動劇院智慧投影機",
-      "price": "$2,222",
-      "image_url": "https://img.pchome.com.tw/cs/items/DPADXZA900K4ZQF/000007_1782144371.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DPADXZ-A900K4ZQF",
       "platform": "pchome_onsale"
     },
     {
@@ -411,13 +397,6 @@
       "platform": "pchome_onsale"
     },
     {
-      "title": "科沃斯X11 PRO滾筒洗地機器人",
-      "price": "$19,999",
-      "image_url": "https://img.pchome.com.tw/cs/items/DMBL0LA900JU2MC/000007_1773977172.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DMBL0L-A900JU2MC",
-      "platform": "pchome_onsale"
-    },
-    {
       "title": "KAO 花王蒸氣眼罩 12枚 6盒",
       "price": "$1,199",
       "image_url": "https://img.pchome.com.tw/cs/items/DDBK3H1900H2YH1/000007_1767682618.jpg?width=480",
@@ -534,6 +513,13 @@
       "price": "$3,090",
       "image_url": "https://img.pchome.com.tw/cs/items/DSAR4SA900IRTPH/000007_1764159286.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DSAR4S-A900IRTPH",
+      "platform": "pchome_onsale"
+    },
+    {
+      "title": "科沃斯X11 PRO滾筒洗地機器人",
+      "price": "$19,999",
+      "image_url": "https://img.pchome.com.tw/cs/items/DMBL0LA900JU2MC/000007_1773977172.jpg?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DMBL0L-A900JU2MC",
       "platform": "pchome_onsale"
     },
     {
@@ -705,5 +691,5 @@
       "platform": "pchome_onsale"
     }
   ],
-  "crawl_time": "2026-08-04 13:51:27"
+  "crawl_time": "2026-08-04 19:19:58"
 }
