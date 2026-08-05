@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-05T13:47:21.382628",
+  "timestamp": "2026-08-05T19:17:35.613483",
   "platform": "pchome_onsale",
   "keyword": "pchome_onsale",
   "total_products": 98,
@@ -103,17 +103,10 @@
       "platform": "pchome_onsale"
     },
     {
-      "title": "SANSUI 2.1重低音喇叭環繞劇院聲霸",
-      "price": "$1,777",
-      "image_url": "https://img.pchome.com.tw/cs/items/DPADFN1900K9OI3/000007_1785292160.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DPADFN-1900K9OI3",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "OVO Warpple 劇院短焦雲台智慧投影機",
-      "price": "$2,222",
-      "image_url": "https://img.pchome.com.tw/cs/items/DPADFN1900KB1R7/000007_1785932276.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DPADFN-1900KB1R7",
+      "title": "KIOXIA 鎧俠 128GB 隨身碟",
+      "price": "$699",
+      "image_url": "https://img.pchome.com.tw/cs/cms/creatives/onsale/bda1da8d-cf54-4eb4-ae19-67958d91012b.png?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DGCD8O-1900K1WSO",
       "platform": "pchome_onsale"
     },
     {
@@ -184,6 +177,13 @@
       "price": "$2,370",
       "image_url": "https://img.pchome.com.tw/cs/items/DEAY3YA900ITEY6/000007_1785903779.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DEAY3Y-A900ITEY6",
+      "platform": "pchome_onsale"
+    },
+    {
+      "title": "威剛 Premier Pro 64GB 記憶卡 (附轉卡)",
+      "price": "$569",
+      "image_url": "https://img.pchome.com.tw/cs/cms/creatives/onsale/cfc93222-d567-4aaf-a51f-4b43bc9d302e.png?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DGAG6S-A900JXKFF",
       "platform": "pchome_onsale"
     },
     {
@@ -691,5 +691,5 @@
       "platform": "pchome_onsale"
     }
   ],
-  "crawl_time": "2026-08-05 13:47:21"
+  "crawl_time": "2026-08-05 19:17:35"
 }
