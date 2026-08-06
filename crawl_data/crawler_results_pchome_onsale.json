@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-06T13:44:42.352122",
+  "timestamp": "2026-08-06T23:51:22.839054",
   "platform": "pchome_onsale",
   "keyword": "pchome_onsale",
   "total_products": 105,
@@ -47,10 +47,10 @@
       "platform": "pchome_onsale"
     },
     {
-      "title": "PHILIPS 70型 4K 杜比全景聲智慧顯示器",
-      "price": "$17,999",
-      "image_url": "https://img.pchome.com.tw/cs/items/DPADIKA900K5T5V/000007_1784385070.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DPADIK-A900K5T5V",
+      "title": "威剛 Premier Pro 64GB 記憶卡 (附轉卡)",
+      "price": "$569",
+      "image_url": "https://img.pchome.com.tw/cs/cms/creatives/onsale/27617318-2801-49ea-8128-3b284955de1d.png?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DGAG6S-A900JXKFF",
       "platform": "pchome_onsale"
     },
     {
@@ -131,13 +131,6 @@
       "platform": "pchome_onsale"
     },
     {
-      "title": "Hikers 2.1 無線杜比全景聲重低音聲霸",
-      "price": "$2,888",
-      "image_url": "https://img.pchome.com.tw/cs/items/DPADFN1900KAVI1/000007_1785839961.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DPADFN-1900KAVI1",
-      "platform": "pchome_onsale"
-    },
-    {
       "title": "華碩 Prime RX 9070 12GB OC 顯示卡",
       "price": "$17,990",
       "image_url": "https://img.pchome.com.tw/cs/items/DRADKY1900K8BX7/000007_1786002873.jpg?width=480",
@@ -170,6 +163,13 @@
       "price": "$1,199",
       "image_url": "https://img.pchome.com.tw/cs/items/DEAWNCA900BNC50/000007_1698828918.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DEAWNC-A900BNC50",
+      "platform": "pchome_onsale"
+    },
+    {
+      "title": "KIOXIA 鎧俠 128GB 隨身碟",
+      "price": "$699",
+      "image_url": "https://img.pchome.com.tw/cs/cms/creatives/onsale/6c83d43c-4221-4ef1-93fc-ec02c13b8925.png?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DGCD8O-1900K1WSO",
       "platform": "pchome_onsale"
     },
     {
@@ -413,7 +413,7 @@
     {
       "title": "7-ELEVEN隨行取 特大杯青梅冰茶(冰)2杯",
       "price": "$88",
-      "image_url": "https://img.pchome.com.tw/cs/items/DBCRQ41900K9KDS/000007_1785480931.jpg?width=480",
+      "image_url": "https://img.pchome.com.tw/cs/items/DBCRQ41900K9KDS/000007_1786026591.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DBCRQ4-1900K9KDS",
       "platform": "pchome_onsale"
     },
@@ -497,7 +497,7 @@
     {
       "title": "7-ELEVEN隨行取 特大杯一顆檸檬紅茶(冰)2杯",
       "price": "$88",
-      "image_url": "https://img.pchome.com.tw/cs/items/DBCRQ41900K9KD8/000007_1785479746.jpg?width=480",
+      "image_url": "https://img.pchome.com.tw/cs/items/DBCRQ41900K9KD8/000007_1786026460.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DBCRQ4-1900K9KD8",
       "platform": "pchome_onsale"
     },
@@ -588,7 +588,7 @@
     {
       "title": "7-ELEVEN隨行取 西西里風檸檬咖啡(冰)2杯",
       "price": "$118",
-      "image_url": "https://img.pchome.com.tw/cs/items/DBCRQ41900K9KF4/000007_1785479793.jpg?width=480",
+      "image_url": "https://img.pchome.com.tw/cs/items/DBCRQ41900K9KF4/000007_1786026817.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DBCRQ4-1900K9KF4",
       "platform": "pchome_onsale"
     },
@@ -651,7 +651,7 @@
     {
       "title": "7-ELEVEN隨行取 特大梔子花青茶4杯+奶青",
       "price": "$180",
-      "image_url": "https://img.pchome.com.tw/cs/items/DBCRQ41900K9KGJ/000007_1785491162.jpg?width=480",
+      "image_url": "https://img.pchome.com.tw/cs/items/DBCRQ41900K9KGJ/000007_1786026967.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DBCRQ4-1900K9KGJ",
       "platform": "pchome_onsale"
     },
@@ -740,5 +740,5 @@
       "platform": "pchome_onsale"
     }
   ],
-  "crawl_time": "2026-08-06 13:44:42"
+  "crawl_time": "2026-08-06 23:51:22"
 }
