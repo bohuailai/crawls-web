@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-08-05T19:17:35.613483",
+  "timestamp": "2026-08-06T01:49:50.638605",
   "platform": "pchome_onsale",
   "keyword": "pchome_onsale",
-  "total_products": 98,
+  "total_products": 96,
   "products": [
     {
       "title": "HyRead Gaze Mini+ 6吋閱讀器",
@@ -103,13 +103,6 @@
       "platform": "pchome_onsale"
     },
     {
-      "title": "KIOXIA 鎧俠 128GB 隨身碟",
-      "price": "$699",
-      "image_url": "https://img.pchome.com.tw/cs/cms/creatives/onsale/bda1da8d-cf54-4eb4-ae19-67958d91012b.png?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DGCD8O-1900K1WSO",
-      "platform": "pchome_onsale"
-    },
-    {
       "title": "HP 15.6吋 RTX3050電競筆電(16GB+512GB)",
       "price": "$33,999",
       "image_url": "https://img.pchome.com.tw/cs/items/DHAGEO1900K5J8N/000007_1785902024.jpg?width=480",
@@ -177,13 +170,6 @@
       "price": "$2,370",
       "image_url": "https://img.pchome.com.tw/cs/items/DEAY3YA900ITEY6/000007_1785903779.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DEAY3Y-A900ITEY6",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "威剛 Premier Pro 64GB 記憶卡 (附轉卡)",
-      "price": "$569",
-      "image_url": "https://img.pchome.com.tw/cs/cms/creatives/onsale/cfc93222-d567-4aaf-a51f-4b43bc9d302e.png?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DGAG6S-A900JXKFF",
       "platform": "pchome_onsale"
     },
     {
@@ -691,5 +677,5 @@
       "platform": "pchome_onsale"
     }
   ],
-  "crawl_time": "2026-08-05 19:17:35"
+  "crawl_time": "2026-08-06 01:49:50"
 }
