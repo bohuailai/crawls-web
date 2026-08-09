@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-08-08T18:24:43.827004",
+  "timestamp": "2026-08-09T01:04:38.287102",
   "platform": "pchome_onsale",
   "keyword": "pchome_onsale",
-  "total_products": 109,
+  "total_products": 107,
   "products": [
     {
       "title": "Hikers 86吋 4K QLED Google TV顯示器",
@@ -149,20 +149,6 @@
       "price": "$799",
       "image_url": "https://img.pchome.com.tw/cs/items/DEEN0G1900HZFZT/000007_1774002915.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DEEN0G-1900HZFZT",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "金士頓 Type-C 128GB 隨身碟",
-      "price": "$349",
-      "image_url": "https://img.pchome.com.tw/cs/items/DGCD15A900JPQSB/000007_1770358614.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DGCD15-A900JPQSB",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "威剛 Premier Pro 64GB 記憶卡 (附轉卡)",
-      "price": "$569",
-      "image_url": "https://img.pchome.com.tw/cs/cms/creatives/onsale/72098d97-6363-4803-a936-666d37c5d05c.png?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DGAG6S-A900JXKFF",
       "platform": "pchome_onsale"
     },
     {
@@ -768,5 +754,5 @@
       "platform": "pchome_onsale"
     }
   ],
-  "crawl_time": "2026-08-08 18:24:43"
+  "crawl_time": "2026-08-09 01:04:38"
 }
