@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-08-10T07:14:38.067685",
+  "timestamp": "2026-08-10T12:50:28.666345",
   "platform": "pchome_onsale",
   "keyword": "pchome_onsale",
-  "total_products": 97,
+  "total_products": 98,
   "products": [
     {
       "title": "SanDisk 512GB 高速記憶卡",
@@ -82,13 +82,6 @@
       "platform": "pchome_onsale"
     },
     {
-      "title": "能源方舟2400 + 200W太陽能板",
-      "price": "$40,750",
-      "image_url": "https://img.pchome.com.tw/cs/items/DEBQ7SA900JMLX4/000007_1775694859.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DEBQ7S-A900JMLX4",
-      "platform": "pchome_onsale"
-    },
-    {
       "title": "華元餅乾派對箱504g x4箱(192包入)",
       "price": "$999",
       "image_url": "https://img.pchome.com.tw/cs/items/DBAC2V1900IIPML/000007_1784602631.jpg?width=480",
@@ -104,7 +97,7 @@
     },
     {
       "title": "eiP Pencil X iPad觸控筆",
-      "price": "$1,399",
+      "price": "$1,299",
       "image_url": "https://img.pchome.com.tw/cs/items/DYAFA0A900JEZC2/000007_1762245613.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DYAFA0-A900JEZC2",
       "platform": "pchome_onsale"
@@ -128,6 +121,13 @@
       "price": "$3,999",
       "image_url": "https://img.pchome.com.tw/cs/items/DRAA1UA900GQP5L/000007_1784520616.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DRAA1U-A900GQP5L",
+      "platform": "pchome_onsale"
+    },
+    {
+      "title": "ECOFLOW DELTA 3 Max+收納包+220W太陽能板",
+      "price": "$46,990",
+      "image_url": "https://img.pchome.com.tw/cs/items/DEBQ7SA900JWV8C/000007_1783353639.jpg?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DEBQ7S-A900JWV8C",
       "platform": "pchome_onsale"
     },
     {
@@ -243,13 +243,6 @@
       "platform": "pchome_onsale"
     },
     {
-      "title": "善存 銀寶50+男性綜合維他命120錠",
-      "price": "$950",
-      "image_url": "https://img.pchome.com.tw/cs/items/DBBC1EA9007PF30/000007_1768277880.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DBBC1E-A9007PF30",
-      "platform": "pchome_onsale"
-    },
-    {
       "title": "ASUS平板電腦 登錄送hello kitty",
       "price": "$17,999",
       "image_url": "https://img.pchome.com.tw/cs/items/DYAMHLA900K9I5L/000007_1785209904.jpg?width=480",
@@ -257,17 +250,24 @@
       "platform": "pchome_onsale"
     },
     {
-      "title": "NS2《異度神劍3》中文版",
-      "price": "$1,549",
-      "image_url": "https://img.pchome.com.tw/cs/items/DGBJCWA900K8TMT/000007_1784708558.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DGBJCW-A900K8TMT",
+      "title": "維夫拉克 四合一指紋辨識電子鎖",
+      "price": "$19,900",
+      "image_url": "https://img.pchome.com.tw/cs/items/DQAT0DA900GQ2JV/000007_1696992022.jpg?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DQAT0D-A900GQ2JV",
       "platform": "pchome_onsale"
     },
     {
-      "title": "LEGO樂高 10374 粉紅玫瑰花束",
-      "price": "$1,314",
-      "image_url": "https://img.pchome.com.tw/cs/items/DEDJ2SA900JOIJB/000007_1769677312.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DEDJ2S-A900JOIJB",
+      "title": "JOWUA CCS2 電動車款專用",
+      "price": "$6,640",
+      "image_url": "https://img.pchome.com.tw/cs/items/DEADYEA900JRC7A/000007_1773306918.jpg?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DEADYE-A900JRC7A",
+      "platform": "pchome_onsale"
+    },
+    {
+      "title": "Haier 55型4K 120Hz AI護眼遊戲顯示器",
+      "price": "$9,999",
+      "image_url": "https://img.pchome.com.tw/cs/items/DPADLN1900KBHGL/000007_1786241407.jpg?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DPADLN-1900KBHGL",
       "platform": "pchome_onsale"
     },
     {
@@ -292,10 +292,17 @@
       "platform": "pchome_onsale"
     },
     {
-      "title": "Mio MP20 前後雙鏡記錄器",
-      "price": "$1,799",
-      "image_url": "https://img.pchome.com.tw/cs/items/DEBBA5A900JOHF9/000007_1769494359.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DEBBA5-A900JOHF9",
+      "title": "LEGO 樂高 10365 史傑克船長的海盜船",
+      "price": "$8,819",
+      "image_url": "https://img.pchome.com.tw/cs/items/DEDJ11A900JJZS0/000007_1767323668.jpg?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DEDJ11-A900JJZS0",
+      "platform": "pchome_onsale"
+    },
+    {
+      "title": "SANSUI 藍芽家庭劇院環繞聲霸",
+      "price": "$999",
+      "image_url": "https://img.pchome.com.tw/cs/items/DPADFN1900K9FDI/000007_1785153707.jpg?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DPADFN-1900K9FDI",
       "platform": "pchome_onsale"
     },
     {
@@ -306,10 +313,10 @@
       "platform": "pchome_onsale"
     },
     {
-      "title": "FAMMIX菲米斯 內外雙監控人臉掌靜脈電子鎖",
-      "price": "$16,888",
-      "image_url": "https://img.pchome.com.tw/cs/items/DQBS09A900K2QH0/000007_1780537574.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DQBS09-A900K2QH0",
+      "title": "MyCard 10000點虛擬點數卡",
+      "price": "$9,500",
+      "image_url": "https://img.pchome.com.tw/cs/items/QAAY4AD900A5FIT/000007_1759800420.jpg?width=480",
+      "url": "https://24h.pchome.com.tw/prod/QAAY4A-D900A5FIT",
       "platform": "pchome_onsale"
     },
     {
@@ -331,6 +338,13 @@
       "price": "$1,499",
       "image_url": "https://img.pchome.com.tw/cs/items/DXBE3DA900JSPVP/000007_1773043420.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DXBE3D-A900JSPVP",
+      "platform": "pchome_onsale"
+    },
+    {
+      "title": "亞培安素原味隨身瓶HMB升級配方(24入)",
+      "price": "$1,900",
+      "image_url": "https://img.pchome.com.tw/cs/items/DFAH08A900HGQ6Y/000007_1770004303.jpg?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DFAH08-A900HGQ6Y",
       "platform": "pchome_onsale"
     },
     {
@@ -467,7 +481,7 @@
       "platform": "pchome_onsale"
     },
     {
-      "title": "Lancome 蘭蔻超極限肌因賦活露 100ml",
+      "title": "蘭蔻 超極限肌因賦活露 100ml",
       "price": "$2,599",
       "image_url": "https://img.pchome.com.tw/cs/items/DDADP5A900I2KT9/000007_1777349074.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DDADP5-A900I2KT9",
@@ -530,17 +544,17 @@
       "platform": "pchome_onsale"
     },
     {
-      "title": "萬國通路 28吋可擴充防爆拉鍊前開箱",
-      "price": "$8,688",
-      "image_url": "https://img.pchome.com.tw/cs/items/DIBKVLA900IGXQK/000007_1765513536.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DIBKVL-A900IGXQK",
+      "title": "美國探險家 26/29吋行李箱/胖胖箱",
+      "price": "$1,118",
+      "image_url": "https://img.pchome.com.tw/cs/items/DIBKTXA900HPOSP/000007_1786358417.jpg?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DIBKTX-A900HPOSP",
       "platform": "pchome_onsale"
     },
     {
-      "title": "美國探險家 20/25吋雙排飛機輪大容量箱",
-      "price": "$1,111",
-      "image_url": "https://img.pchome.com.tw/cs/items/DIBKTXA900HPOSP/000007_1782097947.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DIBKTX-A900HPOSP",
+      "title": "萬國通路 28吋前開式可擴充防爆箱",
+      "price": "$7,711",
+      "image_url": "https://img.pchome.com.tw/cs/items/DIBKVLA900JICQN/000007_1764652387.jpg?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DIBKVL-A900JICQN",
       "platform": "pchome_onsale"
     },
     {
@@ -649,13 +663,6 @@
       "platform": "pchome_onsale"
     },
     {
-      "title": "台鹽海洋鹼性離子水 850ml (20瓶X3箱)",
-      "price": "$1,197",
-      "image_url": "https://img.pchome.com.tw/cs/items/DBAG6G19009J3WF/000007_1774583632.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DBAG6G-19009J3WF",
-      "platform": "pchome_onsale"
-    },
-    {
       "title": "Raymii 瑞米LMC-11 移動式時尚落地螢幕支架",
       "price": "$1,599",
       "image_url": "https://img.pchome.com.tw/cs/items/DQCD0SA900KAT7V/000007_1786003824.jpg?width=480",
@@ -684,5 +691,5 @@
       "platform": "pchome_onsale"
     }
   ],
-  "crawl_time": "2026-08-10 07:14:38"
+  "crawl_time": "2026-08-10 12:50:28"
 }
