@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-08-09T18:28:30.936295",
+  "timestamp": "2026-08-10T01:06:18.541522",
   "platform": "pchome_onsale",
   "keyword": "pchome_onsale",
-  "total_products": 102,
+  "total_products": 100,
   "products": [
     {
       "title": "統一PH9.0鹼性離子水800ml(20入X2箱)",
@@ -121,20 +121,6 @@
       "price": "$599",
       "image_url": "https://img.pchome.com.tw/cs/items/DBAY141900K88G3/000007_1785211662.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DBAY14-1900K88G3",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "KIOXIA 鎧俠 128GB 隨身碟",
-      "price": "$699",
-      "image_url": "https://img.pchome.com.tw/cs/cms/creatives/onsale/00e97017-b3d9-4123-9b8c-f875dfe3ccc8.png?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DGCD8O-1900K1WSO",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "SanDisk Extreme 512GB 高速記憶卡",
-      "price": "$2,699",
-      "image_url": "https://img.pchome.com.tw/cs/items/DGAG0HA900JZ8NM/000007_1777964280.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DGAG0H-A900JZ8NM",
       "platform": "pchome_onsale"
     },
     {
@@ -719,5 +705,5 @@
       "platform": "pchome_onsale"
     }
   ],
-  "crawl_time": "2026-08-09 18:28:30"
+  "crawl_time": "2026-08-10 01:06:18"
 }
