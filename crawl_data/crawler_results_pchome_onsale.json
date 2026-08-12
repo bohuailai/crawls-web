@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-08-11T18:50:46.182144",
+  "timestamp": "2026-08-12T01:12:48.820514",
   "platform": "pchome_onsale",
   "keyword": "pchome_onsale",
-  "total_products": 98,
+  "total_products": 96,
   "products": [
     {
       "title": "Herman Miller Aeron2.0 全功能人體工學椅",
@@ -128,20 +128,6 @@
       "price": "$180",
       "image_url": "https://img.pchome.com.tw/cs/items/DBCRQ41900K9KHT/000007_1785491195.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DBCRQ4-1900K9KHT",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "威剛 Premier Pro 64GB 記憶卡 (附轉卡)",
-      "price": "$569",
-      "image_url": "https://img.pchome.com.tw/cs/cms/creatives/onsale/7a5db0f1-c993-48d8-bd95-65700d78476e.png?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DGAG6S-A900JXKFF",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "KIOXIA 鎧俠 128GB 隨身碟",
-      "price": "$699",
-      "image_url": "https://img.pchome.com.tw/cs/cms/creatives/onsale/bd94206a-bc46-424e-93dc-b038552317a9.png?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DGCD8O-1900K1WSO",
       "platform": "pchome_onsale"
     },
     {
@@ -691,5 +677,5 @@
       "platform": "pchome_onsale"
     }
   ],
-  "crawl_time": "2026-08-11 18:50:46"
+  "crawl_time": "2026-08-12 01:12:48"
 }
