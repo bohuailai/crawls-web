@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-08-12T18:51:16.596624",
+  "timestamp": "2026-08-13T01:14:54.676328",
   "platform": "pchome_onsale",
   "keyword": "pchome_onsale",
-  "total_products": 98,
+  "total_products": 96,
   "products": [
     {
       "title": "契爾氏 激光極淨白淡斑精華 100ml",
@@ -51,13 +51,6 @@
       "price": "$16,900",
       "image_url": "https://img.pchome.com.tw/cs/items/DPAFC41900K1T0I/000007_1779811261.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DPAFC4-1900K1T0I",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "ACER 宏碁 64GB 記憶卡 三入組",
-      "price": "$999",
-      "image_url": "https://img.pchome.com.tw/cs/cms/creatives/onsale/5f02559f-139d-4e85-9f94-dfa6c2090d5b.png?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DGAG5F-1900K47UM",
       "platform": "pchome_onsale"
     },
     {
@@ -142,13 +135,6 @@
       "price": "$68",
       "image_url": "https://img.pchome.com.tw/cs/items/DBCRQ41900KB5ED/000007_1786022402.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DBCRQ4-1900KB5ED",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "KIOXIA 鎧俠 128GB 隨身碟",
-      "price": "$699",
-      "image_url": "https://img.pchome.com.tw/cs/cms/creatives/onsale/50ad9e62-1b83-4dcf-8fd4-0d6562049b59.png?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DGCD8O-1900K1WSO",
       "platform": "pchome_onsale"
     },
     {
@@ -544,6 +530,13 @@
       "platform": "pchome_onsale"
     },
     {
+      "title": "ASUS BE18000 三頻 WiFi 7 路由器(2入)",
+      "price": "$18,999",
+      "image_url": "https://img.pchome.com.tw/cs/items/DRAF01A900HQK96/000007_1773376895.jpg?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DRAF01-A900HQK96",
+      "platform": "pchome_onsale"
+    },
+    {
       "title": "煌隆-壹台錢黃金條塊",
       "price": "$20,599",
       "image_url": "https://img.pchome.com.tw/cs/items/DICB0GA90056FK2/000007_1747281286.jpg?width=480",
@@ -611,13 +604,6 @@
       "price": "$849",
       "image_url": "https://img.pchome.com.tw/cs/items/DAAA4S1900J5SC7/000007_1784625358.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DAAA4S-1900J5SC7",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "ASUS BE18000 三頻 WiFi 7 路由器(2入)",
-      "price": "$18,999",
-      "image_url": "https://img.pchome.com.tw/cs/items/DRAF01A900HQK96/000007_1773376895.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DRAF01-A900HQK96",
       "platform": "pchome_onsale"
     },
     {
@@ -691,5 +677,5 @@
       "platform": "pchome_onsale"
     }
   ],
-  "crawl_time": "2026-08-12 18:51:16"
+  "crawl_time": "2026-08-13 01:14:54"
 }
