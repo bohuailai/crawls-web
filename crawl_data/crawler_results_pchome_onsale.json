@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-08-13T18:51:32.696613",
+  "timestamp": "2026-08-14T01:13:26.797104",
   "platform": "pchome_onsale",
   "keyword": "pchome_onsale",
-  "total_products": 99,
+  "total_products": 97,
   "products": [
     {
       "title": "TP-Link BE17000 三頻 10G 路由器(3入)",
@@ -166,24 +166,10 @@
       "platform": "pchome_onsale"
     },
     {
-      "title": "ACER 宏碁 64GB 記憶卡 三入組",
-      "price": "$999",
-      "image_url": "https://img.pchome.com.tw/cs/cms/creatives/onsale/ae679b94-1140-4d2a-80c6-4a837e1130ad.png?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DGAG5F-1900K47UM",
-      "platform": "pchome_onsale"
-    },
-    {
       "title": "萬家福/樂家康10000元好禮即享券(餘額型)",
       "price": "$9,779",
       "image_url": "https://img.pchome.com.tw/cs/items/DBCRQCA900K636S/000007_1782886645.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DBCRQC-A900K636S",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "KIOXIA 鎧俠 128GB 隨身碟",
-      "price": "$699",
-      "image_url": "https://img.pchome.com.tw/cs/cms/creatives/onsale/abde29fa-f7a6-4617-ab54-fe50a567b60d.png?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DGCD8O-1900K1WSO",
       "platform": "pchome_onsale"
     },
     {
@@ -212,13 +198,6 @@
       "price": "$899",
       "image_url": "https://img.pchome.com.tw/cs/items/DAAA091900IU7R3/000007_1781506596.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DAAA09-1900IU7R3",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "威技 14吋DC直流變頻電風扇",
-      "price": "$925",
-      "image_url": "https://img.pchome.com.tw/cs/items/DMABP5A900I86D3/000007_1735810465.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DMABP5-A900I86D3",
       "platform": "pchome_onsale"
     },
     {
@@ -359,6 +338,13 @@
       "price": "$21,900",
       "image_url": "https://img.pchome.com.tw/cs/items/DPADYE1900K1I8B/000007_1779474678.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DPADYE-1900K1I8B",
+      "platform": "pchome_onsale"
+    },
+    {
+      "title": "威技 14吋DC直流變頻電風扇",
+      "price": "$925",
+      "image_url": "https://img.pchome.com.tw/cs/items/DMABP5A900I86D3/000007_1735810465.jpg?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DMABP5-A900I86D3",
       "platform": "pchome_onsale"
     },
     {
@@ -698,5 +684,5 @@
       "platform": "pchome_onsale"
     }
   ],
-  "crawl_time": "2026-08-13 18:51:32"
+  "crawl_time": "2026-08-14 01:13:26"
 }
