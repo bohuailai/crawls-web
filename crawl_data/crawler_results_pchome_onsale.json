@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-08-16T18:16:45.152732",
+  "timestamp": "2026-08-17T00:45:15.403681",
   "platform": "pchome_onsale",
   "keyword": "pchome_onsale",
-  "total_products": 94,
+  "total_products": 92,
   "products": [
     {
       "title": "盛香珍堅果量販禮盒 x1盒",
@@ -54,13 +54,6 @@
       "platform": "pchome_onsale"
     },
     {
-      "title": "LG 65型 4K QNED 70系列智慧聯網顯示器",
-      "price": "$22,900",
-      "image_url": "https://img.pchome.com.tw/cs/items/DPADYE1900JZSVQ/000007_1778256739.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DPADYE-1900JZSVQ",
-      "platform": "pchome_onsale"
-    },
-    {
       "title": "ACER Mini LED 27型 4K雙模電競螢幕",
       "price": "$7,999",
       "image_url": "https://img.pchome.com.tw/cs/items/DSABEL1900JZJ7N/000007_1781247654.jpg?width=480",
@@ -72,13 +65,6 @@
       "price": "$799",
       "image_url": "https://img.pchome.com.tw/cs/items/DAAK2S1900JEWTD/000007_1781682602.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DAAK2S-1900JEWTD",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "Hikers 2.1聲道ATMOS無線重低音聲霸",
-      "price": "$2,888",
-      "image_url": "https://img.pchome.com.tw/cs/items/DPADFN1900KAVI1/000007_1785839961.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DPADFN-1900KAVI1",
       "platform": "pchome_onsale"
     },
     {
@@ -663,5 +649,5 @@
       "platform": "pchome_onsale"
     }
   ],
-  "crawl_time": "2026-08-16 18:16:45"
+  "crawl_time": "2026-08-17 00:45:15"
 }
