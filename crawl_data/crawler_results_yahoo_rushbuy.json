@@ -1,7 +1,7 @@
 {
   "platform": "yahoo_rushbuy",
   "keyword": "yahoo_rushbuy",
-  "total_products": 25,
+  "total_products": 26,
   "products": [
     {
       "title": "BenQ WiT ScreenBar螢幕智能掛燈[限時優惠]",
@@ -22,6 +22,13 @@
       "price": 999,
       "image_url": "https://img.yec.tw/zp/MerchandiseImages/11d7dfc81e-Gd-12192225.jpg",
       "url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=12192225",
+      "platform": "yahoo_rushbuy"
+    },
+    {
+      "title": "Reddot紅點生活 旅行防水磨砂洗漱化妝收納包-超值3件組",
+      "price": 199,
+      "image_url": "https://img.yec.tw/zp/MerchandiseImages/5041a25f01-Gd-11732504.jpg",
+      "url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=11732504",
       "platform": "yahoo_rushbuy"
     },
     {
@@ -53,10 +60,10 @@
       "platform": "yahoo_rushbuy"
     },
     {
-      "title": "德國Fackelmann 珍珠奶白陶瓷不沾平底鍋(24cm) (適用電磁爐)",
-      "price": 379,
-      "image_url": "https://img.yec.tw/zp/MerchandiseImages/A8D61D5145-Gd-10673663.jpg",
-      "url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=10673663",
+      "title": "【BLACK HAMMER】 SNOOPY316不鏽鋼保溫保冰吸管杯860ml (4款任選)",
+      "price": 790,
+      "image_url": "https://img.yec.tw/zp/MerchandiseImages/cace873f75-Gd-12146995.jpg",
+      "url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=12146995",
       "platform": "yahoo_rushbuy"
     },
     {
@@ -67,10 +74,10 @@
       "platform": "yahoo_rushbuy"
     },
     {
-      "title": "【台中李方艾美酒店】新食譜全日餐廳平日自助式午餐餐券(可加價180兌換平日晚餐)(MO-ARE26)",
-      "price": 864,
-      "image_url": "https://img.yec.tw/zp/MerchandiseImages/64CE4F369B-SP-23027011.jpg",
-      "url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=12161630",
+      "title": "萬家福商品提貨券總面額$30000",
+      "price": 29400,
+      "image_url": "https://img.yec.tw/zp/MerchandiseImages/d6baf03f58-Gd-10889565.jpg",
+      "url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=10889565",
       "platform": "yahoo_rushbuy"
     },
     {
@@ -89,7 +96,7 @@
     },
     {
       "title": "日本JA青森農協 希望之露蘋果汁(1000mlx6瓶入)",
-      "price": 1010,
+      "price": 899,
       "image_url": "https://img.yec.tw/zp/MerchandiseImages/374CC56891-Gd-11789186.jpg",
       "url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=11789186",
       "platform": "yahoo_rushbuy"
@@ -124,7 +131,7 @@
     },
     {
       "title": "Nike 休閒鞋 LD-1000 Waffle Racer 男鞋 女鞋 6色單一價",
-      "price": 1569,
+      "price": 1450,
       "image_url": "https://img.yec.tw/zp/MerchandiseImages/165ACA8BC7-SP-23241875.jpg",
       "url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=12212067",
       "platform": "yahoo_rushbuy"
@@ -138,7 +145,7 @@
     },
     {
       "title": "【券後$959】Adidas 後背包 多隔層 筆電隔層 黑/米/灰【運動世界】KC0255/KC0256/KC0257",
-      "price": 1022,
+      "price": 999,
       "image_url": "https://img.yec.tw/cl/api/res/1.2/iktmjQeEclhk7nxSvsCruw--/YXBwaWQ9eXR3bWFsbDtoPTYwMDtxPTEwMDt3PTYwMA--/https://img.yec.tw/fy/d0aa/item/p0268265237984-item-4b91xf4x1000x1000-m.jpg",
       "url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=p0268265237984",
       "platform": "yahoo_rushbuy"
@@ -179,5 +186,5 @@
       "platform": "yahoo_rushbuy"
     }
   ],
-  "crawl_time": "2026-08-17 00:45:15"
+  "crawl_time": "2026-08-17 06:36:49"
 }
