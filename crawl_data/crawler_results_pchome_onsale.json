@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-08-22T18:17:27.629115",
+  "timestamp": "2026-08-23T00:50:54.589825",
   "platform": "pchome_onsale",
   "keyword": "pchome_onsale",
-  "total_products": 102,
+  "total_products": 100,
   "products": [
     {
       "title": "recolte 麗克特 日本Bonne萬用食物調理機",
@@ -68,13 +68,6 @@
       "platform": "pchome_onsale"
     },
     {
-      "title": "KIOXIA 鎧俠 512GB 記憶卡 (附轉卡)",
-      "price": "$1,990",
-      "image_url": "https://img.pchome.com.tw/cs/items/DGAG7DA900HAZA4/000007_1710307597.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DGAG7D-A900HAZA4",
-      "platform": "pchome_onsale"
-    },
-    {
       "title": "幫寶適極上守護紙尿褲x1箱",
       "price": "$899",
       "image_url": "https://img.pchome.com.tw/cs/items/DAAO7HA900HS2Q4/000007_1773972508.jpg?width=480",
@@ -121,13 +114,6 @@
       "price": "$720",
       "image_url": "https://img.pchome.com.tw/cs/items/DBCRQ41900K9R7P/000007_1785318259.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DBCRQ4-1900K9R7P",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "Team 十銓 128GB ECO淨零隨身碟",
-      "price": "$599",
-      "image_url": "https://img.pchome.com.tw/cs/items/DGCD1P1900KCKIF/000007_1787047029.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DGCD1P-1900KCKIF",
       "platform": "pchome_onsale"
     },
     {
@@ -719,5 +705,5 @@
       "platform": "pchome_onsale"
     }
   ],
-  "crawl_time": "2026-08-22 18:17:27"
+  "crawl_time": "2026-08-23 00:50:54"
 }
