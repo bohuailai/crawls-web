@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-08-23T18:17:29.874179",
+  "timestamp": "2026-08-24T00:47:19.809776",
   "platform": "pchome_onsale",
   "keyword": "pchome_onsale",
-  "total_products": 106,
+  "total_products": 104,
   "products": [
     {
       "title": "原萃冷萃 寶特瓶450ml (24入X2箱)",
@@ -58,13 +58,6 @@
       "price": "$2,799",
       "image_url": "https://img.pchome.com.tw/cs/items/DQBP05A900GOI3W/000007_1735607880.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DQBP05-A900GOI3W",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "KIOXIA 鎧俠 512GB 記憶卡 (附轉卡)",
-      "price": "$1,990",
-      "image_url": "https://img.pchome.com.tw/cs/items/DGAG7DA900HAZA4/000007_1710307597.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DGAG7D-A900HAZA4",
       "platform": "pchome_onsale"
     },
     {
@@ -191,13 +184,6 @@
       "price": "$3,999",
       "image_url": "https://img.pchome.com.tw/cs/items/DYAJCR1900IF3VZ/000007_1776838266.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DYAJCR-1900IF3VZ",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "Team 十銓 128GB ECO淨零隨身碟",
-      "price": "$599",
-      "image_url": "https://img.pchome.com.tw/cs/items/DGCD1P1900KCKIF/000007_1787047029.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DGCD1P-1900KCKIF",
       "platform": "pchome_onsale"
     },
     {
@@ -747,5 +733,5 @@
       "platform": "pchome_onsale"
     }
   ],
-  "crawl_time": "2026-08-23 18:17:29"
+  "crawl_time": "2026-08-24 00:47:19"
 }
