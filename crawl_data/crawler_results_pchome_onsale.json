@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-08-25T18:26:54.280925",
+  "timestamp": "2026-08-26T00:48:23.423633",
   "platform": "pchome_onsale",
   "keyword": "pchome_onsale",
-  "total_products": 90,
+  "total_products": 88,
   "products": [
     {
       "title": "羅技MX Master 4 無線滑鼠",
@@ -65,13 +65,6 @@
       "price": "$2,180",
       "image_url": "https://img.pchome.com.tw/cs/items/DEBH9XA900BRB88/000007_1663333192.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DEBH9X-A900BRB88",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "SANSUI 2.1重低音環繞家庭劇院藍芽聲霸",
-      "price": "$1,777",
-      "image_url": "https://img.pchome.com.tw/cs/items/DPADFN1900K9OI3/000007_1785292160.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DPADFN-1900K9OI3",
       "platform": "pchome_onsale"
     },
     {
@@ -156,13 +149,6 @@
       "price": "$9,899",
       "image_url": "https://img.pchome.com.tw/cs/items/DEDJ13A900K725E/000007_1784866019.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DEDJ13-A900K725E",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "TCL 75吋 4K 護眼低藍光AI智慧幕顯示器",
-      "price": "$22,900",
-      "image_url": "https://img.pchome.com.tw/cs/items/DPADT3A900K8OS8/000007_1784622199.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DPADT3-A900K8OS8",
       "platform": "pchome_onsale"
     },
     {
@@ -635,5 +621,5 @@
       "platform": "pchome_onsale"
     }
   ],
-  "crawl_time": "2026-08-25 18:26:54"
+  "crawl_time": "2026-08-26 00:48:23"
 }
