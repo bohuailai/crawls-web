@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-08-30T15:47:20.083424",
+  "timestamp": "2026-08-30T20:20:16.403526",
   "platform": "pchome_onsale",
   "keyword": "pchome_onsale",
-  "total_products": 88,
+  "total_products": 86,
   "products": [
     {
       "title": "大研精氣神瑪卡粉包 22包/盒",
@@ -145,13 +145,6 @@
       "platform": "pchome_onsale"
     },
     {
-      "title": "TCL 65型 4K 全方位護眼低藍光智慧幕顯示器",
-      "price": "$18,880",
-      "image_url": "https://img.pchome.com.tw/cs/items/DPADT3A900K8OSF/000007_1784622334.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DPADT3-A900K8OSF",
-      "platform": "pchome_onsale"
-    },
-    {
       "title": "KIOXIA 鎧俠 512GB 記憶卡 (附轉卡)",
       "price": "$1,990",
       "image_url": "https://img.pchome.com.tw/cs/cms/creatives/onsale/e0417751-c180-4237-9c82-d17d4f3d5300.png?width=480",
@@ -177,13 +170,6 @@
       "price": "$9,600",
       "image_url": "https://img.pchome.com.tw/cs/items/DPAFFZA900JZ3XC/000007_1777875910.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DPAFFZ-A900JZ3XC",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "SANSUI 藍芽家庭劇院環繞聲霸",
-      "price": "$999",
-      "image_url": "https://img.pchome.com.tw/cs/items/DPADFN1900K9FDI/000007_1785153707.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DPADFN-1900K9FDI",
       "platform": "pchome_onsale"
     },
     {
@@ -621,5 +607,5 @@
       "platform": "pchome_onsale"
     }
   ],
-  "crawl_time": "2026-08-30 15:47:20"
+  "crawl_time": "2026-08-30 20:20:16"
 }
