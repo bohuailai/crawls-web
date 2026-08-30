@@ -1,48 +1,90 @@
 {
   "platform": "yahoo_rushbuy",
   "keyword": "yahoo_rushbuy",
-  "total_products": 28,
+  "total_products": 25,
   "products": [
     {
-      "title": "【ARIEL】超濃縮抗菌抗臭洗衣精1690g 四款 任選3入",
-      "price": 749,
-      "image_url": "https://img.yec.tw/zp/MerchandiseImages/8C6A84E586-Gd-12194125.jpg",
-      "url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=12194125",
+      "title": "(平均1芯154)【BRITA官方】BRITA MAXTRA PRO濾芯 去水垢專家 12入 贈Aluna濾水壺(含1芯)",
+      "price": 1999,
+      "image_url": "https://img.yec.tw/zp/MerchandiseImages/DF169AB64D-Gd-11215897.jpg",
+      "url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=11215897",
       "platform": "yahoo_rushbuy"
     },
     {
-      "title": "illy 咖啡粉/咖啡豆-中焙/深焙(250g/罐)任選3罐",
-      "price": 799,
-      "image_url": "https://img.yec.tw/zp/MerchandiseImages/6318B3463E-Gd-12118057.jpg",
-      "url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=12118057",
+      "title": "Shu Uemura植村秀 酒粕活酵淨亮潔顏油 450ml 專櫃公司貨",
+      "price": 1450,
+      "image_url": "https://img.yec.tw/zp/MerchandiseImages/074AB0E955-SP-22869453.jpg",
+      "url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=12130962",
       "platform": "yahoo_rushbuy"
     },
     {
-      "title": "牙周適 固齒護齦-高效清新-牙齦護理牙膏 80gx5入",
-      "price": 623,
-      "image_url": "https://img.yec.tw/zp/MerchandiseImages/A690720D97-Gd-9265533.jpg",
-      "url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=9265533",
+      "title": "Kotex靠得住 草本抑菌衛生棉 日用 23cm/26cm/28cm/35cm 2箱購",
+      "price": 599,
+      "image_url": "https://img.yec.tw/zp/MerchandiseImages/65C173E108-SP-19603912.jpg",
+      "url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=11568997",
       "platform": "yahoo_rushbuy"
     },
     {
-      "title": "Tommy Hilfiger 湯米 多款多色 大LOGO 素T 圓領 刺繡LOGO 短袖 上衣",
-      "price": 699,
-      "image_url": "https://img.yec.tw/zp/MerchandiseImages/F0DDD57E3E-SP-20920572.jpg",
-      "url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=11762303",
+      "title": "【我的健康日記】蜂王膠原飲50ml(24入/箱)+6入組x1盒(共30入)",
+      "price": 1614,
+      "image_url": "https://img.yec.tw/zp/MerchandiseImages/1F2C9227AB-Gd-11653773.jpg",
+      "url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=11653773",
       "platform": "yahoo_rushbuy"
     },
     {
-      "title": "(即期品)蔻蘿蘭官方直營 (1+1組) 澎鬆修護乾洗髮150ml (效期至2026/11/1)",
+      "title": "【SKECHERS】D'LUX WALKER 2.0 舒適 瞬穿科技 健走鞋 232446WBK",
+      "price": 3051,
+      "image_url": "https://img.yec.tw/zp/MerchandiseImages/F2DBDC6D20-SP-23230552.jpg",
+      "url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=12213877",
+      "platform": "yahoo_rushbuy"
+    },
+    {
+      "title": "MOS摩斯漢堡 冷凍米漢堡(6入/盒)3盒組",
+      "price": 999,
+      "image_url": "https://img.yec.tw/zp/MerchandiseImages/8b7a19d6bb-Gd-11758991.jpg",
+      "url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=11758991",
+      "platform": "yahoo_rushbuy"
+    },
+    {
+      "title": "(時時樂限定)Tonia Nicole 東妮寢飾100%精梳棉 雙人/加大床包枕套組(任選)",
+      "price": 999,
+      "image_url": "https://img.yec.tw/zp/MerchandiseImages/766658aebb-Gd-9421979.jpg",
+      "url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=9421979",
+      "platform": "yahoo_rushbuy"
+    },
+    {
+      "title": "【FOOTER 除臭襪】5入組--3℃ 輕透涼感襪(T76)",
+      "price": 899,
+      "image_url": "https://img.yec.tw/zp/MerchandiseImages/3FDED14E8B-Gd-12235387.jpg",
+      "url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=12235387",
+      "platform": "yahoo_rushbuy"
+    },
+    {
+      "title": "【麥當勞】麥香鷄+四塊麥克鷄塊+薯條(中)+蜂蜜紅茶(冰) 好禮即享券",
+      "price": 150,
+      "image_url": "https://img.yec.tw/zp/MerchandiseImages/B5F11E3A8B-SP-22970423.jpg",
+      "url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=12153186",
+      "platform": "yahoo_rushbuy"
+    },
+    {
+      "title": "【葡萄王】健常八益菌(80粒x6瓶)",
+      "price": 1699,
+      "image_url": "https://img.yec.tw/zp/MerchandiseImages/C2E043E85D-Gd-11005116.jpg",
+      "url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=11005116",
+      "platform": "yahoo_rushbuy"
+    },
+    {
+      "title": "紅米 Redmi Pad 2 (4G/128G) 11吋護眼螢幕平板",
+      "price": 5888,
+      "image_url": "https://img.yec.tw/zp/MerchandiseImages/EFC3F2AA2D-SP-20583732.jpg",
+      "url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=11702776",
+      "platform": "yahoo_rushbuy"
+    },
+    {
+      "title": "加倍潔 過碳酸鈉去污粉600g 6入",
       "price": 399,
-      "image_url": "https://img.yec.tw/zp/MerchandiseImages/2EE09C272F-SP-21024727.jpg",
-      "url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=11782490",
-      "platform": "yahoo_rushbuy"
-    },
-    {
-      "title": "日本 KUKKIA 紅帽子 綜合法蘭酥 20枚入★ 三盒超值組",
-      "price": 749,
-      "image_url": "https://img.yec.tw/zp/MerchandiseImages/89511B7F84-SP-22455343.jpg",
-      "url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=12131204",
+      "image_url": "https://img.yec.tw/zp/MerchandiseImages/24a8f66a60-Gd-12153822.jpg",
+      "url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=12153822",
       "platform": "yahoo_rushbuy"
     },
     {
@@ -53,152 +95,89 @@
       "platform": "yahoo_rushbuy"
     },
     {
-      "title": "(平均1芯154)【BRITA官方】BRITA MAXTRA PRO濾芯 去水垢專家 12入 贈Aluna濾水壺(含1芯)",
-      "price": 1999,
-      "image_url": "https://img.yec.tw/zp/MerchandiseImages/DF169AB64D-Gd-11215897.jpg",
-      "url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=11215897",
+      "title": "AiLeiYi洋甘菊潤膚沐浴精1000ml*1/修護洗髮精1000ml*1 任選2入",
+      "price": 760,
+      "image_url": "https://img.yec.tw/zp/MerchandiseImages/2D4C49A913-SP-18237625.jpg",
+      "url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=11344083",
       "platform": "yahoo_rushbuy"
     },
     {
-      "title": "【果果堅果】微粉化肌酸 口味任選 400克/420克",
-      "price": 627,
-      "image_url": "https://img.yec.tw/zp/MerchandiseImages/852b6a1a05-Gd-11462906.jpg",
-      "url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=11462906",
+      "title": "Acer 宏碁 EK271 P6 27吋144Hz IPS護眼電腦螢幕",
+      "price": 2399,
+      "image_url": "https://img.yec.tw/zp/MerchandiseImages/60BF376928-SP-21035241.jpg",
+      "url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=11785596",
       "platform": "yahoo_rushbuy"
     },
     {
-      "title": "(即期品)Kanebo 佳麗寶 ALLIE 持采亮采校色防曬(任選2件)▼買1送1",
-      "price": 770,
-      "image_url": "https://img.yec.tw/zp/MerchandiseImages/C94C3F727E-Gd-11010954.jpg",
-      "url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=11010954",
+      "title": "TATUNG 大同 11人份316不鏽鋼電鍋(TAC-11HN M全不鏽鋼)",
+      "price": 5199,
+      "image_url": "https://img.yec.tw/zp/MerchandiseImages/4be625b919-Gd-10851434.jpg",
+      "url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=10851434",
       "platform": "yahoo_rushbuy"
     },
     {
-      "title": "【 PAPAGO!】 5000 mAh隨行膠囊行動電源-快",
+      "title": "【ONE HOUSE】100入 北歐風覆膜衣架_3MM成人款-顏色隨機 (曬衣架/衣架/衣櫃架/吊衣架/掛衣架/內衣架)",
       "price": 499,
-      "image_url": "https://img.yec.tw/zp/MerchandiseImages/4D3B665990-SP-18003981.jpg",
-      "url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=11411905",
+      "image_url": "https://img.yec.tw/zp/MerchandiseImages/59E3A48BA5-SP-19262172.jpg",
+      "url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=11517231",
       "platform": "yahoo_rushbuy"
     },
     {
-      "title": "SANDISK Extreme GO microSD UHS-I 256GB 記憶卡(公司貨)",
+      "title": "超比食品-職人中秋月餅禮盒 5款可選(宜蘭之月/烏豆沙/芋頭酥/綠豆椪/全素蛋黃酥)",
+      "price": 650,
+      "image_url": "https://img.yec.tw/zp/MerchandiseImages/B7EBD3304C-SP-23322351.jpg",
+      "url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=12233896",
+      "platform": "yahoo_rushbuy"
+    },
+    {
+      "title": "【VANS】美線 Knu Stack/Skool 胖胖鞋 六色",
+      "price": 699,
+      "image_url": "https://img.yec.tw/zp/MerchandiseImages/bc00837824-Gd-12202467.jpg",
+      "url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=12202467",
+      "platform": "yahoo_rushbuy"
+    },
+    {
+      "title": "agnes b.Voyage 新款x經典兩用包/後背包/肩背包 限量均一價",
+      "price": 4500,
+      "image_url": "https://img.yec.tw/zp/MerchandiseImages/19F5C96027-Gd-11113335.jpg",
+      "url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=11113335",
+      "platform": "yahoo_rushbuy"
+    },
+    {
+      "title": "Skechers 休閒鞋 女鞋 瑪莉珍鞋 Bobs Moda Flex 粉/米白【運動世界】117732BLSH/117732OFWT",
       "price": 1799,
-      "image_url": "https://img.yec.tw/zp/MerchandiseImages/8D7871B15C-SP-22439844.jpg",
-      "url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=12050650",
+      "image_url": "https://img.yec.tw/cl/api/res/1.2/pdFFwDdOLsn3uaUeyeS6pw--/YXBwaWQ9eXR3bWFsbDtoPTYwMDtxPTEwMDt3PTYwMA--/https://img.yec.tw/fy/3782/item/p0268265516890-item-f66exf4x1000x1000-m.jpg",
+      "url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=p0268265516890",
       "platform": "yahoo_rushbuy"
     },
     {
-      "title": "ASICS JOG 100T 男款 運動鞋 1022A335-001",
-      "price": 1962,
-      "image_url": "https://img.yec.tw/zp/MerchandiseImages/CF3482A343-SP-22915132.jpg",
-      "url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=12141949",
+      "title": "impact 怡寶 水壺 安全水杯 500ml 寶可夢 皮卡丘 七龍珠 三麗鷗 迪士尼 綜合賣場 得意時袋",
+      "price": 539,
+      "image_url": "https://img.yec.tw/cl/api/res/1.2/UUYsvmXbUt3SYZblXqgjYg--/YXBwaWQ9eXR3bWFsbDtoPTYwMDtxPTEwMDt3PTYwMA--/https://img.yec.tw/fy/a47c/item/p0860258121591-item-eb5bxf4x1000x1000-m.jpg",
+      "url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=p0860258121591",
       "platform": "yahoo_rushbuy"
     },
     {
-      "title": "【ONE HOUSE】五層70寬_升級全碳鋼 洛克免組裝折疊置物架-輕量款 (廚房架/層架/收納架/鐵架/電器架)",
-      "price": 599,
-      "image_url": "https://img.yec.tw/zp/MerchandiseImages/CB12F1A443-SP-20117876.jpg",
-      "url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=11628441",
+      "title": "赫而司 日本多多鈣+維他命D3鈣片速溶錠(60顆*1罐)高單位超微化天然鈣素+瑞士DSM陽光維生素D3",
+      "price": 548,
+      "image_url": "https://img.yec.tw/zp/MerchandiseImages/1752823fdd-Gd-7752951.jpg",
+      "url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=7752951",
       "platform": "yahoo_rushbuy"
     },
     {
-      "title": "御茶園 麥萃無糖麥茶/無咖啡因麥萃奶茶/冰釀麥萃低熱量鋁箔包(300mlx24入) 任選2箱",
-      "price": 439,
-      "image_url": "https://img.yec.tw/zp/MerchandiseImages/A3D874B98D-Gd-12182994.jpg",
-      "url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=12182994",
+      "title": "涼感紗．窄版加長涼感紗毛巾(冰鑽3條組) 【台灣興隆毛巾製】清涼夏日運動必備",
+      "price": 549,
+      "image_url": "https://img.yec.tw/cl/api/res/1.2/JO82BnBOiDkdpRCOKsgCrg--/YXBwaWQ9eXR3bWFsbDtoPTYwMDtxPTEwMDt3PTYwMA--/https://img.yec.tw/fy/329f/item/p0290264572010-item-f95dxf4x0600x0600-m.jpg",
+      "url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=p0290264572010",
       "platform": "yahoo_rushbuy"
     },
     {
-      "title": "【親子天下】《小行星幼兒誌》10期+樂樂小宇宙娃包",
-      "price": 2465,
-      "image_url": "https://img.yec.tw/zp/MerchandiseImages/0625050519-SP-23045888.jpg",
-      "url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=12168265",
-      "platform": "yahoo_rushbuy"
-    },
-    {
-      "title": "【花太太】益智DIY磁力棒積木36pcs",
-      "price": 590,
-      "image_url": "https://img.yec.tw/zp/MerchandiseImages/C70A17348E-SP-21329099.jpg",
-      "url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=11849794",
-      "platform": "yahoo_rushbuy"
-    },
-    {
-      "title": "添寧 長效/夜用透氣防漏成人紙尿褲M/L-XL(6包/箱購,黏貼型)",
-      "price": 1299,
-      "image_url": "https://img.yec.tw/zp/MerchandiseImages/F26E23D20C-SP-21069344.jpg",
-      "url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=11794661",
-      "platform": "yahoo_rushbuy"
-    },
-    {
-      "title": "【MIRAE 未來美】PRO+超級3A煥膚緊緻精華30ml+益比喜 健字號善又美草本複方膠囊(30粒/盒)x3",
-      "price": 3699,
-      "image_url": "https://img.yec.tw/zp/MerchandiseImages/0953DD4D7E-SP-23127345.jpg",
-      "url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=12187231",
-      "platform": "yahoo_rushbuy"
-    },
-    {
-      "title": "BHK's 生物素+MSM 素食膠囊 (60粒/盒)3盒組",
-      "price": 1430,
-      "image_url": "https://img.yec.tw/zp/MerchandiseImages/0B8D4C7F36-SP-22136232.jpg",
-      "url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=12053806",
-      "platform": "yahoo_rushbuy"
-    },
-    {
-      "title": "Asics 亞瑟士 慢跑鞋 男鞋 4E超寬楦 GEL-CONTEND 10【運動世界】1011C250-002/1011C250-003/1011C250-100/1011C250-020",
-      "price": 1499,
-      "image_url": "https://img.yec.tw/cl/api/res/1.2/lb1qUSkpeZWfo9ENv3Edkw--/YXBwaWQ9eXR3bWFsbDtoPTYwMDtxPTEwMDt3PTYwMA--/https://img.yec.tw/fy/f8f9/item/p0268265564061-item-c238xf4x1000x1000-m.jpg",
-      "url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=p0268265564061",
-      "platform": "yahoo_rushbuy"
-    },
-    {
-      "title": "BLUMA銀飾 純銀耳環8款任選 女生925純銀耳環 耳針 垂墜式 情人節禮物 飾品禮盒",
-      "price": 458,
-      "image_url": "https://img.yec.tw/cl/api/res/1.2/H_TiHYzZkpxWiam5ZyI5yw--/YXBwaWQ9eXR3bWFsbDtoPTYwMDtxPTEwMDt3PTYwMA--/https://img.yec.tw/fy/9101/item/p1017266411665-item-9e1cxf4x1000x1000-m.jpg",
-      "url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=p1017266411665",
-      "platform": "yahoo_rushbuy"
-    },
-    {
-      "title": "【PowerHero】L-精胺酸祕魯黑瑪卡膠囊x1盒 (90顆/盒)《30倍濃縮、延長運動時間》",
-      "price": 1290,
-      "image_url": "https://img.yec.tw/zp/MerchandiseImages/9b39982d9e-Gd-9618456.jpg",
-      "url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=9618456",
-      "platform": "yahoo_rushbuy"
-    },
-    {
-      "title": "石墨烯 冰絲機能迷彩 貼身平口褲 (3件組) 涼感平口褲 冰涼紗 涼感內褲 四角褲【DK大王】",
-      "price": 369,
-      "image_url": "https://img.yec.tw/cl/api/res/1.2/aY33850rCSVO2u1ar1oe1g--/YXBwaWQ9eXR3bWFsbDtoPTYwMDtxPTEwMDt3PTYwMA--/https://img.yec.tw/fy/df59/item/p1016266360145-item-5b36xf4x0750x0750-m.jpg",
-      "url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=p1016266360145",
-      "platform": "yahoo_rushbuy"
-    },
-    {
-      "title": "月牙U型冰感舒適靠墊 靠枕 手枕 月亮型減壓 抱枕 追劇靠枕 環繞式 懶人必備",
-      "price": 359,
-      "image_url": "https://img.yec.tw/cl/api/res/1.2/MmrGW5jZoZqFMO8yLlcXsA--/YXBwaWQ9eXR3bWFsbDtoPTYwMDtxPTEwMDt3PTYwMA--/https://img.yec.tw/fy/0eca/item/p0280266377677-item-f2a8xf4x1000x1000-m.jpg",
-      "url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=p0280266377677",
-      "platform": "yahoo_rushbuy"
-    },
-    {
-      "title": "華山基金會x愛心套餐‧認購華山基金會愛心救助D套餐-1個月(購買者不會收到商品)(公益)",
-      "price": 350,
-      "image_url": "https://img.yec.tw/zp/MerchandiseImages/727c1926d8-Gd-10625731.jpg",
-      "url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=10625731",
-      "platform": "yahoo_rushbuy"
-    },
-    {
-      "title": "SNOOPY史努比 紅屋吊飾造型 手機夾片肩背掛繩 (顏色隨機出貨)",
-      "price": 349,
-      "image_url": "https://img.yec.tw/zp/MerchandiseImages/6BA4F6A7FA-SP-22542436.jpg",
-      "url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=12170935",
-      "platform": "yahoo_rushbuy"
-    },
-    {
-      "title": "RASTO 五合一強力磁吸萬向單反鋅合金藍牙自拍桿腳架RN-5",
-      "price": 749,
-      "image_url": "https://img.yec.tw/zp/MerchandiseImages/F6091AB6E6-SP-21388877.jpg",
-      "url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=11861756",
+      "title": "【喜憨兒~送愛到部落】2026中秋禮盒募集 (您不會收到商品)(公益)",
+      "price": 499,
+      "image_url": "https://img.yec.tw/cl/api/res/1.2/4AFoMyETCLxWOUE7UHFzQQ--/YXBwaWQ9eXR3bWFsbDtoPTYwMDtxPTEwMDt3PTYwMA--/https://img.yec.tw/fy/8cfa/item/p0084265534079-item-3bd8xf4x1000x1000-m.jpg",
+      "url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=p0084265534079",
       "platform": "yahoo_rushbuy"
     }
   ],
-  "crawl_time": "2026-08-30 10:58:36"
+  "crawl_time": "2026-08-30 15:47:20"
 }
