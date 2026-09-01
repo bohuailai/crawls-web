@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-09-01T15:49:54.123293",
+  "timestamp": "2026-09-01T20:21:33.112739",
   "platform": "pchome_onsale",
   "keyword": "pchome_onsale",
-  "total_products": 86,
+  "total_products": 84,
   "products": [
     {
       "title": "雅詩蘭黛 小棕瓶100ml 2入組",
@@ -89,13 +89,6 @@
       "platform": "pchome_onsale"
     },
     {
-      "title": "TCL 75吋 4K 全方位護眼低藍光智慧顯示器",
-      "price": "$22,900",
-      "image_url": "https://img.pchome.com.tw/cs/items/DPADT3A900K8OS8/000007_1784622199.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DPADT3-A900K8OS8",
-      "platform": "pchome_onsale"
-    },
-    {
       "title": "威技 14吋DC直流變頻電風扇",
       "price": "$899",
       "image_url": "https://img.pchome.com.tw/cs/items/DMABP5A900I86D3/000007_1735810465.jpg?width=480",
@@ -149,13 +142,6 @@
       "price": "$5,299",
       "image_url": "https://img.pchome.com.tw/cs/items/DEDJ0VA900K3KFF/000007_1781512593.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DEDJ0V-A900K3KFF",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "SANSUI 2.1 重低音環繞家庭劇院藍芽聲霸",
-      "price": "$1,777",
-      "image_url": "https://img.pchome.com.tw/cs/items/DPADFN1900K9OI3/000007_1785292160.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DPADFN-1900K9OI3",
       "platform": "pchome_onsale"
     },
     {
@@ -229,9 +215,9 @@
       "platform": "pchome_onsale"
     },
     {
-      "title": "SONY BRAVIA7 75型 XR Mini LED顯示器",
+      "title": "SONY BRAVIA7 75型 120Hz Mini LED顯示器",
       "price": "$82,700",
-      "image_url": "https://img.pchome.com.tw/cs/items/DPAD06A900KDWAT/000007_1788228833.jpg?width=480",
+      "image_url": "https://img.pchome.com.tw/cs/items/DPAD06A900KDWAT/000007_1788284006.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DPAD06-A900KDWAT",
       "platform": "pchome_onsale"
     },
@@ -607,5 +593,5 @@
       "platform": "pchome_onsale"
     }
   ],
-  "crawl_time": "2026-09-01 15:49:54"
+  "crawl_time": "2026-09-01 20:21:33"
 }
