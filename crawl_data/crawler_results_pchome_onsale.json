@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-09-02T15:42:43.400684",
+  "timestamp": "2026-09-02T20:20:27.741254",
   "platform": "pchome_onsale",
   "keyword": "pchome_onsale",
-  "total_products": 90,
+  "total_products": 88,
   "products": [
     {
       "title": "LUHO 小旅禾 28吋可擴充前開行李箱",
@@ -12,7 +12,7 @@
       "platform": "pchome_onsale"
     },
     {
-      "title": "大研生醫德國頂級魚油x12盒",
+      "title": "大研生醫德國頂級魚油12盒",
       "price": "$9,420",
       "image_url": "https://img.pchome.com.tw/cs/items/DBDF001900C0RH5/000007_1788331319.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DBDF00-1900C0RH5",
@@ -72,20 +72,6 @@
       "price": "$949",
       "image_url": "https://img.pchome.com.tw/cs/items/DAAO7IA900HS2OR/000007_1782092168.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DAAO7I-A900HS2OR",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "小米2.1立體聲無線重低音劇院聲霸",
-      "price": "$4,699",
-      "image_url": "https://img.pchome.com.tw/cs/items/DPADBU1900KAL7K/000007_1785564490.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DPADBU-1900KAL7K",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "TCL 75吋 4K 全方位護眼低藍光I智慧顯示器",
-      "price": "$22,900",
-      "image_url": "https://img.pchome.com.tw/cs/items/DPADT3A900K8OS8/000007_1784622199.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DPADT3-A900K8OS8",
       "platform": "pchome_onsale"
     },
     {
@@ -635,5 +621,5 @@
       "platform": "pchome_onsale"
     }
   ],
-  "crawl_time": "2026-09-02 15:42:43"
+  "crawl_time": "2026-09-02 20:20:27"
 }
