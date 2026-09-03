@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-09-03T15:32:51.560969",
+  "timestamp": "2026-09-03T20:20:43.926808",
   "platform": "pchome_onsale",
   "keyword": "pchome_onsale",
-  "total_products": 98,
+  "total_products": 96,
   "products": [
     {
       "title": "ACER 15.6吋AI效能筆電(Ultra5/16G/512G)",
@@ -103,13 +103,6 @@
       "platform": "pchome_onsale"
     },
     {
-      "title": "OVO 小方塊行動劇院智慧投影機",
-      "price": "$2,222",
-      "image_url": "https://img.pchome.com.tw/cs/items/DPADXZA900K4ZQF/000007_1782144371.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DPADXZ-A900K4ZQF",
-      "platform": "pchome_onsale"
-    },
-    {
       "title": "KIOXIA 鎧俠 128GB 隨身碟",
       "price": "$699",
       "image_url": "https://img.pchome.com.tw/cs/cms/creatives/onsale/6452d98e-e9d4-4583-af0e-90e0469eab06.png?width=480",
@@ -149,13 +142,6 @@
       "price": "$39,640",
       "image_url": "https://img.pchome.com.tw/cs/items/DICBDKA900HS4XS/000007_1742867468.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DICBDK-A900HS4XS",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "小米2.1立體聲無線重低音劇院環繞聲霸",
-      "price": "$4,699",
-      "image_url": "https://img.pchome.com.tw/cs/items/DPADBU1900KAL5V/000007_1785586599.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DPADBU-1900KAL5V",
       "platform": "pchome_onsale"
     },
     {
@@ -691,5 +677,5 @@
       "platform": "pchome_onsale"
     }
   ],
-  "crawl_time": "2026-09-03 15:32:51"
+  "crawl_time": "2026-09-03 20:20:43"
 }
