@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-09-04T15:31:07.735945",
+  "timestamp": "2026-09-04T20:05:46.703825",
   "platform": "pchome_onsale",
   "keyword": "pchome_onsale",
-  "total_products": 94,
+  "total_products": 92,
   "products": [
     {
       "title": "Dyson SV50 鉛筆/筆型吸塵器",
@@ -103,13 +103,6 @@
       "platform": "pchome_onsale"
     },
     {
-      "title": "AIWA 3D立體聲藍芽喇叭音響聲霸",
-      "price": "$999",
-      "image_url": "https://img.pchome.com.tw/cs/items/DPADFN1900K9ADT/000007_1785500090.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DPADFN-1900K9ADT",
-      "platform": "pchome_onsale"
-    },
-    {
       "title": "ACER 宏碁 64GB 記憶卡 三入組",
       "price": "$999",
       "image_url": "https://img.pchome.com.tw/cs/cms/creatives/onsale/8a3fdf5e-01ef-4f79-a3c6-936220679a57.png?width=480",
@@ -170,13 +163,6 @@
       "price": "$26,999",
       "image_url": "https://img.pchome.com.tw/cs/items/DYAWC7A900KC1OW/000007_1788489630.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DYAWC7-A900KC1OW",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "OVO 小方塊行動劇院智慧投影機",
-      "price": "$2,222",
-      "image_url": "https://img.pchome.com.tw/cs/items/DPADXZA900K4ZQF/000007_1782144371.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DPADXZ-A900K4ZQF",
       "platform": "pchome_onsale"
     },
     {
@@ -593,6 +579,13 @@
       "platform": "pchome_onsale"
     },
     {
+      "title": "小米 55吋4K QLED 120Hz雙杜比智慧顯示器",
+      "price": "$10,999",
+      "image_url": "https://img.pchome.com.tw/cs/items/DPADBU1900J6BW6/000007_1761372162.jpg?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DPADBU-1900J6BW6",
+      "platform": "pchome_onsale"
+    },
+    {
       "title": "hoi!好好生活 日京山風洗髮沐浴二入禮盒",
       "price": "$799",
       "image_url": "https://img.pchome.com.tw/cs/items/DQAY02A900KCS5O/000007_1787192492.jpg?width=480",
@@ -611,13 +604,6 @@
       "price": "$8,910",
       "image_url": "https://img.pchome.com.tw/cs/items/DCBR0E1900JAOI8/000007_1762653752.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DCBR0E-1900JAOI8",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "海爾65型4K 120Hz DLG QLED顯示器",
-      "price": "$16,688",
-      "image_url": "https://img.pchome.com.tw/cs/items/DPADLNA900K84SY/000007_1785815705.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DPADLN-A900K84SY",
       "platform": "pchome_onsale"
     },
     {
@@ -649,7 +635,7 @@
       "platform": "pchome_onsale"
     },
     {
-      "title": "Deseno 29.5吋煞車輪前開箱(含真空壓縮機)",
+      "title": "Deseno 29.5吋煞車可壓縮前開箱(含壓縮機)",
       "price": "$7,580",
       "image_url": "https://img.pchome.com.tw/cs/items/DIBKVLA900IXQUK/000007_1750068005.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DIBKVL-A900IXQUK",
@@ -663,5 +649,5 @@
       "platform": "pchome_onsale"
     }
   ],
-  "crawl_time": "2026-09-04 15:31:07"
+  "crawl_time": "2026-09-04 20:05:46"
 }
