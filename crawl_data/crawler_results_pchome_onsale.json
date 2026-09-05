@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-09-05T14:18:51.252565",
+  "timestamp": "2026-09-05T19:45:31.921410",
   "platform": "pchome_onsale",
   "keyword": "pchome_onsale",
-  "total_products": 104,
+  "total_products": 102,
   "products": [
     {
       "title": "PHILIPS 34M2C3500L 34型 曲面電競螢幕",
@@ -65,13 +65,6 @@
       "price": "$19,190",
       "image_url": "https://img.pchome.com.tw/cs/items/DGCS4B1900JY0IT/000007_1788420393.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DGCS4B-1900JY0IT",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "SANSUI 2.1木質重低音環繞劇院藍芽聲霸",
-      "price": "$1,777",
-      "image_url": "https://img.pchome.com.tw/cs/items/DPADFN1900K9OI3/000007_1785292160.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DPADFN-1900K9OI3",
       "platform": "pchome_onsale"
     },
     {
@@ -166,13 +159,6 @@
       "platform": "pchome_onsale"
     },
     {
-      "title": "TCL 98吋 QLED Google TV 量子智能顯示器",
-      "price": "$69,999",
-      "image_url": "https://img.pchome.com.tw/cs/items/DPADT3A900IU5EQ/000007_1747709682.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DPADT3-A900IU5EQ",
-      "platform": "pchome_onsale"
-    },
-    {
       "title": "Deseno 29.5吋煞車可壓縮前開箱(含壓縮機)",
       "price": "$7,580",
       "image_url": "https://img.pchome.com.tw/cs/items/DIBKVLA900IXQUK/000007_1750068005.jpg?width=480",
@@ -208,7 +194,7 @@
       "platform": "pchome_onsale"
     },
     {
-      "title": "白蘭氏黃素精華凍 特別版共90入",
+      "title": "白蘭氏強化型黃素精華凍90入",
       "price": "$4,099",
       "image_url": "https://img.pchome.com.tw/cs/items/DBCL1N1900K0ER4/000007_1786928204.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DBCL1N-1900K0ER4",
@@ -313,6 +299,13 @@
       "platform": "pchome_onsale"
     },
     {
+      "title": "TCL 98吋4K 144Hz QLED APPLE認證顯示器",
+      "price": "$69,999",
+      "image_url": "https://img.pchome.com.tw/cs/items/DPADT3A900IU5EQ/000007_1747709682.jpg?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DPADT3-A900IU5EQ",
+      "platform": "pchome_onsale"
+    },
+    {
       "title": "老協珍熬雞精禮盒(42ml x14入x2盒)",
       "price": "$3,080",
       "image_url": "https://img.pchome.com.tw/cs/items/DBDJ051900FOWPN/000007_1775024570.jpg?width=480",
@@ -359,13 +352,6 @@
       "price": "$1,188",
       "image_url": "https://img.pchome.com.tw/cs/items/DMABKUA900JSHU0/000007_1772783140.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DMABKU-A900JSHU0",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "TCL 98吋 P8K QLED 顯示器",
-      "price": "$69,999",
-      "image_url": "https://img.pchome.com.tw/cs/items/DPADT3A900K7NCP/000007_1783737821.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DPADT3-A900K7NCP",
       "platform": "pchome_onsale"
     },
     {
@@ -678,7 +664,7 @@
     },
     {
       "title": "無印良品【2件組】兒童棉天竺圓領短袖T恤",
-      "price": "$398",
+      "price": "$358",
       "image_url": "https://img.pchome.com.tw/cs/items/DEDK181900KBOO8/000007_1788489821.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DEDK18-1900KBOO8",
       "platform": "pchome_onsale"
@@ -733,5 +719,5 @@
       "platform": "pchome_onsale"
     }
   ],
-  "crawl_time": "2026-09-05 14:18:51"
+  "crawl_time": "2026-09-05 19:45:31"
 }
