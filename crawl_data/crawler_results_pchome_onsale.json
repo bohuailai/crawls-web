@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-09-07T16:56:37.191410",
+  "timestamp": "2026-09-07T20:57:00.319254",
   "platform": "pchome_onsale",
   "keyword": "pchome_onsale",
-  "total_products": 100,
+  "total_products": 98,
   "products": [
     {
       "title": "ROG XREAL R1 Edition20 電競AR",
@@ -149,20 +149,6 @@
       "price": "$1,399",
       "image_url": "https://img.pchome.com.tw/cs/items/DQBA6JA900KCJOV/000007_1787039204.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DQBA6J-A900KCJOV",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "Hisense 65型4K 120Hz APPLE認證智慧顯示器",
-      "price": "$12,999",
-      "image_url": "https://img.pchome.com.tw/cs/items/DPAD98A900JX77S/000007_1784017420.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DPAD98-A900JX77S",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "AIWA 愛華3D立體聲藍芽喇叭音響聲霸",
-      "price": "$999",
-      "image_url": "https://img.pchome.com.tw/cs/items/DPADFN1900K9ADT/000007_1785500090.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DPADFN-1900K9ADT",
       "platform": "pchome_onsale"
     },
     {
@@ -705,5 +691,5 @@
       "platform": "pchome_onsale"
     }
   ],
-  "crawl_time": "2026-09-07 16:56:37"
+  "crawl_time": "2026-09-07 20:57:00"
 }
