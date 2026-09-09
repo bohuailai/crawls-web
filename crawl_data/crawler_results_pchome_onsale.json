@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-09T15:39:31.543137",
+  "timestamp": "2026-09-09T20:14:25.336515",
   "platform": "pchome_onsale",
   "keyword": "pchome_onsale",
   "total_products": 94,
@@ -103,10 +103,10 @@
       "platform": "pchome_onsale"
     },
     {
-      "title": "ACER 宏碁 128GB 記憶卡",
-      "price": "$559",
-      "image_url": "https://img.pchome.com.tw/cs/cms/creatives/onsale/e79e3ebc-03f6-4c2b-9336-cc51989a3e9b.png?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DGAG5F-A900KC0YS",
+      "title": "MSI 微星SPATIUM M470 Pro 1TB SSD",
+      "price": "$4,699",
+      "image_url": "https://img.pchome.com.tw/cs/items/DRAHEYA900KDB1P/000007_1787568014.jpg?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DRAHEY-A900KDB1P",
       "platform": "pchome_onsale"
     },
     {
@@ -663,5 +663,5 @@
       "platform": "pchome_onsale"
     }
   ],
-  "crawl_time": "2026-09-09 15:39:31"
+  "crawl_time": "2026-09-09 20:14:25"
 }
