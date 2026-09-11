@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-11T15:36:53.282858",
+  "timestamp": "2026-09-11T20:16:07.323227",
   "platform": "pchome_onsale",
   "keyword": "pchome_onsale",
   "total_products": 90,
@@ -89,17 +89,17 @@
       "platform": "pchome_onsale"
     },
     {
-      "title": "金士頓 128GB Type-C 雙頭隨身碟",
-      "price": "$399",
-      "image_url": "https://img.pchome.com.tw/cs/cms/creatives/onsale/f118a6f9-c547-4b50-95c6-7950d5eadcd3.png?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DGCD15-A900JWVD6",
+      "title": "十銓 512GB TYPE-C 雙頭高速隨身碟",
+      "price": "$2,099",
+      "image_url": "https://img.pchome.com.tw/cs/cms/creatives/onsale/662efb32-0cdf-4379-87bb-0cc32d73aaf8.png?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DGCD1P-A900HQCU6",
       "platform": "pchome_onsale"
     },
     {
-      "title": "ACER 宏碁 64GB 記憶卡 三入組",
-      "price": "$999",
-      "image_url": "https://img.pchome.com.tw/cs/cms/creatives/onsale/c7150603-f7f3-4fc0-9354-add4ba2bf487.png?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DGAG5F-1900K47UM",
+      "title": "SanDisk 512GB 高速記憶卡",
+      "price": "$2,699",
+      "image_url": "https://img.pchome.com.tw/cs/items/DGAG0HA900JZ8NM/000007_1777964280.jpg?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DGAG0H-A900JZ8NM",
       "platform": "pchome_onsale"
     },
     {
@@ -257,10 +257,10 @@
       "platform": "pchome_onsale"
     },
     {
-      "title": "TCL 98吋144Hz QLED APPLE認證顯示器",
-      "price": "$69,999",
-      "image_url": "https://img.pchome.com.tw/cs/items/DPADT3A900K7NCP/000007_1783737821.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DPADT3-A900K7NCP",
+      "title": "Samsung 65型QLED 4K APPLE認證顯示器",
+      "price": "$24,900",
+      "image_url": "https://img.pchome.com.tw/cs/items/DPADEWA900J54YI/000007_1788864808.jpg?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DPADEW-A900J54YI",
       "platform": "pchome_onsale"
     },
     {
@@ -635,5 +635,5 @@
       "platform": "pchome_onsale"
     }
   ],
-  "crawl_time": "2026-09-11 15:36:53"
+  "crawl_time": "2026-09-11 20:16:07"
 }
