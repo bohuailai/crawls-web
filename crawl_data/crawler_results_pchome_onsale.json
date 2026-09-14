@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-09-14T17:19:34.471993",
+  "timestamp": "2026-09-14T21:13:47.349636",
   "platform": "pchome_onsale",
   "keyword": "pchome_onsale",
-  "total_products": 86,
+  "total_products": 84,
   "products": [
     {
       "title": "Samsung Galaxy Z Fold8 Ultra (12G/512G)",
@@ -79,20 +79,6 @@
       "price": "$1,511",
       "image_url": "https://img.pchome.com.tw/cs/items/DSACZTA9005E9EY/000007_1619670280.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DSACZT-A9005E9EY",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "Samsung 65型QLED 4K AI微邊框智慧顯示器",
-      "price": "$24,900",
-      "image_url": "https://img.pchome.com.tw/cs/items/DPADEWA900J54YI/000007_1788864808.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DPADEW-A900J54YI",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "SANSUI 山水藍芽家庭劇院環繞聲霸",
-      "price": "$999",
-      "image_url": "https://img.pchome.com.tw/cs/items/DPADFN1900K9FDI/000007_1785153707.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DPADFN-1900K9FDI",
       "platform": "pchome_onsale"
     },
     {
@@ -259,7 +245,7 @@
     {
       "title": "益節 UC-II加強型迷你錠(30錠x3瓶)",
       "price": "$2,498",
-      "image_url": "https://img.pchome.com.tw/cs/items/DBAV0MA900JPEQX/000007_1789403119.jpg?width=480",
+      "image_url": "https://img.pchome.com.tw/cs/items/DBAV0MA900JPEQX/000007_1789407330.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DBAV0M-A900JPEQX",
       "platform": "pchome_onsale"
     },
@@ -434,7 +420,7 @@
     {
       "title": "益節 UC-II加強型迷你錠(30錠x3瓶)",
       "price": "$2,498",
-      "image_url": "https://img.pchome.com.tw/cs/items/DBAV0MA900JPEQX/000007_1789403119.jpg?width=480",
+      "image_url": "https://img.pchome.com.tw/cs/items/DBAV0MA900JPEQX/000007_1789407330.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DBAV0M-A900JPEQX",
       "platform": "pchome_onsale"
     },
@@ -511,7 +497,7 @@
     {
       "title": "益節 UC-II加強型迷你錠(30錠x3瓶)",
       "price": "$2,498",
-      "image_url": "https://img.pchome.com.tw/cs/items/DBAV0MA900JPEQX/000007_1789403119.jpg?width=480",
+      "image_url": "https://img.pchome.com.tw/cs/items/DBAV0MA900JPEQX/000007_1789407330.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DBAV0M-A900JPEQX",
       "platform": "pchome_onsale"
     },
@@ -607,5 +593,5 @@
       "platform": "pchome_onsale"
     }
   ],
-  "crawl_time": "2026-09-14 17:19:34"
+  "crawl_time": "2026-09-14 21:13:47"
 }
