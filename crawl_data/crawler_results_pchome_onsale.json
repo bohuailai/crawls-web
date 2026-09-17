@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-09-17T15:57:13.451992",
+  "timestamp": "2026-09-17T20:47:54.815041",
   "platform": "pchome_onsale",
   "keyword": "pchome_onsale",
-  "total_products": 84,
+  "total_products": 82,
   "products": [
     {
       "title": "颶風俠X3 MINI 手持強力吹塵槍",
@@ -138,13 +138,6 @@
       "platform": "pchome_onsale"
     },
     {
-      "title": "Samsung 65型QLED 4K AI微邊框智慧顯示器",
-      "price": "$24,900",
-      "image_url": "https://img.pchome.com.tw/cs/items/DPADEWA900J54YI/000007_1788864808.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DPADEW-A900J54YI",
-      "platform": "pchome_onsale"
-    },
-    {
       "title": "KIOXIA 鎧俠 128GB 隨身碟",
       "price": "$699",
       "image_url": "https://img.pchome.com.tw/cs/cms/creatives/onsale/5d049846-fd1b-48eb-970f-17bdf467c46e.png?width=480",
@@ -163,13 +156,6 @@
       "price": "$999",
       "image_url": "https://img.pchome.com.tw/cs/cms/creatives/onsale/3c67fe01-0608-464a-b18d-d8daf86f22f7.png?width=480",
       "url": "https://24h.pchome.com.tw/prod/DGAG5F-1900KGA99",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "OVO Warpple 短焦雲台HD智慧投影機",
-      "price": "$2,222",
-      "image_url": "https://img.pchome.com.tw/cs/items/DPADFN1900K50BQ/000007_1785928376.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DPADFN-1900K50BQ",
       "platform": "pchome_onsale"
     },
     {
@@ -593,5 +579,5 @@
       "platform": "pchome_onsale"
     }
   ],
-  "crawl_time": "2026-09-17 15:57:13"
+  "crawl_time": "2026-09-17 20:47:54"
 }
