@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-09-19T15:06:18.459394",
+  "timestamp": "2026-09-19T19:49:26.648543",
   "platform": "pchome_onsale",
   "keyword": "pchome_onsale",
-  "total_products": 96,
+  "total_products": 94,
   "products": [
     {
       "title": "美國探險家26/29吋PN5煞車輪行李箱/胖胖箱",
@@ -149,20 +149,6 @@
       "price": "$589",
       "image_url": "https://img.pchome.com.tw/cs/cms/creatives/onsale/0cd36a15-1b06-445f-b771-8e38e5d754da.png?width=480",
       "url": "https://24h.pchome.com.tw/prod/DGAG6S-A900JXKFF",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "Samsung 65型QLED 4K AI微邊框智慧顯示器",
-      "price": "$24,900",
-      "image_url": "https://img.pchome.com.tw/cs/items/DPADEWA900J54YI/000007_1788864808.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DPADEW-A900J54YI",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "AIWA 愛華3D立體聲藍芽喇叭音響聲霸",
-      "price": "$999",
-      "image_url": "https://img.pchome.com.tw/cs/items/DPADFN1900K9ADT/000007_1785500090.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DPADFN-1900K9ADT",
       "platform": "pchome_onsale"
     },
     {
@@ -377,7 +363,7 @@
     },
     {
       "title": "Lenor 蘭諾衣物芳香豆補充包X3",
-      "price": "$799",
+      "price": "$749",
       "image_url": "https://img.pchome.com.tw/cs/items/DAAK8V1900K1NPU/000007_1781257191.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DAAK8V-1900K1NPU",
       "platform": "pchome_onsale"
@@ -677,5 +663,5 @@
       "platform": "pchome_onsale"
     }
   ],
-  "crawl_time": "2026-09-19 15:06:18"
+  "crawl_time": "2026-09-19 19:49:26"
 }
