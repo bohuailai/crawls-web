@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-09-20T15:10:13.378692",
+  "timestamp": "2026-09-20T20:03:18.348624",
   "platform": "pchome_onsale",
   "keyword": "pchome_onsale",
-  "total_products": 91,
+  "total_products": 89,
   "products": [
     {
       "title": "亞培原味安素HMB升級配方(237mlx30入x2箱)",
@@ -152,13 +152,6 @@
       "platform": "pchome_onsale"
     },
     {
-      "title": "Samsung 65型QLED 4K AI微邊框智慧顯示器",
-      "price": "$24,900",
-      "image_url": "https://img.pchome.com.tw/cs/items/DPADEWA900J54YI/000007_1788864808.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DPADEW-A900J54YI",
-      "platform": "pchome_onsale"
-    },
-    {
       "title": "日立變頻冷專10坪內雙吹窗型冷氣",
       "price": "$28,800",
       "image_url": "https://img.pchome.com.tw/cs/items/DPAF981900JKBBT/000007_1782877055.jpg?width=480",
@@ -177,13 +170,6 @@
       "price": "$6,900",
       "image_url": "https://img.pchome.com.tw/cs/items/DEAKXMA900JZ9W0/000007_1779066646.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DEAKXM-A900JZ9W0",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "AIWA 愛華3D立體聲藍芽喇叭音響聲霸",
-      "price": "$999",
-      "image_url": "https://img.pchome.com.tw/cs/items/DPADFN1900K9ADT/000007_1785500090.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DPADFN-1900K9ADT",
       "platform": "pchome_onsale"
     },
     {
@@ -642,5 +628,5 @@
       "platform": "pchome_onsale"
     }
   ],
-  "crawl_time": "2026-09-20 15:10:13"
+  "crawl_time": "2026-09-20 20:03:18"
 }
