@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-09-25T16:13:40.294019",
+  "timestamp": "2026-09-25T20:55:44.299224",
   "platform": "pchome_onsale",
   "keyword": "pchome_onsale",
-  "total_products": 92,
+  "total_products": 90,
   "products": [
     {
       "title": "資生堂 百優精純乳霜 75ml",
@@ -96,13 +96,6 @@
       "platform": "pchome_onsale"
     },
     {
-      "title": "Hisense 65型4K 120Hz APPLE認證智慧顯示器",
-      "price": "$12,999",
-      "image_url": "https://img.pchome.com.tw/cs/items/DPAD98A900JX77S/000007_1789918000.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DPAD98-A900JX77S",
-      "platform": "pchome_onsale"
-    },
-    {
       "title": "ASUS 16吋i5商用筆電",
       "price": "$27,999",
       "image_url": "https://img.pchome.com.tw/cs/items/DHAFREA900K16DA/000007_1779276457.jpg?width=480",
@@ -173,13 +166,6 @@
       "platform": "pchome_onsale"
     },
     {
-      "title": "OVO 沃朋小方塊行動劇院智慧投影機",
-      "price": "$2,222",
-      "image_url": "https://img.pchome.com.tw/cs/items/DPADXZA900K4ZQF/000007_1782144371.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DPADXZ-A900K4ZQF",
-      "platform": "pchome_onsale"
-    },
-    {
       "title": "金士頓 256GB TYPE-C 雙頭隨身碟",
       "price": "$749",
       "image_url": "https://img.pchome.com.tw/cs/cms/creatives/onsale/e3c8ae7e-ed2d-4e3c-a513-7fc5a5666438.png?width=480",
@@ -188,7 +174,7 @@
     },
     {
       "title": "立達 直插式 帶線行動電源 支援手機/Watch",
-      "price": "$380",
+      "price": "$349",
       "image_url": "https://img.pchome.com.tw/cs/items/DYAO47A900IB4BV/000007_1790217283.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DYAO47-A900IB4BV",
       "platform": "pchome_onsale"
@@ -342,7 +328,7 @@
     },
     {
       "title": "立達 直插式 帶線行動電源 支援手機/Watch",
-      "price": "$380",
+      "price": "$349",
       "image_url": "https://img.pchome.com.tw/cs/items/DYAO47A900IB4BV/000007_1790217283.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DYAO47-A900IB4BV",
       "platform": "pchome_onsale"
@@ -355,7 +341,7 @@
       "platform": "pchome_onsale"
     },
     {
-      "title": "UKKO 100W 氮化鎵 溫控4孔充電器",
+      "title": "UKKO 100W氮化鎵 智能溫控4孔(3C1A)充電器",
       "price": "$799",
       "image_url": "https://img.pchome.com.tw/cs/items/DYBD001900I2DYO/000007_1763948783.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DYBD00-1900I2DYO",
@@ -489,7 +475,7 @@
     },
     {
       "title": "立達 直插式 帶線行動電源 支援手機/Watch",
-      "price": "$380",
+      "price": "$349",
       "image_url": "https://img.pchome.com.tw/cs/items/DYAO47A900IB4BV/000007_1790217283.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DYAO47-A900IB4BV",
       "platform": "pchome_onsale"
@@ -649,5 +635,5 @@
       "platform": "pchome_onsale"
     }
   ],
-  "crawl_time": "2026-09-25 16:13:40"
+  "crawl_time": "2026-09-25 20:55:44"
 }
