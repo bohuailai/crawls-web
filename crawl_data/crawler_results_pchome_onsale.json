@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-09-26T15:27:48.930497",
+  "timestamp": "2026-09-26T20:26:28.369409",
   "platform": "pchome_onsale",
   "keyword": "pchome_onsale",
-  "total_products": 104,
+  "total_products": 102,
   "products": [
     {
       "title": "立達 直插式 帶線行動電源 支援手機/Watch",
@@ -61,13 +61,6 @@
       "platform": "pchome_onsale"
     },
     {
-      "title": "Hisense 65型4K 120Hz APPLE認證智慧顯示器",
-      "price": "$12,999",
-      "image_url": "https://img.pchome.com.tw/cs/items/DPAD98A900JX77S/000007_1789918000.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DPAD98-A900JX77S",
-      "platform": "pchome_onsale"
-    },
-    {
       "title": "金士頓 256GB TYPE-C 雙頭隨身碟",
       "price": "$749",
       "image_url": "https://img.pchome.com.tw/cs/cms/creatives/onsale/eda552b1-9802-4f11-9970-0c3a64b71f60.png?width=480",
@@ -86,13 +79,6 @@
       "price": "$1,488",
       "image_url": "https://img.pchome.com.tw/cs/items/DCBW01A900HL03Y/000007_1718699690.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DCBW01-A900HL03Y",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "OVO 沃朋小方塊行動劇院智慧投影機",
-      "price": "$2,222",
-      "image_url": "https://img.pchome.com.tw/cs/items/DPADXZA900K4ZQF/000007_1782144371.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DPADXZ-A900K4ZQF",
       "platform": "pchome_onsale"
     },
     {
@@ -392,7 +378,7 @@
     {
       "title": "白蘭動力配方洗碗精_箱購2.8kgx4",
       "price": "$555",
-      "image_url": "https://img.pchome.com.tw/cs/items/DAAZ43A900HSZ26/000007_1726209973.jpg?width=480",
+      "image_url": "https://img.pchome.com.tw/cs/items/DAAZ43A900HSZ26/000007_1790448660.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DAAZ43-A900HSZ26",
       "platform": "pchome_onsale"
     },
@@ -733,5 +719,5 @@
       "platform": "pchome_onsale"
     }
   ],
-  "crawl_time": "2026-09-26 15:27:48"
+  "crawl_time": "2026-09-26 20:26:28"
 }
