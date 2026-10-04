@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-10-04T16:14:41.372520",
+  "timestamp": "2026-10-04T20:42:59.775730",
   "platform": "pchome_onsale",
   "keyword": "pchome_onsale",
-  "total_products": 95,
+  "total_products": 94,
   "products": [
     {
       "title": "船井 FIP100纖維粉10盒團購組(含贈共154包)",
@@ -68,13 +68,6 @@
       "platform": "pchome_onsale"
     },
     {
-      "title": "Samsung 43型 4K QLED AI 智慧顯示器 43Q7F",
-      "price": "$14,900",
-      "image_url": "https://img.pchome.com.tw/cs/items/DPADEWA900JKR85/000007_1767277925.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DPADEW-A900JKR85",
-      "platform": "pchome_onsale"
-    },
-    {
       "title": "SABON 輕潤沐浴油 500ml",
       "price": "$799",
       "image_url": "https://img.pchome.com.tw/cs/items/DDCCBDA900K7XR9/000007_1785208005.jpg?width=480",
@@ -100,13 +93,6 @@
       "price": "$499",
       "image_url": "https://img.pchome.com.tw/cs/items/DBALB21900HZB72/000007_1783501755.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DBALB2-1900HZB72",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "mimax 55型 4K 低藍光護眼液晶螢幕顯示器",
-      "price": "$9,999",
-      "image_url": "https://img.pchome.com.tw/cs/items/DPADHK1900KJ1EO/000007_1790962374.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DPADHK-1900KJ1EO",
       "platform": "pchome_onsale"
     },
     {
@@ -205,6 +191,13 @@
       "price": "$115",
       "image_url": "https://img.pchome.com.tw/cs/items/DBCRQCA900KGBF8/000007_1789541406.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DBCRQC-A900KGBF8",
+      "platform": "pchome_onsale"
+    },
+    {
+      "title": "SanDisk Extreme 512GB 高速記憶卡",
+      "price": "$2,699",
+      "image_url": "https://img.pchome.com.tw/cs/items/DGAG0HA900JZ8NM/000007_1777964280.jpg?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DGAG0H-A900JZ8NM",
       "platform": "pchome_onsale"
     },
     {
@@ -670,5 +663,5 @@
       "platform": "pchome_onsale"
     }
   ],
-  "crawl_time": "2026-10-04 16:14:41"
+  "crawl_time": "2026-10-04 20:42:59"
 }
