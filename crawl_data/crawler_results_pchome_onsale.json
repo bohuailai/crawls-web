@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-05T13:09:32.271916",
+  "timestamp": "2026-10-05T23:31:20.700606",
   "platform": "pchome_onsale",
   "keyword": "pchome_onsale",
   "total_products": 88,
@@ -14,7 +14,7 @@
     {
       "title": "SanDisk Extreme 512GB 高速記憶卡",
       "price": "$2,699",
-      "image_url": "https://img.pchome.com.tw/cs/items/DGAG0HA900JZ8NM/000007_1791183272.jpg?width=480",
+      "image_url": "https://img.pchome.com.tw/cs/items/DGAG0HA900JZ8NM/000007_1791241919.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DGAG0H-A900JZ8NM",
       "platform": "pchome_onsale"
     },
@@ -621,5 +621,5 @@
       "platform": "pchome_onsale"
     }
   ],
-  "crawl_time": "2026-10-05 13:09:32"
+  "crawl_time": "2026-10-05 23:31:20"
 }
