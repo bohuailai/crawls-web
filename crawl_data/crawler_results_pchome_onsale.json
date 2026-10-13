@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-10-12T14:00:43.432854",
+  "timestamp": "2026-10-12T23:59:34.546371",
   "platform": "pchome_onsale",
   "keyword": "pchome_onsale",
-  "total_products": 92,
+  "total_products": 88,
   "products": [
     {
       "title": "Sennheiser 4代 耳罩藍牙耳機",
@@ -26,13 +26,6 @@
       "platform": "pchome_onsale"
     },
     {
-      "title": "金士頓 256GB TYPE-C 雙頭隨身碟",
-      "price": "$799",
-      "image_url": "https://img.pchome.com.tw/cs/cms/creatives/onsale/575d6c55-55cd-401b-b383-da0126a1bdd2.png?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DGCD15-A900K0VFM",
-      "platform": "pchome_onsale"
-    },
-    {
       "title": "夏普 12L除菌除濕機",
       "price": "$7,999",
       "image_url": "https://img.pchome.com.tw/cs/items/DMBQ08A900JPCL1/000007_1770174269.jpg?width=480",
@@ -51,13 +44,6 @@
       "price": "$54,605",
       "image_url": "https://img.pchome.com.tw/cs/items/DGCB7E1900KFDZF/000007_1789092864.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DGCB7E-1900KFDZF",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "Samsung 65型QLED 4K APPLE認證顯示器",
-      "price": "$23,900",
-      "image_url": "https://img.pchome.com.tw/cs/items/DPADEWA900J54YI/000007_1789917287.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DPADEW-A900J54YI",
       "platform": "pchome_onsale"
     },
     {
@@ -124,13 +110,6 @@
       "platform": "pchome_onsale"
     },
     {
-      "title": "ACER 宏碁 128GB 記憶卡",
-      "price": "$579",
-      "image_url": "https://img.pchome.com.tw/cs/cms/creatives/onsale/59aa4181-05fb-4fa6-94b8-dfc3a8884726.png?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DGAG5F-A900KC0YS",
-      "platform": "pchome_onsale"
-    },
-    {
       "title": "Xiaomi 小米智慧氣炸鍋 4.5L",
       "price": "$1,499",
       "image_url": "https://img.pchome.com.tw/cs/items/DMAG5EA900HUNSK/000007_1731948977.jpg?width=480",
@@ -177,13 +156,6 @@
       "price": "$1,899",
       "image_url": "https://img.pchome.com.tw/cs/items/DAAO3WA900GCX0R/000007_1684918744.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DAAO3W-A900GCX0R",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "TCL 85型4K 原生144Hz Mini LED控光顯示器",
-      "price": "$43,111",
-      "image_url": "https://img.pchome.com.tw/cs/items/DPADT3A900K8ORF/000007_1790606502.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DPADT3-A900K8ORF",
       "platform": "pchome_onsale"
     },
     {
@@ -649,5 +621,5 @@
       "platform": "pchome_onsale"
     }
   ],
-  "crawl_time": "2026-10-12 14:00:43"
+  "crawl_time": "2026-10-12 23:59:34"
 }
