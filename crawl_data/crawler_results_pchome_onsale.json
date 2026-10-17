@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-10-17T14:43:57.058044",
+  "timestamp": "2026-10-17T19:54:47.701163",
   "platform": "pchome_onsale",
   "keyword": "pchome_onsale",
-  "total_products": 94,
+  "total_products": 92,
   "products": [
     {
       "title": "雷蛇 BlackShark V3 Pro 無線電競耳麥",
@@ -40,13 +40,6 @@
       "platform": "pchome_onsale"
     },
     {
-      "title": "Tree Top 樹頂蘋果汁200ml (24入x2箱)",
-      "price": "$699",
-      "image_url": "https://img.pchome.com.tw/cs/items/DBAJ9Q1900IKWEV/000007_1744855253.jpg",
-      "url": "https://24h.pchome.com.tw/prod/DBAJ9Q-1900IKWEV",
-      "platform": "pchome_onsale"
-    },
-    {
       "title": "OSIM 護眼樂Air 2 OS-1251",
       "price": "$3,799",
       "image_url": "https://img.pchome.com.tw/cs/items/DMAD1LA900J3VBZ/000007_1754536083.jpg",
@@ -58,13 +51,6 @@
       "price": "$9,690",
       "image_url": "https://img.pchome.com.tw/cs/items/DYAJ8PA900KFZIS/000007_1789367773.jpg",
       "url": "https://24h.pchome.com.tw/prod/DYAJ8P-A900KFZIS",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "CHiQ 啟客43型QLED 智慧聯網液晶顯示器",
-      "price": "$6,831",
-      "image_url": "https://img.pchome.com.tw/cs/items/DPADTOA900JNMOE/000007_1769703784.jpg",
-      "url": "https://24h.pchome.com.tw/prod/DPADTO-A900JNMOE",
       "platform": "pchome_onsale"
     },
     {
@@ -138,13 +124,6 @@
       "platform": "pchome_onsale"
     },
     {
-      "title": "Haier 55型4K 120Hz護眼 AI智慧遊戲顯示器",
-      "price": "$11,111",
-      "image_url": "https://img.pchome.com.tw/cs/items/DPADLN1900KASB9/000007_1791789286.jpg",
-      "url": "https://24h.pchome.com.tw/prod/DPADLN-1900KASB9",
-      "platform": "pchome_onsale"
-    },
-    {
       "title": "華碩 Dual RTX 5060 Ti 16G OC顯示卡",
       "price": "$25,590",
       "image_url": "https://img.pchome.com.tw/cs/items/DRADKY1900K2EWF/000007_1792142073.jpg",
@@ -156,6 +135,13 @@
       "price": "$2,699",
       "image_url": "https://img.pchome.com.tw/cs/items/DXAQ24A900K4F77/000007_1781602204.jpg",
       "url": "https://24h.pchome.com.tw/prod/DXAQ24-A900K4F77",
+      "platform": "pchome_onsale"
+    },
+    {
+      "title": "Tree Top 樹頂蘋果汁200ml (24入x2箱)",
+      "price": "$699",
+      "image_url": "https://img.pchome.com.tw/cs/items/DBAJ9Q1900IKWEV/000007_1744855253.jpg",
+      "url": "https://24h.pchome.com.tw/prod/DBAJ9Q-1900IKWEV",
       "platform": "pchome_onsale"
     },
     {
@@ -663,5 +649,5 @@
       "platform": "pchome_onsale"
     }
   ],
-  "crawl_time": "2026-10-17 14:43:57"
+  "crawl_time": "2026-10-17 19:54:47"
 }
