@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-10-20T16:05:58.831041",
+  "timestamp": "2026-10-20T21:03:30.613045",
   "platform": "pchome_onsale",
   "keyword": "pchome_onsale",
-  "total_products": 88,
+  "total_products": 86,
   "products": [
     {
       "title": "ASUS 15.6吋十核心16G商用筆電",
@@ -51,20 +51,6 @@
       "price": "$1,188",
       "image_url": "https://img.pchome.com.tw/cs/items/DDCN001900KL0RI/000007_1792122936.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DDCN00-1900KL0RI",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "TCL 43型4K 高階QLED APPLE認證AI幕顯示器",
-      "price": "$9,911",
-      "image_url": "https://img.pchome.com.tw/cs/items/DPADT3A900K8OS0/000007_1784621997.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DPADT3-A900K8OS0",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "海爾55型4K 120Hz AI智慧遊戲顯示器",
-      "price": "$11,111",
-      "image_url": "https://img.pchome.com.tw/cs/items/DPADLN1900KASB9/000007_1791789286.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DPADLN-1900KASB9",
       "platform": "pchome_onsale"
     },
     {
@@ -160,7 +146,7 @@
     },
     {
       "title": "BRITA 去水垢專家濾芯9入",
-      "price": "$2,039",
+      "price": "$1,839",
       "image_url": "https://img.pchome.com.tw/cs/items/DEAY3YA900IZ20A/000007_1792471067.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DEAY3Y-A900IZ20A",
       "platform": "pchome_onsale"
@@ -314,7 +300,7 @@
     },
     {
       "title": "BRITA 去水垢專家濾芯9入",
-      "price": "$2,039",
+      "price": "$1,839",
       "image_url": "https://img.pchome.com.tw/cs/items/DEAY3YA900IZ20A/000007_1792471067.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DEAY3Y-A900IZ20A",
       "platform": "pchome_onsale"
@@ -468,7 +454,7 @@
     },
     {
       "title": "BRITA 去水垢專家濾芯9入",
-      "price": "$2,039",
+      "price": "$1,839",
       "image_url": "https://img.pchome.com.tw/cs/items/DEAY3YA900IZ20A/000007_1792471067.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DEAY3Y-A900IZ20A",
       "platform": "pchome_onsale"
@@ -621,5 +607,5 @@
       "platform": "pchome_onsale"
     }
   ],
-  "crawl_time": "2026-10-20 16:05:58"
+  "crawl_time": "2026-10-20 21:03:30"
 }
