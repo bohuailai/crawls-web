@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-10-21T16:22:22.961478",
+  "timestamp": "2026-10-21T21:04:27.419209",
   "platform": "pchome_onsale",
   "keyword": "pchome_onsale",
-  "total_products": 92,
+  "total_products": 90,
   "products": [
     {
       "title": "BRITA 去水垢專家濾芯9入",
@@ -117,13 +117,6 @@
       "platform": "pchome_onsale"
     },
     {
-      "title": "Haier 55型4K 120Hz 德國護眼AI遊戲顯示器",
-      "price": "$10,111",
-      "image_url": "https://img.pchome.com.tw/cs/items/DPADLN1900KASB9/000007_1791789286.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DPADLN-1900KASB9",
-      "platform": "pchome_onsale"
-    },
-    {
       "title": "Biwin 佰維 記憶卡 64GB 3入組",
       "price": "$959",
       "image_url": "https://img.pchome.com.tw/cs/cms/creatives/onsale/75e34b3e-9e10-4a8a-920f-4ce3ba2d9847.png?width=480",
@@ -142,13 +135,6 @@
       "price": "$3,490",
       "image_url": "https://img.pchome.com.tw/cs/items/DEAW63A900GYKXF/000007_1761659644.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DEAW63-A900GYKXF",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "TOSHIBA REGZA 50型4K GoogleTV顯示器",
-      "price": "$10,900",
-      "image_url": "https://img.pchome.com.tw/cs/items/DPADO51900J7XBS/000007_1767779544.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DPADO5-1900J7XBS",
       "platform": "pchome_onsale"
     },
     {
@@ -649,5 +635,5 @@
       "platform": "pchome_onsale"
     }
   ],
-  "crawl_time": "2026-10-21 16:22:22"
+  "crawl_time": "2026-10-21 21:04:27"
 }
