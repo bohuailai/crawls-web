@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-23T16:11:14.002915",
+  "timestamp": "2026-10-23T20:50:21.954528",
   "platform": "pchome_onsale",
   "keyword": "pchome_onsale",
   "total_products": 88,
@@ -188,7 +188,7 @@
     },
     {
       "title": "羅技G502 X LIGHTSPEED 高效能無線電競滑鼠",
-      "price": "$2,990",
+      "price": "$2,790",
       "image_url": "https://img.pchome.com.tw/cs/items/DSAR5FA900IOG86/000007_1745815545.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DSAR5F-A900IOG86",
       "platform": "pchome_onsale"
@@ -334,13 +334,6 @@
       "platform": "pchome_onsale"
     },
     {
-      "title": "RAZER Viper V4 PRO超輕量無線電競滑鼠",
-      "price": "$4,911",
-      "image_url": "https://img.pchome.com.tw/cs/items/DCBF01A900JT9NN/000007_1774490813.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DCBF01-A900JT9NN",
-      "platform": "pchome_onsale"
-    },
-    {
       "title": "TP-Link WiFi 7 BE17000三頻10G路由器(3入)",
       "price": "$16,999",
       "image_url": "https://img.pchome.com.tw/cs/items/DRAN08A900JHOFI/000007_1764043714.jpg?width=480",
@@ -362,8 +355,8 @@
       "platform": "pchome_onsale"
     },
     {
-      "title": "羅技MX Mechanical 鍵盤 - 茶軸",
-      "price": "$3,990",
+      "title": "羅技MX Mechanical 鍵盤",
+      "price": "$3,790",
       "image_url": "https://img.pchome.com.tw/cs/items/DSAR0VA900F7PHH/000007_1789552530.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DSAR0V-A900F7PHH",
       "platform": "pchome_onsale"
@@ -443,6 +436,13 @@
       "price": "$35,900",
       "image_url": "https://img.pchome.com.tw/cs/items/DHAEIWA900KB5CP/000007_1785998048.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DHAEIW-A900KB5CP",
+      "platform": "pchome_onsale"
+    },
+    {
+      "title": "RAZER Viper V3 PRO EVA-02聯名款滑鼠",
+      "price": "$3,611",
+      "image_url": "https://img.pchome.com.tw/cs/items/DCBF01A900JOEVX/000007_1769420660.jpg?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DCBF01-A900JOEVX",
       "platform": "pchome_onsale"
     },
     {
@@ -621,5 +621,5 @@
       "platform": "pchome_onsale"
     }
   ],
-  "crawl_time": "2026-10-23 16:11:14"
+  "crawl_time": "2026-10-23 20:50:21"
 }
