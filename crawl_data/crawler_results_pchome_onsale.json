@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-10-31T16:35:44.758188",
+  "timestamp": "2026-10-31T20:50:16.208293",
   "platform": "pchome_onsale",
   "keyword": "pchome_onsale",
-  "total_products": 173,
+  "total_products": 178,
   "products": [
     {
       "title": "KIOXIA Exceria G2 2TB 高效能 SSD",
@@ -124,13 +124,6 @@
       "platform": "pchome_onsale"
     },
     {
-      "title": "山田 11公升智慧除濕機",
-      "price": "$5,499",
-      "image_url": "https://img.pchome.com.tw/cs/items/DMBQ04A900KCDWE/000007_1786938326.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DMBQ04-A900KCDWE",
-      "platform": "pchome_onsale"
-    },
-    {
       "title": "科沃斯T80 OMNI滾筒活水洗地機器人",
       "price": "$9,999",
       "image_url": "https://img.pchome.com.tw/cs/items/DMBL0LA900KBVKI/000007_1786513815.jpg?width=480",
@@ -191,6 +184,13 @@
       "price": "$711",
       "image_url": "https://img.pchome.com.tw/cs/cms/creatives/onsale/1a33dd3c-b9dd-4284-8f24-00a474e7227b.png?width=480",
       "url": "https://24h.pchome.com.tw/prod/DGCD15-A900KKO4X",
+      "platform": "pchome_onsale"
+    },
+    {
+      "title": "LG 樂金 12公升雙變頻除濕機",
+      "price": "$11,111",
+      "image_url": "https://img.pchome.com.tw/cs/items/DMBQ07A900I767E/000007_1761291101.jpg?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DMBQ07-A900I767E",
       "platform": "pchome_onsale"
     },
     {
@@ -384,14 +384,14 @@
     },
     {
       "title": "普利司通 T005EV-235/45/18吋四入組送安裝",
-      "price": "$7,794",
+      "price": "$7,589",
       "image_url": "https://img.pchome.com.tw/cs/items/DXBQ04A900JBVJC/000007_1759988197.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DXBQ04-A900JBVJC",
       "platform": "pchome_onsale"
     },
     {
       "title": "雅詩蘭黛 年輕無敵膠原霜 75ml",
-      "price": "$1,511",
+      "price": "$1,499",
       "image_url": "https://img.pchome.com.tw/cs/items/DDADP7A900IKHAH/000007_1790996831.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DDADP7-A900IKHAH",
       "platform": "pchome_onsale"
@@ -534,6 +534,20 @@
       "price": "$3,608",
       "image_url": "https://img.pchome.com.tw/cs/items/DBCRQ41900KMYSL/000007_1793269420.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DBCRQ4-1900KMYSL",
+      "platform": "pchome_onsale"
+    },
+    {
+      "title": "RAZER BlackShark V3 無線電競耳機",
+      "price": "$5,690",
+      "image_url": "https://img.pchome.com.tw/cs/items/DCAY0RA900K8TQZ/000007_1784709149.jpg?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DCAY0R-A900K8TQZ",
+      "platform": "pchome_onsale"
+    },
+    {
+      "title": "RAZER Viper V3 PRO 超輕量無線滑鼠",
+      "price": "$3,690",
+      "image_url": "https://img.pchome.com.tw/cs/items/DCBF01A900IUNKQ/000007_1747972289.jpg?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DCBF01-A900IUNKQ",
       "platform": "pchome_onsale"
     },
     {
@@ -805,7 +819,7 @@
     {
       "title": "小米65型 4K Mini LED 144Hz顯示器",
       "price": "$16,111",
-      "image_url": "https://img.pchome.com.tw/cs/items/DPADBU1900J077H/000007_1793000397.jpg?width=480",
+      "image_url": "https://img.pchome.com.tw/cs/items/DPADBU1900J077H/000007_1793476478.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DPADBU-1900J077H",
       "platform": "pchome_onsale"
     },
@@ -863,6 +877,20 @@
       "price": "$2,302",
       "image_url": "https://img.pchome.com.tw/cs/items/DAAU4Y1900IK6EH/000007_1744707098.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DAAU4Y-1900IK6EH",
+      "platform": "pchome_onsale"
+    },
+    {
+      "title": "RAZER x Blackpink 聯名套組",
+      "price": "$5,790",
+      "image_url": "https://img.pchome.com.tw/cs/items/DCBF2R1900K1VNO/000007_1779850999.jpg?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DCBF2R-1900K1VNO",
+      "platform": "pchome_onsale"
+    },
+    {
+      "title": "Harman Kardon SoundSticks 5 2.1水母喇叭",
+      "price": "$10,511",
+      "image_url": "https://img.pchome.com.tw/cs/items/DCAIRNA900JCUTV/000007_1788327529.jpg?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DCAIRN-A900JCUTV",
       "platform": "pchome_onsale"
     },
     {
@@ -1202,6 +1230,13 @@
       "platform": "pchome_onsale"
     },
     {
+      "title": "RAZER Iskur V2 電競椅",
+      "price": "$12,111",
+      "image_url": "https://img.pchome.com.tw/cs/items/DCBT0KA900JA1IM/000007_1774438541.jpg?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DCBT0K-A900JA1IM",
+      "platform": "pchome_onsale"
+    },
+    {
       "title": "蜂鳥ADAM 3 ULTRA 蛇型彎取可視掏耳棒",
       "price": "$1,480",
       "image_url": "https://img.pchome.com.tw/cs/items/DDBKDBA900IPETX/000007_1746413384.jpg?width=480",
@@ -1216,5 +1251,5 @@
       "platform": "pchome_onsale"
     }
   ],
-  "crawl_time": "2026-10-31 16:35:44"
+  "crawl_time": "2026-10-31 20:50:16"
 }
