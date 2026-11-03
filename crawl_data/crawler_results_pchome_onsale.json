@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-03T13:20:35.215511",
+  "timestamp": "2026-11-03T22:44:03.798477",
   "platform": "pchome_onsale",
   "keyword": "pchome_onsale",
   "total_products": 200,
@@ -937,7 +937,7 @@
     },
     {
       "title": "RAZER BlackShark V3 Pro無線電競耳機",
-      "price": "$6,990",
+      "price": "$6,151",
       "image_url": "https://img.pchome.com.tw/cs/items/DCAY0RA900KEKV7/000007_1788342948.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DCAY0R-A900KEKV7",
       "platform": "pchome_onsale"
@@ -986,14 +986,14 @@
     },
     {
       "title": "RAZER x BLACKPINK 聯名套組",
-      "price": "$14,111",
+      "price": "$14,999",
       "image_url": "https://img.pchome.com.tw/cs/items/DCBF2R1900JZKB2/000007_1782440189.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DCBF2R-1900JZKB2",
       "platform": "pchome_onsale"
     },
     {
       "title": "RAZER Viper V3 PRO超輕量無線滑鼠",
-      "price": "$3,690",
+      "price": "$3,071",
       "image_url": "https://img.pchome.com.tw/cs/items/DCBF01A900IUNKQ/000007_1747972289.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DCBF01-A900IUNKQ",
       "platform": "pchome_onsale"
@@ -1238,7 +1238,7 @@
     },
     {
       "title": "RAZER Viper V3 PRO超輕量無線滑鼠",
-      "price": "$3,690",
+      "price": "$3,071",
       "image_url": "https://img.pchome.com.tw/cs/items/DCBF01A900IUNKQ/000007_1747972289.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DCBF01-A900IUNKQ",
       "platform": "pchome_onsale"
@@ -1405,5 +1405,5 @@
       "platform": "pchome_onsale"
     }
   ],
-  "crawl_time": "2026-11-03 13:20:35"
+  "crawl_time": "2026-11-03 22:44:03"
 }
