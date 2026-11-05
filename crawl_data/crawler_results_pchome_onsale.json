@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-05T13:46:28.105395",
+  "timestamp": "2026-11-05T23:04:00.853444",
   "platform": "pchome_onsale",
   "keyword": "pchome_onsale",
   "total_products": 200,
@@ -490,7 +490,7 @@
     {
       "title": "技嘉 16吋i7-RTX5070電競筆電 (16G/512G)",
       "price": "$48,911",
-      "image_url": "https://img.pchome.com.tw/cs/items/DHAV8YA900K9ELG/000007_1793863656.jpg?width=480",
+      "image_url": "https://img.pchome.com.tw/cs/items/DHAV8YA900K9ELG/000007_1793886472.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DHAV8Y-A900K9ELG",
       "platform": "pchome_onsale"
     },
@@ -749,7 +749,7 @@
     {
       "title": "Avene 雅漾官方直營舒護活泉水-300mlx4入組",
       "price": "$1,199",
-      "image_url": "https://img.pchome.com.tw/cs/items/DDAFXE1900J5LCZ/000007_1793789923.jpg?width=480",
+      "image_url": "https://img.pchome.com.tw/cs/items/DDAFXE1900J5LCZ/000007_1793895357.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DDAFXE-1900J5LCZ",
       "platform": "pchome_onsale"
     },
@@ -860,7 +860,7 @@
     },
     {
       "title": "HyperX Cloud Alpha Wireless無線電競耳機",
-      "price": "$3,290",
+      "price": "$2,811",
       "image_url": "https://img.pchome.com.tw/cs/items/DCAYP8A900GJN83/000007_1690949625.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DCAYP8-A900GJN83",
       "platform": "pchome_onsale"
@@ -908,7 +908,7 @@
       "platform": "pchome_onsale"
     },
     {
-      "title": "SanDisk 256GB 記憶卡",
+      "title": "SanDisk Ultra GO 256GB 記憶卡",
       "price": "$1,411",
       "image_url": "https://img.pchome.com.tw/cs/items/DGAG0HA900JW093/000007_1775701828.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DGAG0H-A900JW093",
@@ -1405,5 +1405,5 @@
       "platform": "pchome_onsale"
     }
   ],
-  "crawl_time": "2026-11-05 13:46:28"
+  "crawl_time": "2026-11-05 23:04:00"
 }
