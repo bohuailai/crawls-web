@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-06T13:30:26.988895",
+  "timestamp": "2026-11-06T22:35:08.801629",
   "platform": "pchome_onsale",
   "keyword": "pchome_onsale",
   "total_products": 200,
@@ -357,7 +357,7 @@
     {
       "title": "ACER 14吋AI觸控筆電(Ultra 7/32G/512G)",
       "price": "$39,111",
-      "image_url": "https://img.pchome.com.tw/cs/items/DHAEIWA900JTNGS/000007_1793950159.jpg?width=480",
+      "image_url": "https://img.pchome.com.tw/cs/items/DHAEIWA900JTNGS/000007_1793984530.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DHAEIW-A900JTNGS",
       "platform": "pchome_onsale"
     },
@@ -537,8 +537,8 @@
       "platform": "pchome_onsale"
     },
     {
-      "title": "Choetech Qi2 10000mAh 磁吸三充座",
-      "price": "$990",
+      "title": "Choetech Qi2磁吸 帶支架10000mAh行動電源",
+      "price": "$960",
       "image_url": "https://img.pchome.com.tw/cs/items/DYAO44A900JV576/000007_1793929089.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DYAO44-A900JV576",
       "platform": "pchome_onsale"
@@ -600,15 +600,8 @@
       "platform": "pchome_onsale"
     },
     {
-      "title": "RAZER Huntsman V3 Pro TKL 8K 機械式鍵盤",
-      "price": "$5,990",
-      "image_url": "https://img.pchome.com.tw/cs/items/DCBF02A900JGHR3/000007_1763364352.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DCBF02-A900JGHR3",
-      "platform": "pchome_onsale"
-    },
-    {
       "title": "ROG Gjallar Soundbar 重低音喇叭",
-      "price": "$17,900",
+      "price": "$17,300",
       "image_url": "https://img.pchome.com.tw/cs/items/DCAIAMA900K9HQX/000007_1785209087.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DCAIAM-A900K9HQX",
       "platform": "pchome_onsale"
@@ -639,13 +632,6 @@
       "price": "$1,691",
       "image_url": "https://img.pchome.com.tw/cs/items/DIBMZ1A900KCTUM/000007_1793850662.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DIBMZ1-A900KCTUM",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "TCL 50吋 S5K QLED顯示器",
-      "price": "$8,999",
-      "image_url": "https://img.pchome.com.tw/cs/items/DPADT3A900JCZCP/000007_1789983461.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DPADT3-A900JCZCP",
       "platform": "pchome_onsale"
     },
     {
@@ -684,6 +670,20 @@
       "platform": "pchome_onsale"
     },
     {
+      "title": "雷蛇Huntsman V3 HE TKL 8K鍵盤(磁軸/中文)",
+      "price": "$4,790",
+      "image_url": "https://img.pchome.com.tw/cs/items/DCBF02A900KKMLR/000007_1791947353.jpg?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DCBF02-A900KKMLR",
+      "platform": "pchome_onsale"
+    },
+    {
+      "title": "Haier 海爾55型4K 120Hz DLG顯示器",
+      "price": "$9,999",
+      "image_url": "https://img.pchome.com.tw/cs/items/DPADLN1900KASB9/000007_1791789286.jpg?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DPADLN-1900KASB9",
+      "platform": "pchome_onsale"
+    },
+    {
       "title": "幫寶適一級幫紙尿褲X2箱",
       "price": "$1,778",
       "image_url": "https://img.pchome.com.tw/cs/items/DAAO4K1900K7R2S/000007_1793677494.jpg?width=480",
@@ -707,7 +707,7 @@
     {
       "title": "ACER 14吋AI觸控筆電(Ultra7/32G/512G)",
       "price": "$39,111",
-      "image_url": "https://img.pchome.com.tw/cs/items/DHAEIWA900JTNGS/000007_1793950159.jpg?width=480",
+      "image_url": "https://img.pchome.com.tw/cs/items/DHAEIWA900JTNGS/000007_1793984530.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DHAEIW-A900JTNGS",
       "platform": "pchome_onsale"
     },
@@ -838,7 +838,7 @@
       "platform": "pchome_onsale"
     },
     {
-      "title": "Gigastone 立達 1TB 遊戲記憶卡",
+      "title": "Gigastone 立達 EXPRESS 1TB 記憶卡",
       "price": "$6,999",
       "image_url": "https://img.pchome.com.tw/cs/items/DGAG52A900KJGOK/000007_1791275633.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DGAG52-A900KJGOK",
@@ -951,16 +951,9 @@
     },
     {
       "title": "RAZER BlackShark V3 Pro無線電競耳機",
-      "price": "$6,990",
+      "price": "$6,790",
       "image_url": "https://img.pchome.com.tw/cs/items/DCAY0RA900KEKV7/000007_1788342948.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DCAY0R-A900KEKV7",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "RAZER Huntsman V3 Pro TKL 8K 機械式鍵盤",
-      "price": "$5,990",
-      "image_url": "https://img.pchome.com.tw/cs/items/DCBF02A900JGHR3/000007_1763364352.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DCBF02-A900JGHR3",
       "platform": "pchome_onsale"
     },
     {
@@ -1007,7 +1000,7 @@
     },
     {
       "title": "海信65型120Hz HSR APPLE認證顯示器",
-      "price": "$12,999",
+      "price": "$12,111",
       "image_url": "https://img.pchome.com.tw/cs/items/DPAD98A900JX77S/000007_1793415684.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DPAD98-A900JX77S",
       "platform": "pchome_onsale"
@@ -1055,9 +1048,16 @@
       "platform": "pchome_onsale"
     },
     {
+      "title": "ROG Falchion Ace 75 HE 磁軸電競鍵盤",
+      "price": "$5,711",
+      "image_url": "https://img.pchome.com.tw/cs/items/DCAHH2A900KLHT9/000007_1792405504.jpg?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DCAHH2-A900KLHT9",
+      "platform": "pchome_onsale"
+    },
+    {
       "title": "ACER 14吋AI觸控筆電(Ultra7/32G/512G)",
       "price": "$39,111",
-      "image_url": "https://img.pchome.com.tw/cs/items/DHAEIWA900JTNGS/000007_1793950159.jpg?width=480",
+      "image_url": "https://img.pchome.com.tw/cs/items/DHAEIWA900JTNGS/000007_1793984530.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DHAEIW-A900JTNGS",
       "platform": "pchome_onsale"
     },
@@ -1286,13 +1286,6 @@
       "platform": "pchome_onsale"
     },
     {
-      "title": "RAZER Huntsman V3 Pro TKL 8K 機械式鍵盤",
-      "price": "$5,990",
-      "image_url": "https://img.pchome.com.tw/cs/items/DCBF02A900JGHR3/000007_1763364352.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DCBF02-A900JGHR3",
-      "platform": "pchome_onsale"
-    },
-    {
       "title": "華碩 Dual RTX 3060 V2 OC 12G 顯示卡",
       "price": "$11,990",
       "image_url": "https://img.pchome.com.tw/cs/items/DRADKY1900K8OOW/000007_1789351551.jpg?width=480",
@@ -1342,10 +1335,24 @@
       "platform": "pchome_onsale"
     },
     {
+      "title": "小米55吋QLED 120Hz APPLE認證顯示器",
+      "price": "$11,111",
+      "image_url": "https://img.pchome.com.tw/cs/items/DPADBU1900JU91X/000007_1774148880.jpg?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DPADBU-1900JU91X",
+      "platform": "pchome_onsale"
+    },
+    {
       "title": "適樂膚 水楊酸煥膚淨嫩潔膚露 473ml 2入",
       "price": "$1,188",
       "image_url": "https://img.pchome.com.tw/cs/items/DDCN001900KM1T9/000007_1793864808.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DDCN00-1900KM1T9",
+      "platform": "pchome_onsale"
+    },
+    {
+      "title": "RAZER Viper V3 PRO 超輕量無線滑鼠",
+      "price": "$3,490",
+      "image_url": "https://img.pchome.com.tw/cs/items/DCBF01A900IUNKQ/000007_1747972289.jpg?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DCBF01-A900IUNKQ",
       "platform": "pchome_onsale"
     },
     {
@@ -1356,14 +1363,7 @@
       "platform": "pchome_onsale"
     },
     {
-      "title": "LG 斜槓機 32吋 4K移動式觸控智慧螢幕",
-      "price": "$22,111",
-      "image_url": "https://img.pchome.com.tw/cs/items/DPADYEA900IYW9P/000007_1789919847.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DPADYE-A900IYW9P",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "美國探險家 20吋雙排靜音輪大容量行李箱",
+      "title": "美國探險家 25吋/29吋行李箱/胖胖箱",
       "price": "$1,111",
       "image_url": "https://img.pchome.com.tw/cs/items/DIBKTXA900HPOSP/000007_1793946552.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DIBKTX-A900HPOSP",
@@ -1384,13 +1384,6 @@
       "platform": "pchome_onsale"
     },
     {
-      "title": "夏普AQUOS 55型4K QLED VRR 144Hz顯示器",
-      "price": "$15,900",
-      "image_url": "https://img.pchome.com.tw/cs/items/DPADZMA900K0VK8/000007_1789919953.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DPADZM-A900K0VK8",
-      "platform": "pchome_onsale"
-    },
-    {
       "title": "Pierre Cardin 皮爾卡登機能休閒長褲",
       "price": "$799",
       "image_url": "https://img.pchome.com.tw/cs/items/DICUA0A900H98Q1/000007_1746588530.jpg?width=480",
@@ -1403,7 +1396,14 @@
       "image_url": "https://img.pchome.com.tw/cs/items/DYAT3T1900KCIM0/000007_1787026142.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DYAT3T-1900KCIM0",
       "platform": "pchome_onsale"
+    },
+    {
+      "title": "LG 樂金65型 4K QNED 70系列顯示器",
+      "price": "$17,911",
+      "image_url": "https://img.pchome.com.tw/cs/items/DPADYE1900JZSVQ/000007_1789987576.jpg?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DPADYE-1900JZSVQ",
+      "platform": "pchome_onsale"
     }
   ],
-  "crawl_time": "2026-11-06 13:30:26"
+  "crawl_time": "2026-11-06 22:35:08"
 }
