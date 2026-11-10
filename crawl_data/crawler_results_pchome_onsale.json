@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-09T14:47:39.930113",
+  "timestamp": "2026-11-10T01:00:29.836925",
   "platform": "pchome_onsale",
   "keyword": "pchome_onsale",
   "total_products": 199,
@@ -231,7 +231,7 @@
     {
       "title": "mimax 米覓65吋低藍光護眼無邊框顯示器",
       "price": "$9,999",
-      "image_url": "https://img.pchome.com.tw/cs/items/DPADFHA900KFPWR/000007_1790913708.jpg?width=480",
+      "image_url": "https://img.pchome.com.tw/cs/items/DPADFHA900KFPWR/000007_1794269649.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DPADFH-A900KFPWR",
       "platform": "pchome_onsale"
     },
@@ -287,7 +287,7 @@
     {
       "title": "BenQ 55型4K 144Hz Mini LED顯示器",
       "price": "$21,111",
-      "image_url": "https://img.pchome.com.tw/cs/items/DPAD0O1900JJY9D/000007_1790604992.jpg?width=480",
+      "image_url": "https://img.pchome.com.tw/cs/items/DPAD0O1900JJY9D/000007_1794270797.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DPAD0O-1900JJY9D",
       "platform": "pchome_onsale"
     },
@@ -700,7 +700,7 @@
     {
       "title": "TCL 65型 4K 全方位護眼低藍光顯示器",
       "price": "$16,911",
-      "image_url": "https://img.pchome.com.tw/cs/items/DPADT3A900K8OSF/000007_1792860861.jpg?width=480",
+      "image_url": "https://img.pchome.com.tw/cs/items/DPADT3A900K8OSF/000007_1794271763.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DPADT3-A900K8OSF",
       "platform": "pchome_onsale"
     },
@@ -847,7 +847,7 @@
     {
       "title": "海信65型 高階4K MiniLED 原生144Hz顯示器",
       "price": "$19,111",
-      "image_url": "https://img.pchome.com.tw/cs/items/DPAD981900KNZGL/000007_1793927582.jpg?width=480",
+      "image_url": "https://img.pchome.com.tw/cs/items/DPAD981900KNZGL/000007_1794247363.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DPAD98-1900KNZGL",
       "platform": "pchome_onsale"
     },
@@ -1190,7 +1190,7 @@
     {
       "title": "海信75型 高階4K 原生144Hz Mini LED顯示器",
       "price": "$27,111",
-      "image_url": "https://img.pchome.com.tw/cs/items/DPAD981900KNZTE/000007_1793902019.jpg?width=480",
+      "image_url": "https://img.pchome.com.tw/cs/items/DPAD981900KNZTE/000007_1794270027.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DPAD98-1900KNZTE",
       "platform": "pchome_onsale"
     },
@@ -1213,13 +1213,6 @@
       "price": "$9,121",
       "image_url": "https://img.pchome.com.tw/cs/items/DMBQ00A900JB360/000007_1765182281.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DMBQ00-A900JB360",
-      "platform": "pchome_onsale"
-    },
-    {
-      "title": "ASUS 16吋RTX5070 16G電競筆電",
-      "price": "$59,999",
-      "image_url": "https://img.pchome.com.tw/cs/items/DHAS87A900JLIT2/000007_1794203976.jpg?width=480",
-      "url": "https://24h.pchome.com.tw/prod/DHAS87-A900JLIT2",
       "platform": "pchome_onsale"
     },
     {
@@ -1262,6 +1255,13 @@
       "price": "$18,111",
       "image_url": "https://img.pchome.com.tw/cs/items/DMBJ00A900J5Q50/000007_1787035370.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DMBJ00-A900J5Q50",
+      "platform": "pchome_onsale"
+    },
+    {
+      "title": "ASUS 16吋RTX5070 16G電競筆電",
+      "price": "$59,999",
+      "image_url": "https://img.pchome.com.tw/cs/items/DHAS9DA900J3FD1/000007_1794236688.jpg?width=480",
+      "url": "https://24h.pchome.com.tw/prod/DHAS9D-A900J3FD1",
       "platform": "pchome_onsale"
     },
     {
@@ -1398,5 +1398,5 @@
       "platform": "pchome_onsale"
     }
   ],
-  "crawl_time": "2026-11-09 14:47:39"
+  "crawl_time": "2026-11-10 01:00:29"
 }
