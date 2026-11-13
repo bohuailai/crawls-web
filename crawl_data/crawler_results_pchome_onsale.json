@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-13T13:42:09.610919",
+  "timestamp": "2026-11-13T23:04:18.205360",
   "platform": "pchome_onsale",
   "keyword": "pchome_onsale",
   "total_products": 200,
@@ -523,7 +523,7 @@
       "platform": "pchome_onsale"
     },
     {
-      "title": "立達 512GB Type-C 雙頭行動固態硬碟",
+      "title": "立達 512GB Type-C 雙頭隨身碟",
       "price": "$1,799",
       "image_url": "https://img.pchome.com.tw/cs/items/DRAAKJA900IJA1Y/000007_1744172121.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DRAAKJ-A900IJA1Y",
@@ -1329,7 +1329,7 @@
     },
     {
       "title": "RAZER Iskur V2 X 電競椅",
-      "price": "$7,191",
+      "price": "$7,111",
       "image_url": "https://img.pchome.com.tw/cs/items/DCBT0KA900J1MLE/000007_1758272864.jpg?width=480",
       "url": "https://24h.pchome.com.tw/prod/DCBT0K-A900J1MLE",
       "platform": "pchome_onsale"
@@ -1405,5 +1405,5 @@
       "platform": "pchome_onsale"
     }
   ],
-  "crawl_time": "2026-11-13 13:42:09"
+  "crawl_time": "2026-11-13 23:04:18"
 }
